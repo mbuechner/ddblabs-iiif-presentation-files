@@ -1,0 +1,97 @@
+{"@id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB",
+ "@type":"sc:Manifest",
+ "@context":"http://iiif.io/api/presentation/2/context.json",
+ "label":"Zossen, Weinberge 57",
+ "license":{"@id":"http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/"},
+ "metadata":
+  [
+   {"label":"Objekttyp",
+   "value":"Baudenkmal"},
+   {"label":"Land",
+   "value":"Brandenburg"},
+   {"label":"Kreis",
+   "value":"Teltow-Fläming"},
+   {"label":"Ort",
+   "value":"Zossen"},
+   {"label":"Ortsteil",
+   "value":"Zossen"},
+   {"label":"Straße und Hausnummer",
+   "value":"Weinberge 57"},
+   {"label":"Beschreibung",
+   "value":"Kreiskrankenhaus, bestehend aus Hauptgebäude, Nebengebäude, Leichenhalle, neuem Bettenhaus und Einfriedung - Neues Bettenhaus"},
+   {"label":"Datierung",
+   "value":"1956"},
+   {"label":"Rechteinformation",
+   "value":"BLDAM"}
+  ],
+  "thumbnail":{"@id":"https://labs.ddb.de/app/iiif-image/2/be9b37ca-7a53-4b65-b085-05407d54ad07/full/full/0/default.jpg"},
+  "sequences":[
+  {"@id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/sequence/s1",
+    "@type":"sc:Sequence",
+    "canvases":[
+    {"@id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/canvas1",
+    "@type":"sc:Canvas",
+    "label":"Hauptgebäude",
+    "height":"3000",
+    "width":"4000",
+    "images":[{"@id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/image1",
+    "@type":"oa:Annotation",
+    "motivation":"sc:painting",
+    "resource":{
+        "@id":"https://labs.ddb.de/app/iiif-image/2/be9b37ca-7a53-4b65-b085-05407d54ad07/full/full/0/default.jpg",
+        "@type":"dctypes:Image",
+        "format":"image/jpeg",
+        "height":"3000",
+        "width":"4000",
+        "service":
+        {"@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
+         "profile": "http://iiif.io/api/image/2/level2.json"}
+    }
+    }  
+    ]
+    },
+    {"@id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/canvas2",
+    "@type":"sc:Canvas",
+    "label":"Leichenhalle",
+    "height":"3000",
+    "width":"4000",
+    "images":[{"@id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/image2",
+    "@type":"oa:Annotation",
+    "motivation":"sc:painting",
+    "resource":{
+        "@id":"https://labs.ddb.de/app/iiif-image/2/fa2ae348-5747-4661-b0b5-53a4a7e8a54b/full/full/0/default.jpg",
+        "@type":"dctypes:Image",
+        "format":"image/jpeg",
+        "height":"3000",
+        "width":"4000",
+        "service":
+        {"@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
+         "profile": "http://iiif.io/api/image/2/level2.json"}
+    }
+    }  
+    ]
+    }
+    
+    
+    ],
+    "structures":[
+    {"id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/range1",
+    "@type":"sc:Range",
+    "label":"voll krank im Winter",
+    "canvases":["https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/canvas1"]}
+    
+    ],      
+        "structures":[
+    {"id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/range2",
+    "@type":"sc:Range",
+    "label":"Bitter war das Ende",
+    "canvases":["https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/canvas2"]}
+    
+    ]      
+    }
+  
+  
+  ]
+}
