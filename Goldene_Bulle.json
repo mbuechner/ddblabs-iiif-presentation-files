@@ -109,18 +109,46 @@
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://labs.ddb.de/app/iiif-image/2/b93c8277-dc6c-4ffe-af1b-192868285491/full/full/0/default.jpg",
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/b93c8277-dc6c-4ffe-af1b-192868285491/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 400,
                                 "width": 600,
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://labs.ddb.de/app/iiif-image/2/b93c8277-dc6c-4ffe-af1b-192868285491",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/b93c8277-dc6c-4ffe-af1b-192868285491",
                                     "profile": "http://iiif.io/api/image/2/level1.json"
                                 }
                             },
                             "on": "http://73fad018-cf2b-4c4f-9ac6-e1eb39852a36"
+                        }
+                    ]
+                },
+                
+                {
+                    "@id": "http://779aa500-fa40-44b2-8669-b01a5197c3b3",
+                    "@type": "sc:Canvas",
+                    "label": "2",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "http://4c5cf891-bdc1-4ce7-89aa-be0db37f7d92",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/778ad780-2547-4ed9-b7b2-72ea733e053a/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/778ad780-2547-4ed9-b7b2-72ea733e053a",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            },
+                            "on": "http://779aa500-fa40-44b2-8669-b01a5197c3b3"
                         }
                     ]
                 }
@@ -133,6 +161,12 @@
             "@type": "sc:Canvas",
             "label": "Schmuckkassette",
             "canvases": ["http://73fad018-cf2b-4c4f-9ac6-e1eb39852a36"]
+        },
+        {
+            "@id": "http://13d3f0a0-59bf-4b60-bb67-7575fc4f02de",
+            "@type": "sc:Canvas",
+            "label": "Einband Vorderseite",
+            "canvases": ["http://779aa500-fa40-44b2-8669-b01a5197c3b3"]
         }
     ]
 }
