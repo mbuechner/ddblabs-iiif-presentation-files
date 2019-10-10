@@ -1,0 +1,131 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://www.deutsche-digitale-bibliothek.de/item/BGISQUG3F43FTFNBQ64YUGJGX4KYUQQ4",
+    "@type": "sc:Manifest",
+    "label": "Kaiser Karl publiziert die ersten dreiundzwanzig Kapitel der Goldenen Bulle.",
+    "metadata": [
+        {
+            "label": "Titel",
+            "value": "Kaiser Karl publiziert die ersten dreiundzwanzig Kapitel der Goldenen Bulle.",
+            "language": "de"
+        },
+        {
+            "label": "Signatur",
+            "value": "Landesarchiv Baden-Württemberg, Abt. Hauptstaatsarchiv Stuttgart, H 51 U 589"
+        },
+        {
+            "label": "Kontext",
+            "value": "Kaiserselekt >> Urkunden"
+        },
+        {
+            "label": "Laufzeit",
+            "value": "1356 Januar 10"
+        },
+        {
+            "label": "Provenienz",
+            "value": "Römische Kaiser und Könige "
+        },
+        {
+            "label": "Archivalientyp",
+            "value": "Urkunden"
+        },
+        {
+            "label": "Sprache der Unterlagen",
+            "value": "Lateinisch"
+        },
+        {
+            "label": "Sonstige Erschließungsangaben",
+            "value": "Ausstellungsort: Nürnberg<br>Aussteller: Karl IV., Kaiser<br>Überlieferungsart: Ausfertigung<br>Siegelbeschreibung: Goldene Bulle<br>Besonderheiten: Libell mit 27 beschriebenen Blättern. Trierisches Exemplar.<br>Druck: MFG Fontes Iuris 11<br>Publiziertes Regest: RI VIII n. 2397"
+        },
+        {
+            "label": "Indexbegriff Person",
+            "value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/person/gnd/118560085\">Karl IV.; Kaiser, 1316-1378<\/a>"
+        },
+        {
+            "label": "Indexbegriff Person",
+            "value": "Trier, Erzbischof von"
+        },
+        {
+            "label": "Indexbegriff Ort",
+            "value": "Nürnberg N"
+        },
+        {
+            "label": "Bestand",
+            "value": "Landesarchiv Baden-Württemberg, Abt. Hauptstaatsarchiv Stuttgart, H 51 Kaiserselekt"
+        },
+        {
+            "label": "Rechteinformation",
+            "value": "Es gelten die <a href=\"http://www.landesarchiv-bw.de/nutzungsbedingungen\">Nutzungsbedingungen<\/a> des Landesarchivs Baden-Württemberg."
+        },
+        {
+            "label": "Rechtsstatus",
+            "value": "Namensnennung 3.0 Deutschland"
+        }
+    ],
+    "license": "http://creativecommons.org/licenses/by/3.0/de/",
+    "logo": "https://iiif.deutsche-digitale-bibliothek.de/image/2/c4dbe8a0-5c36-4e41-9db1-f8291dae73e3/full/!116,87/0/default.jpg",
+    "attribution": "Landesarchiv Baden-Württemberg",
+    "related": [
+        {
+            "@id": "https://www.landesarchiv-bw.de/plink/?f=1-1263080",
+            "format": "text/html",
+            "label": "Link zum Objekt beim Datengeber"
+        },
+        {
+            "@id": "https://www.landesarchiv-bw.de/plink/?f=1-2604&a=fb",
+            "format": "text/html",
+            "label": "Online-Findbuch im Angebot des Archivs"
+        }
+    ],
+    "seeAlso": [
+        {
+            "@id": "https://www.deutsche-digitale-bibliothek.de/item/xml/BGISQUG3F43FTFNBQ64YUGJGX4KYUQQ4",
+            "format": "application/xml",
+            "profile": "http://www.europeana.eu/schemas/edm/EDM.xsd"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "http://3c80d3e9-e82d-4641-8f09-fe605a068661",
+            "@type": "sc:Sequence",
+            "viewingHint": "paged",
+            "canvases": [
+                {
+                    "@id": "http://73fad018-cf2b-4c4f-9ac6-e1eb39852a36",
+                    "@type": "sc:Canvas",
+                    "label": "1",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "http://e55a9a84-0f55-4689-89e8-6d4bac206aa8",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/2/b93c8277-dc6c-4ffe-af1b-192868285491/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/2/b93c8277-dc6c-4ffe-af1b-192868285491",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            },
+                            "on": "http://73fad018-cf2b-4c4f-9ac6-e1eb39852a36"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "@id": "http://8feb99b3-c350-4b8e-a35f-e22a249557a8",
+            "@type": "sc:Canvas",
+            "label": "Schmuckkassette",
+            "canvases": ["http://73fad018-cf2b-4c4f-9ac6-e1eb39852a36"]
+        }
+    ]
+}
