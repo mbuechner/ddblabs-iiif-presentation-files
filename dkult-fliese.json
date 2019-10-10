@@ -23,7 +23,7 @@
         },
         {
             "label": "<a href=\"http://ddb.vocnet.org/label/lab01022\">Beteiligte Personen und Organisationen<\/a>",
-            "value": "<a href=\\\"https://www.deutsche-digitale-bibliothek.de/organization/gnd/2149866-0\\\">Villeroy-&-Boch-Aktiengesellschaft<\/a>"
+            "value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/gnd/2149866-0\">Villeroy &amp; Boch-Aktiengesellschaft<\/a>"
         },
         {
             "label": "<a href=\"http://ddb.vocnet.org/label/lab01054\">Beschriftung<\/a>",
@@ -284,11 +284,20 @@
             }
         ]
     }],
-    "structures": [],
+    "structures": [{
+        "@id": "http://679b4f5f-98ac-49b4-afaa-07d26b143c0a",
+        "@type": "sc:Range",
+        "label": "Fliesenreihe",
+        "canvases": [
+            "http://6a1301a2-001f-4b49-8168-09a8106cdfec",
+            "http://c1b84b95-f19d-495a-be9d-89bd75dcfed1",
+            "http://d81dfba4-0506-4513-b3b5-5c3b3140fcef"
+        ]
+    }],
     "thumbnail": {"@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"},
     "logo": "https://labs.ddb.de/app/iiif-image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
     "attribution": {
-        "@value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/6KIBP2IUJLHLDFDZ2LNFZID3Q5XRPXFL\">Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf <\/a>",
+        "@value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/6KIBP2IUJLHLDFDZ2LNFZID3Q5XRPXFL\">Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf<\/a>",
         "@language": "zxx"
     },
     "label": [
