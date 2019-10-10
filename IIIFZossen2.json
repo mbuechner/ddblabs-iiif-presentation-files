@@ -82,10 +82,8 @@
     {"id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/range1",
     "@type":"sc:Range",
     "label":"voll krank im Winter",
-    "canvases":["https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/canvas1"]}
+    "canvases":["https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/canvas1"]},
     
-    ],      
-        "structures":[
     {"id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/range2",
     "@type":"sc:Range",
     "label":"Bitter war das Ende",
