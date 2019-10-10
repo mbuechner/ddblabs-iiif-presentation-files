@@ -1,0 +1,173 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://b65b1a04-e5f3-4010-9fa0-a96019f6ef8e",
+	"@type": "sc:Manifest",
+	"metadata": [
+		{
+			"label": "Titel Ausgabe",
+			"value": "Zurückgekommene Zeitungen "
+		},
+		{
+			"label": "Erschienen in:",
+			"value": "Allgemeine Uhrmacher-Zeitung ; 20.1907"
+		}
+	],
+	"description": [
+		{
+			"@value": "Zurückgekommene Zeitungen",
+			"@language": "de"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+	"attribution": "Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden ",
+	"sequences": [
+		{
+			"@id": "http://11ddb425-2713-408b-b156-9bc2e231de63",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "http://2657fe63-9c7f-4d36-8a67-73e677ed215a",
+					"@type": "sc:Canvas",
+					"label": "1",
+					"height": 330,
+					"width": 235,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://958fb30d-f706-476d-ab68-88d9a830f3c5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://labs.ddb.de/app/iiif-image/2/0856a0fb-968c-4901-b72f-485612d0602d/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://labs.ddb.de/app/iiif-image/2/0856a0fb-968c-4901-b72f-485612d0602d",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 330,
+								"width": 235
+							},
+							"on": "http://2657fe63-9c7f-4d36-8a67-73e677ed215a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://2c411c4d-93be-492f-8460-3ce6b4fa17db",
+					"@type": "sc:Canvas",
+					"label": "2",
+					"height": 330,
+					"width": 235,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://66c77487-c1d9-40f8-8efb-7a01e8f24ee9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://labs.ddb.de/app/iiif-image/2/ac4d3273-9ef9-4d4e-abf6-3b143f17747e/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://labs.ddb.de/app/iiif-image/2/ac4d3273-9ef9-4d4e-abf6-3b143f17747e",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 330,
+								"width": 235
+							},
+							"on": "http://2c411c4d-93be-492f-8460-3ce6b4fa17db"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right",
+	"thumbnail": {
+		"@id": "http://2657fe63-9c7f-4d36-8a67-73e677ed215a"
+	}
+}
