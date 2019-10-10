@@ -1,0 +1,304 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://7691cc72-a82f-49b6-bc7f-b01cb950cac4",
+    "@type": "sc:Manifest",
+    "metadata": [
+        {
+            "label": "<a href=\"http://ddb.vocnet.org/label/lab01002\">Maße<\/a>",
+            "value": {
+                "@value": "(H x B): 15 x 15 cm",
+                "@language": "de"
+            }
+        },
+        {
+            "label": "<a href=\"http://ddb.vocnet.org/label/lab01051\">Beschreibung<\/a>",
+            "value": "Fliese, Keramik, Villeroy & Boch, Mettlach, um 1900<br/>Fliese mit Dekor in Grün, Weiß und hellem Gelb, das sich über die Grenzen der Fliese fortsetzt. Ebenfalls zu beachten sind daher die Inventarnummern HM.1978-187b und c. "
+        },
+        {
+            "label": "<a href=\"http://ddb.vocnet.org/label/lab01005\">Material/Technik<\/a>",
+            "value": {
+                "@value": "Keramik, gepresst, glasiert",
+                "@language": "de"
+            }
+        },
+        {
+            "label": "<a href=\"http://ddb.vocnet.org/label/lab01022\">Beteiligte Personen und Organisationen<\/a>",
+            "value": "<a href=\\\"https://www.deutsche-digitale-bibliothek.de/organization/gnd/2149866-0\\\">Villeroy-&-Boch-Aktiengesellschaft<\/a>"
+        },
+        {
+            "label": "<a href=\"http://ddb.vocnet.org/label/lab01054\">Beschriftung<\/a>",
+            "value": {
+                "@value": "Stempel/Zeichen: rückseitig: Ursprungsstempel, gepresst ",
+                "@language": "de"
+            }
+        },
+        {
+            "label": "<a href=\"http://ddb.vocnet.org/label/lab01010\">Klassifikation<\/a>",
+            "value": {
+                "@value": "Keramik (Sachgruppe)",
+                "@language": "de"
+            }
+        },
+        {
+            "label": "<a href=\"http://ddb.vocnet.org/label/lab01045\">Standort<\/a>",
+            "value": "Hetjens-Museum, Düsseldorf"
+        }
+    ],
+    "description": {
+        "@value": "Fliese, Keramik, Villeroy & Boch, Mettlach, um 1900 Fliese mit Dekor in Grün, Weiß und hellem Gelb, das sich über die Grenzen der Fliese fortsetzt. Ebenfalls zu beachten sind daher die Inventarnummern HM.1978-187a und b.",
+        "@language": "de"
+    },
+    "license": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/",
+    "sequences": [{
+        "@id": "http://32ce6218-4460-4e8d-87fc-bf1aa5b05a54",
+        "@type": "sc:Sequence",
+        "label": "Normal Sequence",
+        "canvases": [
+            {
+                "@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec",
+                "@type": "sc:Canvas",
+                "label": "HM.1978-187a",
+                "height": 600,
+                "width": 400,
+                "images": [{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "http://367b0c50-5922-4c81-a2aa-a552d88e22d6",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://labs.ddb.de/app/iiif-image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://labs.ddb.de/app/iiif-image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
+                            "profile": [
+                                "http://iiif.io/api/image/2/level2.json",
+                                {
+                                    "formats": [
+                                        "jpg",
+                                        "tif",
+                                        "gif",
+                                        "png"
+                                    ],
+                                    "maxArea": 400000000,
+                                    "qualities": [
+                                        "bitonal",
+                                        "default",
+                                        "gray",
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "regionByPx",
+                                        "sizeByW",
+                                        "sizeByWhListed",
+                                        "cors",
+                                        "regionSquare",
+                                        "sizeByDistortedWh",
+                                        "sizeAboveFull",
+                                        "canonicalLinkHeader",
+                                        "sizeByConfinedWh",
+                                        "sizeByPct",
+                                        "jsonldMediaType",
+                                        "regionByPct",
+                                        "rotationArbitrary",
+                                        "sizeByH",
+                                        "baseUriRedirect",
+                                        "rotationBy90s",
+                                        "profileLinkHeader",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "mirroring"
+                                    ]
+                                }
+                            ]
+                        },
+                        "height": 600,
+                        "width": 400
+                    },
+                    "on": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"
+                }],
+                "related": "https://www.duesseldorf.de/dkult/DE-MUS-037918/532872",
+                "metadata": [
+                    {
+                        "label": "<a href=\"http://ddb.vocnet.org/label/lab01031\">Inventarnummer<\/a>",
+                        "value": "HM.1978-187a"
+                    },
+                    {
+                        "label": "<a href=\"http://ddb.vocnet.org/glossar/glos0039\">Rechtsstatus<\/a>",
+                        "value": "Hetjens-Museum, Fotograf: Horst Kolberg, 2013"
+                    }
+                ]
+            },
+            {
+                "@id": "http://ed2792af-ffcc-46e9-a46f-a5c46aa738e1",
+                "@type": "sc:Canvas",
+                "label": "HM.1978-187b",
+                "height": 600,
+                "width": 400,
+                "images": [{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "http://c1b84b95-f19d-495a-be9d-89bd75dcfed1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://labs.ddb.de/app/iiif-image/2/aef5359e-773a-4f42-9270-7501fbc44706/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://labs.ddb.de/app/iiif-image/2/aef5359e-773a-4f42-9270-7501fbc44706",
+                            "profile": [
+                                "http://iiif.io/api/image/2/level2.json",
+                                {
+                                    "formats": [
+                                        "jpg",
+                                        "tif",
+                                        "gif",
+                                        "png"
+                                    ],
+                                    "maxArea": 400000000,
+                                    "qualities": [
+                                        "bitonal",
+                                        "default",
+                                        "gray",
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "regionByPx",
+                                        "sizeByW",
+                                        "sizeByWhListed",
+                                        "cors",
+                                        "regionSquare",
+                                        "sizeByDistortedWh",
+                                        "sizeAboveFull",
+                                        "canonicalLinkHeader",
+                                        "sizeByConfinedWh",
+                                        "sizeByPct",
+                                        "jsonldMediaType",
+                                        "regionByPct",
+                                        "rotationArbitrary",
+                                        "sizeByH",
+                                        "baseUriRedirect",
+                                        "rotationBy90s",
+                                        "profileLinkHeader",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "mirroring"
+                                    ]
+                                }
+                            ]
+                        },
+                        "height": 600,
+                        "width": 400
+                    },
+                    "on": "http://ed2792af-ffcc-46e9-a46f-a5c46aa738e1"
+                }],
+                "related": "https://www.duesseldorf.de/dkult/DE-MUS-037918/532868",
+                "metadata": [
+                    {
+                        "label": "<a href=\"http://ddb.vocnet.org/label/lab01031\">Inventarnummer<\/a>",
+                        "value": "HM.1978-187b"
+                    },
+                    {
+                        "label": "<a href=\"http://ddb.vocnet.org/glossar/glos0039\">Rechtsstatus<\/a>",
+                        "value": "Hetjens-Museum, Fotograf: Horst Kolberg, 2013"
+                    }
+                ]
+            },
+            {
+                "@id": "http://f0a4b780-d194-47e7-9e4d-feefbfbe1666",
+                "@type": "sc:Canvas",
+                "label": "HM.1978-187c",
+                "height": 600,
+                "width": 400,
+                "images": [{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "http://d81dfba4-0506-4513-b3b5-5c3b3140fcef",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
+                            "profile": [
+                                "http://iiif.io/api/image/2/level2.json",
+                                {
+                                    "formats": [
+                                        "jpg",
+                                        "tif",
+                                        "gif",
+                                        "png"
+                                    ],
+                                    "maxArea": 400000000,
+                                    "qualities": [
+                                        "bitonal",
+                                        "default",
+                                        "gray",
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "regionByPx",
+                                        "sizeByW",
+                                        "sizeByWhListed",
+                                        "cors",
+                                        "regionSquare",
+                                        "sizeByDistortedWh",
+                                        "sizeAboveFull",
+                                        "canonicalLinkHeader",
+                                        "sizeByConfinedWh",
+                                        "sizeByPct",
+                                        "jsonldMediaType",
+                                        "regionByPct",
+                                        "rotationArbitrary",
+                                        "sizeByH",
+                                        "baseUriRedirect",
+                                        "rotationBy90s",
+                                        "profileLinkHeader",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "mirroring"
+                                    ]
+                                }
+                            ]
+                        },
+                        "height": 600,
+                        "width": 400
+                    },
+                    "on": "http://f0a4b780-d194-47e7-9e4d-feefbfbe1666"
+                }],
+                "related": "https://www.duesseldorf.de/dkult/DE-MUS-037918/532871",
+                "metadata": [
+                    {
+                        "label": "<a href=\"http://ddb.vocnet.org/label/lab01031\">Inventarnummer<\/a>",
+                        "value": "HM.1978-187c"
+                    },
+                    {
+                        "label": "<a href=\"http://ddb.vocnet.org/glossar/glos0039\">Rechtsstatus<\/a>",
+                        "value": "Hetjens-Museum, Fotograf: Horst Kolberg, 2013"
+                    }
+                ]
+            }
+        ]
+    }],
+    "structures": [],
+    "thumbnail": {"@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"},
+    "logo": "https://labs.ddb.de/app/iiif-image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
+    "attribution": {
+        "@value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/6KIBP2IUJLHLDFDZ2LNFZID3Q5XRPXFL\">Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf <\/a>",
+        "@language": "zxx"
+    },
+    "label": [
+        {
+            "@value": "Fliese",
+            "@language": "de"
+        },
+        {
+            "@value": "Tile",
+            "@language": "en"
+        }
+    ]
+}
