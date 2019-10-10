@@ -148,46 +148,7 @@
                         "service": {
                             "@context": "http://iiif.io/api/image/2/context.json",
                             "@id": "https://labs.ddb.de/app/iiif-image/2/aef5359e-773a-4f42-9270-7501fbc44706",
-                            "profile": [
-                                "http://iiif.io/api/image/2/level2.json",
-                                {
-                                    "formats": [
-                                        "jpg",
-                                        "tif",
-                                        "gif",
-                                        "png"
-                                    ],
-                                    "maxArea": 400000000,
-                                    "qualities": [
-                                        "bitonal",
-                                        "default",
-                                        "gray",
-                                        "color"
-                                    ],
-                                    "supports": [
-                                        "regionByPx",
-                                        "sizeByW",
-                                        "sizeByWhListed",
-                                        "cors",
-                                        "regionSquare",
-                                        "sizeByDistortedWh",
-                                        "sizeAboveFull",
-                                        "canonicalLinkHeader",
-                                        "sizeByConfinedWh",
-                                        "sizeByPct",
-                                        "jsonldMediaType",
-                                        "regionByPct",
-                                        "rotationArbitrary",
-                                        "sizeByH",
-                                        "baseUriRedirect",
-                                        "rotationBy90s",
-                                        "profileLinkHeader",
-                                        "sizeByForcedWh",
-                                        "sizeByWh",
-                                        "mirroring"
-                                    ]
-                                }
-                            ]
+                            "profile": "http://iiif.io/api/image/2/level2.json"
                         },
                         "height": 800,
                         "width": 600
@@ -224,46 +185,7 @@
                         "service": {
                             "@context": "http://iiif.io/api/image/2/context.json",
                             "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
-                            "profile": [
-                                "http://iiif.io/api/image/2/level2.json",
-                                {
-                                    "formats": [
-                                        "jpg",
-                                        "tif",
-                                        "gif",
-                                        "png"
-                                    ],
-                                    "maxArea": 400000000,
-                                    "qualities": [
-                                        "bitonal",
-                                        "default",
-                                        "gray",
-                                        "color"
-                                    ],
-                                    "supports": [
-                                        "regionByPx",
-                                        "sizeByW",
-                                        "sizeByWhListed",
-                                        "cors",
-                                        "regionSquare",
-                                        "sizeByDistortedWh",
-                                        "sizeAboveFull",
-                                        "canonicalLinkHeader",
-                                        "sizeByConfinedWh",
-                                        "sizeByPct",
-                                        "jsonldMediaType",
-                                        "regionByPct",
-                                        "rotationArbitrary",
-                                        "sizeByH",
-                                        "baseUriRedirect",
-                                        "rotationBy90s",
-                                        "profileLinkHeader",
-                                        "sizeByForcedWh",
-                                        "sizeByWh",
-                                        "mirroring"
-                                    ]
-                                }
-                            ]
+                            "profile": "http://iiif.io/api/image/2/level2.json"
                         },
                         "height": 800,
                         "width": 600
