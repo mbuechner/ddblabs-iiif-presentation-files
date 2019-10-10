@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://7691cc72-a82f-49b6-bc7f-b01cb950cac4",
+    "@id": "https://labs.ddb.de/app/iiif-presentation/api/file?f=dkult-fliese.json",
     "@type": "sc:Manifest",
     "metadata": [
         {
