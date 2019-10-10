@@ -84,6 +84,13 @@
             "profile": "http://www.europeana.eu/schemas/edm/EDM.xsd"
         }
     ],
+    "rendering": [
+        {
+            "@id": "http://dfg-viewer.de/show/?tx_dlf[id]=https%3A%2F%2Fwww.landesarchiv-bw.de%2Fdfgviewer%2Fmods1-1263080.xml",
+            "label": "Objekt im DFG-Viewer anzeigen",
+            "format": "text/html"
+        }
+    ],
     "sequences": [
         {
             "@id": "http://3c80d3e9-e82d-4641-8f09-fe605a068661",
