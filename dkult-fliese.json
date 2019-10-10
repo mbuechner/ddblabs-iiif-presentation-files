@@ -291,7 +291,7 @@
         "canvases": [
             "http://6a1301a2-001f-4b49-8168-09a8106cdfec",
             "http://c1b84b95-f19d-495a-be9d-89bd75dcfed1",
-            "http://d81dfba4-0506-4513-b3b5-5c3b3140fcef"
+            "http://d81dfba4-0506-4513-b3b5-5c3b3140fcef",
         ]
     }],
     "thumbnail": {"@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"},
