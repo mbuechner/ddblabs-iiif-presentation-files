@@ -24,7 +24,7 @@
    {"label":"Rechteinformation",
    "value":"BLDAM"}
   ],
-  "thumbnail":{"@id":"https://labs.ddb.de/app/iiif-image/2/be9b37ca-7a53-4b65-b085-05407d54ad07/full/full/0/default.jpg"},
+  "thumbnail":{"@id":"https://labs.ddb.de/app/iiif-image/iiif/2/be9b37ca-7a53-4b65-b085-05407d54ad07/full/full/0/default.jpg"},
   "sequences":[
   {"@id":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/sequence/s1",
     "@type":"sc:Sequence",
@@ -39,7 +39,7 @@
     "motivation":"sc:painting",
     "on":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/canvas1",           
     "resource":{
-        "@id":"https://labs.ddb.de/app/iiif-image/2/be9b37ca-7a53-4b65-b085-05407d54ad07/full/full/0/default.jpg",
+        "@id":"https://labs.ddb.de/app/iiif-image/iiif/2/be9b37ca-7a53-4b65-b085-05407d54ad07/full/full/0/default.jpg",
         "@type":"dctypes:Image",
         "format":"image/jpeg",
         "height":3000,
@@ -62,7 +62,7 @@
     "motivation":"sc:painting",
     "on":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/canvas2",           
     "resource":{
-        "@id":"https://labs.ddb.de/app/iiif-image/2/fa2ae348-5747-4661-b0b5-53a4a7e8a54b/full/full/0/default.jpg",
+        "@id":"https://labs.ddb.de/app/iiif-image/iiif/2/fa2ae348-5747-4661-b0b5-53a4a7e8a54b/full/full/0/default.jpg",
         "@type":"dctypes:Image",
         "format":"image/jpeg",
         "height":3000,
