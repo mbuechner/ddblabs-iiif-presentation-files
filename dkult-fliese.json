@@ -58,8 +58,8 @@
                 "@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec",
                 "@type": "sc:Canvas",
                 "label": "HM.1978-187a",
-                "height": 600,
-                "width": 400,
+                "height": 800,
+                "width": 600,
                 "images": [{
                     "@context": "http://iiif.io/api/presentation/2/context.json",
                     "@id": "http://367b0c50-5922-4c81-a2aa-a552d88e22d6",
@@ -113,8 +113,8 @@
                                 }
                             ]
                         },
-                        "height": 600,
-                        "width": 400
+                        "height": 800,
+                        "width": 600
                     },
                     "on": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"
                 }],
@@ -134,8 +134,8 @@
                 "@id": "http://ed2792af-ffcc-46e9-a46f-a5c46aa738e1",
                 "@type": "sc:Canvas",
                 "label": "HM.1978-187b",
-                "height": 600,
-                "width": 400,
+                "height": 800,
+                "width": 600,
                 "images": [{
                     "@context": "http://iiif.io/api/presentation/2/context.json",
                     "@id": "http://c1b84b95-f19d-495a-be9d-89bd75dcfed1",
@@ -189,8 +189,8 @@
                                 }
                             ]
                         },
-                        "height": 600,
-                        "width": 400
+                        "height": 800,
+                        "width": 600
                     },
                     "on": "http://ed2792af-ffcc-46e9-a46f-a5c46aa738e1"
                 }],
@@ -210,8 +210,8 @@
                 "@id": "http://f0a4b780-d194-47e7-9e4d-feefbfbe1666",
                 "@type": "sc:Canvas",
                 "label": "HM.1978-187c",
-                "height": 600,
-                "width": 400,
+                "height": 800,
+                "width": 600,
                 "images": [{
                     "@context": "http://iiif.io/api/presentation/2/context.json",
                     "@id": "http://d81dfba4-0506-4513-b3b5-5c3b3140fcef",
@@ -265,8 +265,8 @@
                                 }
                             ]
                         },
-                        "height": 600,
-                        "width": 400
+                        "height": 800,
+                        "width": 600
                     },
                     "on": "http://f0a4b780-d194-47e7-9e4d-feefbfbe1666"
                 }],
@@ -291,7 +291,7 @@
         "canvases": [
             "http://6a1301a2-001f-4b49-8168-09a8106cdfec",
             "http://c1b84b95-f19d-495a-be9d-89bd75dcfed1",
-            "http://d81dfba4-0506-4513-b3b5-5c3b3140fcef",
+            "http://d81dfba4-0506-4513-b3b5-5c3b3140fcef"
         ]
     }],
     "thumbnail": {"@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"},
