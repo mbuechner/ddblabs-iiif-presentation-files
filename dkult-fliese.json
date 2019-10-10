@@ -66,14 +66,14 @@
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
-                        "@id": "https://labs.ddb.de/app/iiif-image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/full/0/default.jpg",
+                        "@id": "https://labs.ddb.de/app/iiifimage/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/full/0/default.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
                         "height": 800,
                         "width": 600,
                         "service": {
                             "@context": "http://iiif.io/api/image/2/context.json",
-                            "@id": "https://labs.ddb.de/app/iiif-image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
+                            "@id": "https://labs.ddb.de/app/iiifimage/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
@@ -103,14 +103,14 @@
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
-                        "@id": "https://labs.ddb.de/app/iiif-image/2/aef5359e-773a-4f42-9270-7501fbc44706/full/full/0/default.jpg",
+                        "@id": "https://labs.ddb.de/app/iiifimage/2/aef5359e-773a-4f42-9270-7501fbc44706/full/full/0/default.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
                         "height": 800,
                         "width": 600,
                         "service": {
                             "@context": "http://iiif.io/api/image/2/context.json",
-                            "@id": "https://labs.ddb.de/app/iiif-image/2/aef5359e-773a-4f42-9270-7501fbc44706",
+                            "@id": "https://labs.ddb.de/app/iiifimage/2/aef5359e-773a-4f42-9270-7501fbc44706",
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
@@ -140,14 +140,14 @@
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
-                        "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d/full/full/0/default.jpg",
+                        "@id": "https://labs.ddb.de/app/iiifimage/2/ff7d6194-77dd-44d4-a228-5ec64b49690d/full/full/0/default.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
                         "height": 800,
                         "width": 600,
                         "service": {
                             "@context": "http://iiif.io/api/image/2/context.json",
-                            "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
+                            "@id": "https://labs.ddb.de/app/iiifimage/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
@@ -178,7 +178,7 @@
         ]
     }],
     "thumbnail": {"@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"},
-    "logo": "https://labs.ddb.de/app/iiif-image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
+    "logo": "https://labs.ddb.de/app/iiifimage/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
     "attribution": {
         "@value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/6KIBP2IUJLHLDFDZ2LNFZID3Q5XRPXFL\">Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf<\/a>",
         "@language": "zxx"
