@@ -69,52 +69,13 @@
                         "@id": "https://labs.ddb.de/app/iiif-image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/full/0/default.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
+                        "height": 800,
+                        "width": 600,
                         "service": {
                             "@context": "http://iiif.io/api/image/2/context.json",
                             "@id": "https://labs.ddb.de/app/iiif-image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
-                            "profile": [
-                                "http://iiif.io/api/image/2/level2.json",
-                                {
-                                    "formats": [
-                                        "jpg",
-                                        "tif",
-                                        "gif",
-                                        "png"
-                                    ],
-                                    "maxArea": 400000000,
-                                    "qualities": [
-                                        "bitonal",
-                                        "default",
-                                        "gray",
-                                        "color"
-                                    ],
-                                    "supports": [
-                                        "regionByPx",
-                                        "sizeByW",
-                                        "sizeByWhListed",
-                                        "cors",
-                                        "regionSquare",
-                                        "sizeByDistortedWh",
-                                        "sizeAboveFull",
-                                        "canonicalLinkHeader",
-                                        "sizeByConfinedWh",
-                                        "sizeByPct",
-                                        "jsonldMediaType",
-                                        "regionByPct",
-                                        "rotationArbitrary",
-                                        "sizeByH",
-                                        "baseUriRedirect",
-                                        "rotationBy90s",
-                                        "profileLinkHeader",
-                                        "sizeByForcedWh",
-                                        "sizeByWh",
-                                        "mirroring"
-                                    ]
-                                }
-                            ]
-                        },
-                        "height": 800,
-                        "width": 600
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
                     },
                     "on": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"
                 }],
@@ -145,13 +106,13 @@
                         "@id": "https://labs.ddb.de/app/iiif-image/2/aef5359e-773a-4f42-9270-7501fbc44706/full/full/0/default.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
+                        "height": 800,
+                        "width": 600,
                         "service": {
                             "@context": "http://iiif.io/api/image/2/context.json",
                             "@id": "https://labs.ddb.de/app/iiif-image/2/aef5359e-773a-4f42-9270-7501fbc44706",
                             "profile": "http://iiif.io/api/image/2/level2.json"
-                        },
-                        "height": 800,
-                        "width": 600
+                        }
                     },
                     "on": "http://ed2792af-ffcc-46e9-a46f-a5c46aa738e1"
                 }],
@@ -182,13 +143,13 @@
                         "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d/full/full/0/default.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
+                        "height": 800,
+                        "width": 600,
                         "service": {
                             "@context": "http://iiif.io/api/image/2/context.json",
                             "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
                             "profile": "http://iiif.io/api/image/2/level2.json"
-                        },
-                        "height": 800,
-                        "width": 600
+                        }
                     },
                     "on": "http://f0a4b780-d194-47e7-9e4d-feefbfbe1666"
                 }],
