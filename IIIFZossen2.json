@@ -43,6 +43,7 @@
         "format":"image/jpeg",
         "height":3000,
         "width":4000,
+        "on":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/canvas1",
         "service":
         {"@context": "http://iiif.io/api/image/2/context.json",
          "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
@@ -65,6 +66,7 @@
         "format":"image/jpeg",
         "height":3000,
         "width":4000,
+        "on":"https://www.deutsche-digitale-bibliothek.de/item/3YCCVP7OFMTO4JNKYIRFEJ262QVISCFB/canvas2",
         "service":
         {"@context": "http://iiif.io/api/image/2/context.json",
          "@id": "https://labs.ddb.de/app/iiif-image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
