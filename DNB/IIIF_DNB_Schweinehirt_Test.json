@@ -1,0 +1,602 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://services.dnb.de/iiif/1014156645",
+  "@type": "sc:Manifest",
+  "label": "Andersen: Der Schweinehirt",
+  "metadata": [
+    {
+      "label": "Titel",
+      "value": "Andersen: Der Schweinehirt"
+    },
+    {
+      "label": "Ort",
+      "value": "Berlin"
+    },
+    {
+      "label": "Verlag",
+      "value": "Verl. Junge Welt"
+    },
+    {
+      "label": "Ort",
+      "value": "Budapet"
+    },
+    {
+      "label": "Verlag",
+      "value": "Ifjúsági Lapkiadó Vállalat"
+    },
+    {
+      "label": "Erscheinungsjahr",
+      "value": "[19]57"
+    },
+    {
+      "label": "Sprache",
+      "value": "ger"
+    },
+    {
+      "label": "URN",
+      "value": "https://nbn-resolving.org/urn:nbn:de:101:1-201203204632"
+    },
+    {
+      "label": "rendering",
+      "value": "@id:  http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http%3A%2F%2Fservices.dnb.de%2Foai2%2Frepository%3Fverb%3DGetRecord%26identifier%3Doai%3Adnb.de%2Fdnb%3Adigitalisate-oa%3Aprojekt1%2F1014156645%26metadataPrefix%3Dmets&no_cache=1 label: DFG-Viewer format: text/html"
+    },
+    {
+      "label": "thumbnail",
+      "value": "@id: http://www.loc.gov/standards/mets/profile_docs/mets.profile.v2-0.xsd"
+    }
+  ],
+  "description": [
+    {
+      "@value": "Beschreibung des Werkes..."
+    }
+  ],
+  "license": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
+  "attribution": "digitized by Deutsche Nationalbibliothek",
+  "sequences": [
+    {
+      "@id": "https://services.dnb.de/iiif/1014156645/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Normal Sequence",
+      "canvases": [
+        {
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/1/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/1/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/1/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/001/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/2/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/2/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/2/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/002/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/3/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/3/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/3/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/003/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/4/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/4/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/4/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/004/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/5/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/5/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/5/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/005/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/6/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/6/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/6/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/006/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/7/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/7/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/7/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/007/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/8/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/8/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/8/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/008/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/9/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/9/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/9/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/009/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/10/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/10/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/10/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/010/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/11/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/11/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/11/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/011/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/12/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/12/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/12/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/012/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/13/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/13/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/13/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/013/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+                {
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/14/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/14/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/14/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/014/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/15/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/15/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/15/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/015/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/16/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/16/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/16/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/016/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/17/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/17/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/17/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/017/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/18/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/18/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/18/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/018/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/19/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/19/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/19/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/019/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/20/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/20/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/20/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/020/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/21/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/21/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/21/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/021/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/22/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/22/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/22/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/022/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/23/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/23/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/23/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/023/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        },
+		{
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/24/canvas",
+          "@type": "sc:Canvas",
+          "label": "fol. 001r",
+          "width": 2796,
+          "height": 4123,
+          "images": [
+            {
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/24/image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/24/canvas",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/024/p.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2796,
+                "height": 4123
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [],
+  "logo": "https://dnb.de/SiteGlobals/Frontend/DNBWeb/Images/logo.svg?__blob=normal&v=1%22%3E",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "paged",
+  "seeAlso": {
+    "@id": "http://etc.dnb.de.appr/mets-service/objects/metadata/idn/1014156645",
+    "format": "text/xml",
+    "profile": "http://www.loc.gov/standards/mets/profile_docs/mets.profile.v2-0.xsd"
+  },
+  "related": {}
+}
