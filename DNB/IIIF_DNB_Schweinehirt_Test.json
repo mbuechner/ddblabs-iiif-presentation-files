@@ -10,13 +10,11 @@
     },
     {
       "label": "Ort",
-      "value": "Berlin",
-	"value": "Budapet"
+      "value": "Berlin, Budapest",
     },
     {
       "label": "Verlag",
-      "value": "Verl. Junge Welt",
-	"value": "Ifjúsági Lapkiadó Vállalat"
+      "value": "Verl. Junge Welt, Ifjúsági Lapkiadó Vállalat",
     },
     {
       "label": "Erscheinungsjahr",
@@ -30,15 +28,15 @@
       "label": "URN",
       "value": "https://nbn-resolving.org/urn:nbn:de:101:1-201203204632"
     },
-    {
-      "label": "rendering",
-      "value": "@id:  http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http%3A%2F%2Fservices.dnb.de%2Foai2%2Frepository%3Fverb%3DGetRecord%26identifier%3Doai%3Adnb.de%2Fdnb%3Adigitalisate-oa%3Aprojekt1%2F1014156645%26metadataPrefix%3Dmets&no_cache=1", 
-	"label": "DFG-Viewer", 
-	"format": "text/html"
-    },
-    {
-      "label": "thumbnail",
-      "value": "@id: http://www.loc.gov/standards/mets/profile_docs/mets.profile.v2-0.xsd"
+      "rendering" : {
+        "@id" : "http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http%3A%2F%2Fservices.dnb.de%2Foai2%2Frepository%3Fverb%3DGetRecord%26identifier%3Doai%3Adnb.de%2Fdnb%3Adigitalisate-oa%3Aprojekt1%2F1014156645%26metadataPrefix%3Dmets&no_cache=1", 
+	"label": "DFG-Viewer", ",
+         "format" : "text/html"
+      },
+    
+      "thumbnail" : {
+      "value": "@id: https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/full/full/0/default.jpg",
+      "@type" : "dcTypes:Image"
     }
   ],
   "description": [
@@ -50,22 +48,22 @@
   "attribution": "digitized by Deutsche Nationalbibliothek",
   "sequences": [
     {
-      "@id": "https://services.dnb.de/iiif/1014156645/sequence/normal",
+      "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/sequence/normal",
       "@type": "sc:Sequence",
       "label": "Normal Sequence",
       "canvases": [
         {
-          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/1/canvas",
+          "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/1/canvas",
           "@type": "sc:Canvas",
           "label": "fol. 001r",
           "width": 2796,
           "height": 4123,
           "images": [
             {
-              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/1/image",
+              "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/1/image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://portal.dnb.de/bookviewer/view/1014156645/1/canvas",
+              "on": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/1/canvas",
               "resource": {
                 "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
