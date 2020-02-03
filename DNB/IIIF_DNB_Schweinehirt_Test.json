@@ -38,7 +38,7 @@
   "attribution": "digitized by Deutsche Nationalbibliothek",
   "sequences": [
     {
-      "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/sequence/normal",
+      "@id": "https://services.dnb.de/iiif/1014156645/sequence/normal",
       "@type": "sc:Sequence",
       "label": "Normal Sequence",
       "canvases": [
