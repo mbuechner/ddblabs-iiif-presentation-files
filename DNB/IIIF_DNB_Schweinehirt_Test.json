@@ -10,19 +10,13 @@
     },
     {
       "label": "Ort",
-      "value": "Berlin"
+      "value": "Berlin",
+	"value": "Budapet"
     },
     {
       "label": "Verlag",
-      "value": "Verl. Junge Welt"
-    },
-    {
-      "label": "Ort",
-      "value": "Budapet"
-    },
-    {
-      "label": "Verlag",
-      "value": "Ifjúsági Lapkiadó Vállalat"
+      "value": "Verl. Junge Welt",
+	"value": "Ifjúsági Lapkiadó Vállalat"
     },
     {
       "label": "Erscheinungsjahr",
@@ -30,7 +24,7 @@
     },
     {
       "label": "Sprache",
-      "value": "ger"
+      "value": "Deutsch"
     },
     {
       "label": "URN",
@@ -38,7 +32,9 @@
     },
     {
       "label": "rendering",
-      "value": "@id:  http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http%3A%2F%2Fservices.dnb.de%2Foai2%2Frepository%3Fverb%3DGetRecord%26identifier%3Doai%3Adnb.de%2Fdnb%3Adigitalisate-oa%3Aprojekt1%2F1014156645%26metadataPrefix%3Dmets&no_cache=1 label: DFG-Viewer format: text/html"
+      "value": "@id:  http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http%3A%2F%2Fservices.dnb.de%2Foai2%2Frepository%3Fverb%3DGetRecord%26identifier%3Doai%3Adnb.de%2Fdnb%3Adigitalisate-oa%3Aprojekt1%2F1014156645%26metadataPrefix%3Dmets&no_cache=1", 
+	"label": "DFG-Viewer", 
+	"format": "text/html"
     },
     {
       "label": "thumbnail",
@@ -71,7 +67,7 @@
               "motivation": "sc:painting",
               "on": "https://portal.dnb.de/bookviewer/view/1014156645/1/canvas",
               "resource": {
-                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/001/p.jpg",
+                "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 2796,
