@@ -1,0 +1,224 @@
+{
+  "@id": "https://labs.ddb.de/app/iiif-presentation/browse?d=Testdaten&f=Testdaten/DNB_TEST_Schweinehirt.json",
+  "@type": "sc:Manifest",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "paged",
+  "navDate": "1957-01-01T00:00:00+01:00",
+  "label": "Andersen: Der Schweinehirt",
+  "metadata": [
+    {
+      "label": "Ort",
+      "value": [
+        "Berlin"
+      ]
+    },
+    {
+      "label": "Ort",
+      "value": [
+        "Budapest"
+      ]
+    },
+    {
+      "label": "Jahr",
+      "value": "1957"
+    },
+    {
+      "label": "Verlag",
+      "value": [
+        "Verl. Junge Welt"
+      ]
+    },
+    {
+      "label": "Verlag",
+      "value": [
+        "Ifjúsági Lapkiadó Vállalat"
+      ]
+    },
+    {
+      "label": "Sprache",
+      "value": [
+        "ger"
+      ]
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/1/p.jpg?reduce=15",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "profile": "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences": [
+    {
+      "@id": "https://portal.dnb.de/bookviewer/view/1014156645/sequence",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "viewingDirection": "left-to-right",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/canvas/canvas-1",
+          "@type": "sc:Canvas",
+          "label": " ",
+          "height": 400,
+          "width": 300,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/imageanno/anno-1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/1/p.jpg?reduce=1.6",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN664326250:00000001",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 400,
+                "width": 300
+              },
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/canvas/canvas-1"
+            }
+          ]
+        },
+        {
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/canvas/canvas-2",
+          "@type": "sc:Canvas",
+          "label": " ",
+          "height": 400,
+          "width": 300,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/imageanno/anno-2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/2/p.jpg?reduce=1.5",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 400,
+                "width": 300
+              },
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/canvas/canvas-2"
+            }
+          ]
+        },
+        {
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/canvas/canvas-3",
+          "@type": "sc:Canvas",
+          "label": " ",
+          "height": 400,
+          "width": 300,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/imageanno/anno-3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/3/p.jpg?reduce=1.5",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 400,
+                "width": 300
+              },
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/canvas/canvas-3"
+            }
+          ]
+        },
+        {
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/canvas/canvas-4",
+          "@type": "sc:Canvas",
+          "label": " ",
+          "height": 400,
+          "width": 300,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/imageanno/anno-4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/4/p.jpg?reduce=1.5",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 400,
+                "width": 300
+              },
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/canvas/canvas-4"
+            }
+          ]
+        },
+        {
+          "@id": "https://portal.dnb.de/bookviewer/view/1014156645/canvas/canvas-5",
+          "@type": "sc:Canvas",
+          "label": " ",
+          "height": 400,
+          "width": 300,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://portal.dnb.de/bookviewer/view/1014156645/imageanno/anno-5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/5/p.jpg?reduce=1.5",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 400,
+                "width": 300
+              },
+              "on": "https://portal.dnb.de/bookviewer/view/1014156645/canvas/canvas-5"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "attribution": "Deutsche Nationalbibliothek",
+  "logo": {
+    "@id": "https://dnb.de/SiteGlobals/Frontend/DNBWeb/Images/logo.svg?__blob=normal&v=1%22%3E",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://dnb.de",
+      "profile": "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "rendering": [
+    {
+      "@id": "http://dfg-viewer.de/show/cache.off?id=2&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fph668sppoq5lcmj%2F1014156645_d003_r.xml%3Fdl%3D1&tx_dlf%5Bpage%5D=5",
+      "label": "DFG-Viewer",
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://etc.dnb.de.appr/mets-service/objects/metadata/idn/1014156645",
+      "format": "text/xml",
+      "profile": "http://www.loc.gov/standards/mets/profile_docs/mets.profile.v2-0.xsd"
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://portal.dnb.de/bookviewer/view/1014156645/range/LOG_0001",
+      "@type": "sc:Canvas",
+      "label": "Titelseite",
+      "canvases": [
+        "https://portal.dnb.de/bookviewer/view/1014156645/img/page/1/p.jpg?reduce=1.5"
+      ]
+    },
+    {
+      "@id": "https://portal.dnb.de/bookviewer/view/1014156645/range/LOG_0002",
+      "@type": "sc:Canvas",
+      "label": "Startseite",
+      "canvases": [ 
+        "https://portal.dnb.de/bookviewer/view/1014156645/img/page/s/p.jpg?reduce=1.5"
+     ]
+    }
+  ]
+}
