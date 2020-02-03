@@ -27,18 +27,8 @@
     {
       "label": "URN",
       "value": "https://nbn-resolving.org/urn:nbn:de:101:1-201203204632"
-    },
-      "rendering" : {
-        "@id" : "http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http%3A%2F%2Fservices.dnb.de%2Foai2%2Frepository%3Fverb%3DGetRecord%26identifier%3Doai%3Adnb.de%2Fdnb%3Adigitalisate-oa%3Aprojekt1%2F1014156645%26metadataPrefix%3Dmets&no_cache=1", 
-	"label": "DFG-Viewer", ",
-         "format" : "text/html"
-      },
-    
-      "thumbnail" : {
-      "value": "@id: https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/full/full/0/default.jpg",
-      "@type" : "dcTypes:Image"
     }
-  ],
+   ],
   "description": [
     {
       "@value": "Beschreibung des Werkes..."
