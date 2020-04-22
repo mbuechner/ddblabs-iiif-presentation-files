@@ -43,13 +43,6 @@
         },
         {
             "label": "Indexbegriff Person",
-            "value": {
-                "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/118560085",
-                "@none": ["Test für Label mit URI über zusätzliches JSON-Attribut"]
-            }
-        },
-        {
-            "label": "Indexbegriff Person",
             "value": "Trier, Erzbischof von"
         },
         {
@@ -131,6 +124,7 @@
                         }
                     ]
                 },
+                
                 {
                     "@id": "http://779aa500-fa40-44b2-8669-b01a5197c3b3",
                     "@type": "sc:Canvas",
@@ -164,22 +158,15 @@
     "structures": [
         {
             "@id": "http://8feb99b3-c350-4b8e-a35f-e22a249557a8",
-            "@type": "sc:Range",
-            "label": "Gliederung",
-            "members": [
-                {
-                    "@id": "http://8feb99b3-c350-4b8e-a35f-e22a249557a8",
-                    "@type": "sc:Canvas",
-                    "label": "Schmuckkassette",
-                    "canvases": ["http://73fad018-cf2b-4c4f-9ac6-e1eb39852a36"]
-                },
-                {
-                    "@id": "http://13d3f0a0-59bf-4b60-bb67-7575fc4f02de",
-                    "@type": "sc:Canvas",
-                    "label": "Einband Vorderseite",
-                    "canvases": ["http://779aa500-fa40-44b2-8669-b01a5197c3b3"]
-                }
-            ]
+            "@type": "sc:Canvas",
+            "label": "Schmuckkassette",
+            "canvases": ["http://73fad018-cf2b-4c4f-9ac6-e1eb39852a36"]
+        },
+        {
+            "@id": "http://13d3f0a0-59bf-4b60-bb67-7575fc4f02de",
+            "@type": "sc:Canvas",
+            "label": "Einband Vorderseite",
+            "canvases": ["http://779aa500-fa40-44b2-8669-b01a5197c3b3"]
         }
     ]
 }
