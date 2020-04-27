@@ -1,0 +1,317 @@
+{
+	"@context": ["http://iiif.io/api/presentation/2/context.json"
+	],
+	"@type": "Manifest",
+	"@id": "http://bc6f1610-aa42-4514-9701-b2b785dd89f0",
+	"label":{
+	    "de": [
+	    "Bergedorfer Zeitung und Anzeiger-1880-01-01"
+        ]
+      },
+      "navDate": "1880-01-01T00:00:00Z",
+	"metadata": [
+		{
+			"label": "Label",
+			"value": "Value"
+		}
+	],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "de"
+		}
+	],
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://a0d5abe3-c441-4ea2-b811-c85044193114",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "http://8b837af1-5b5a-4b9d-84f9-eed86bbac809",
+					"@type": "sc:Canvas",
+					"label": "1",
+					"height": 5220,
+					"width": 3710,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://131159c3-ae75-4555-9ad0-e48f70ab0ba0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800101%2F00000001.ptif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800101%2F00000001.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5220,
+								"width": 3710
+							},
+							"on": "http://8b837af1-5b5a-4b9d-84f9-eed86bbac809"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://2123ecf3-0d20-43ef-9f27-6bf81d62518a",
+					"@type": "sc:Canvas",
+					"label": "2",
+					"height": 5240,
+					"width": 3710,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://164874f2-7e01-47f1-a436-9c74a9727bd6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800101%2F00000002.ptif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800101%2F00000002.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5240,
+								"width": 3710
+							},
+							"on": "http://2123ecf3-0d20-43ef-9f27-6bf81d62518a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://92d05b40-dd2f-4be0-a01c-0ef6f9cf0654",
+					"@type": "sc:Canvas",
+					"label": "3",
+					"height": 5240,
+					"width": 3710,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f6fd84eb-35fb-45a0-949a-6b10729a172c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800101%2F00000003.ptif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800101%2F00000003.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5240,
+								"width": 3710
+							},
+							"on": "http://92d05b40-dd2f-4be0-a01c-0ef6f9cf0654"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://bebd85a2-4085-4693-b3c7-35cfc19b696c",
+					"@type": "sc:Canvas",
+					"label": "4",
+					"height": 5240,
+					"width": 3710,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://deff88bf-7b14-43f8-8634-ee676b10e32f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800101%2F00000004.ptif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800101%2F00000004.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5240,
+								"width": 3710
+							},
+							"on": "http://bebd85a2-4085-4693-b3c7-35cfc19b696c"
+						}
+					],
+					"related": "",
+					"metadata": []
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right",
+	"thumbnail": {
+		"@id": "http://8b837af1-5b5a-4b9d-84f9-eed86bbac809"
+	},
+	"logo": "https://dev-ddb.fiz-karlsruhe.de/ddb-current/assets/portal/newspaper/header/Gruppe%20934-72e66507a7838cd596fd6c341a34df1a.svg",
+	"seeAlso": [
+	{
+	    "id": "https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/XSV7U5CJQEDZELX3PLHK6SKRYWBX4BY2",
+	    "type": "Dataset",
+	    "format": "XML",
+	    "profile": 
+	}]
+}
