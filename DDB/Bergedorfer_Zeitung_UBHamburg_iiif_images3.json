@@ -55,6 +55,16 @@
 	],
 	"license": "http://creativecommons.org/publicdomain/zero/1.0/",
 	"attribution": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky",
+	"seeAlso": [
+        {
+            "@id": "urn:nbn:de:gbv:18-5-PPN1012343960_188001012",
+            "label": "PURL",
+            "format": "text/html"
+        },
+       	 {
+            "@id": "https://resolver.sub.uni-hamburg.de/kitodo/PPN1012343960_18800101",
+            "format": "text/html"}
+            ],
 	"sequences": [
 		{
 			"@id": "http://a0d5abe3-c441-4ea2-b811-c85044193114",
@@ -338,12 +348,5 @@
 	"thumbnail": {
 		"@id": "http://8b837af1-5b5a-4b9d-84f9-eed86bbac809"
 	},
-	"logo": "https://dev-ddb.fiz-karlsruhe.de/ddb-current/assets/portal/newspaper/header/Gruppe%20934-72e66507a7838cd596fd6c341a34df1a.svg",
-	"seeAlso": [
-	{
-	    "id": "https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA",
-	    "type": "Dataset",
-	    "format": "XML",
-	    "profile": ""
-	}]
+	"logo": "https://dev-ddb.fiz-karlsruhe.de/ddb-current/assets/portal/newspaper/header/Gruppe%20934-72e66507a7838cd596fd6c341a34df1a.svg"  
 }
