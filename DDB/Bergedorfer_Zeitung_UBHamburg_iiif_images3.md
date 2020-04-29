@@ -6,8 +6,8 @@ Versuch eine Zeitung mit vier Seiten zu gestalten.
 Die Bilder wurde über den [IIIF Editor](https://digital.bodleian.ox.ac.uk/manifest-editor/#/?_k=w7lpka) kreiert, die Links zu den IIIF-Bildern
 wurden einem Zeitungsportalobjekt der UB Hamburg entnommen
 
-DDB-ID: XSV7U5CJQEDZELX3PLHK6SKRYWBX4BY2
-Link zum Testsystem: https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/XSV7U5CJQEDZELX3PLHK6SKRYWBX4BY2	
+DDB-ID: Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
+Link zum Testsystem: https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
 
 #### Header METS:
  ```
@@ -24,3 +24,6 @@ Link zum Testsystem: https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/XSV7U
   </header>
 ```
 Das automatisch kreierte Manifest wurde händisch ergänzt, oriente habe ich mich dabei an folgendem iiif-cookbook Rezept: https://preview.iiif.io/cookbook/0068-newspaper/recipe/0068-newspaper/newspaper_title-collection.json
+Sowie an der BSB iiif Collextion
+https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10502296_00225_u001/manifest
+
