@@ -49,7 +49,7 @@
 	"navDate": "1880-01-01T00:00:00Z",
 	"description": [
 		{
-			"@value": "[Click to edit description]",
+			"@value": "Heft",
 			"@language": "de"
 		}
 	],
@@ -57,8 +57,8 @@
 	"attribution": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky",
 	"seeAlso": [
         {
-            "@id": "urn:nbn:de:gbv:18-5-PPN1012343960_188001012",
-            "label": "PURL",
+            "@id": "https://nbn-resolving.de/urn:nbn:de:gbv:18-5-PPN1012343960_188001012",
+            "label": "URN",
             "format": "text/html"
         },
        	 {

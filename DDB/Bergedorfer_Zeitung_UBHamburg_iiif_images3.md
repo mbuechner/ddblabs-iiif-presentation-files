@@ -2,6 +2,9 @@
 
 Versuch eine Zeitung mit vier Seiten zu gestalten. 
 
+## Beobachtung: 
+BSB benutzt nicht das Label description, welches sogar durch den Editor angeboten wird
+
 ## Vorgehen
 Die Bilder wurde über den [IIIF Editor](https://digital.bodleian.ox.ac.uk/manifest-editor/#/?_k=w7lpka) kreiert, die Links zu den IIIF-Bildern
 wurden einem Zeitungsportalobjekt der UB Hamburg entnommen
