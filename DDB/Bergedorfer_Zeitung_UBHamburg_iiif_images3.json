@@ -52,17 +52,6 @@
 	"navDate": "1880-01-01T00:00:00Z",
 	"license": "http://creativecommons.org/publicdomain/zero/1.0/",
 	"attribution": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky",
-	"seeAlso": [
-        	{
-            	"@id": "https://resolver.sub.uni-hamburg.de/id/PPN1012343960",
-            	"label": "OPAC",
-            	"format": "text/html"
-     	   },
-       	 {
-          	  "@id": "https://digitalisate.sub.uni-hamburg.de/de/nc/detail.html?tx_dlf%5Bid%5D=38424&tx_dlf%5Bpage%5D=1&tx_dlf%5Bpointer%5D=0",
-         	   "format": "text/html"
-      	  }
-   	 ],
 	"sequences": [
 		{
 			"@id": "http://a0d5abe3-c441-4ea2-b811-c85044193114",
