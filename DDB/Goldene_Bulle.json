@@ -1,8 +1,11 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://www.deutsche-digitale-bibliothek.de/item/BGISQUG3F43FTFNBQ64YUGJGX4KYUQQ4",
     "@type": "sc:Manifest",
+    "@id": "https://www.deutsche-digitale-bibliothek.de/item/BGISQUG3F43FTFNBQ64YUGJGX4KYUQQ4",
     "label": "Kaiser Karl publiziert die ersten dreiundzwanzig Kapitel der Goldenen Bulle.",
+    "license": "http://creativecommons.org/licenses/by/3.0/de/",
+    "logo": "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00000896.png",
+    "attribution": "Landesarchiv Baden-Württemberg",
     "metadata": [
         {
             "label": "Titel",
@@ -10,8 +13,12 @@
             "language": "de"
         },
         {
+            "label": "Verzeichnungsstufe",
+            "value": "Archivalieneinheit"
+        },
+        {
             "label": "Signatur",
-            "value": "Landesarchiv Baden-Württemberg, Abt. Hauptstaatsarchiv Stuttgart, H 51 U 589"
+            "value": "Abt. Hauptstaatsarchiv Stuttgart, H 51 U 589"
         },
         {
             "label": "Kontext",
@@ -19,11 +26,11 @@
         },
         {
             "label": "Laufzeit",
-            "value": "1356 Januar 10"
+            "value": "1356-01-10: 1356 Januar 10"
         },
         {
             "label": "Provenienz",
-            "value": "Römische Kaiser und Könige "
+            "value": "Römische Kaiser und Könige"
         },
         {
             "label": "Archivalientyp",
@@ -35,11 +42,11 @@
         },
         {
             "label": "Sonstige Erschließungsangaben",
-            "value": "Ausstellungsort: Nürnberg<br>Aussteller: Karl IV., Kaiser<br>Überlieferungsart: Ausfertigung<br>Siegelbeschreibung: Goldene Bulle<br>Besonderheiten: Libell mit 27 beschriebenen Blättern. Trierisches Exemplar.<br>Druck: MFG Fontes Iuris 11<br>Publiziertes Regest: RI VIII n. 2397"
+            "value": "Ausstellungsort:<br>Nürnberg<br><br>Aussteller:<br>Karl IV., Kaiser<br><br>Überlieferungsart:<br>Ausfertigung<br><br>Siegelbeschreibung:<br>Goldene Bulle<br><br>Besonderheiten:<br>Libell mit 27 beschriebenen Blättern. Trierisches Exemplar.<br><br>Druck:<br>MFG Fontes Iuris 11<br><br>Publiziertes Regest:<br>RI VIII n. 2397"
         },
         {
             "label": "Indexbegriff Person",
-            "value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/person/gnd/118560085\">Karl IV.; Kaiser, 1316-1378<\/a>"
+            "value": "<a href='https://www.deutsche-digitale-bibliothek.de/person/gnd/118560085'>Karl IV.; Kaiser, 1316-1378<\/a>"
         },
         {
             "label": "Indexbegriff Person",
@@ -51,30 +58,22 @@
         },
         {
             "label": "Bestand",
-            "value": "Landesarchiv Baden-Württemberg, Abt. Hauptstaatsarchiv Stuttgart, H 51 Kaiserselekt"
+            "value": "Kaiserselekt"
         },
         {
             "label": "Rechteinformation",
-            "value": "Es gelten die <a href=\"http://www.landesarchiv-bw.de/nutzungsbedingungen\">Nutzungsbedingungen<\/a> des Landesarchivs Baden-Württemberg."
+            "value": "Es gelten die <a href=\"http://www.landesarchiv-bw.de/nutzungsbedingungen\">Nutzungsbedingungen des Landesarchivs Baden-Württemberg.<\/a>"
         },
         {
             "label": "Rechtsstatus",
-            "value": "Namensnennung 3.0 Deutschland"
+            "value": "CC-BY 3.0"
         }
     ],
-    "license": "http://creativecommons.org/licenses/by/3.0/de/",
-    "logo": "https://iiif.deutsche-digitale-bibliothek.de/image/2/c4dbe8a0-5c36-4e41-9db1-f8291dae73e3/full/!116,87/0/default.jpg",
-    "attribution": "Landesarchiv Baden-Württemberg",
     "related": [
         {
             "@id": "https://www.landesarchiv-bw.de/plink/?f=1-1263080",
             "format": "text/html",
             "label": "Link zum Objekt beim Datengeber"
-        },
-        {
-            "@id": "https://www.landesarchiv-bw.de/plink/?f=1-2604&a=fb",
-            "format": "text/html",
-            "label": "Online-Findbuch im Angebot des Archivs"
         }
     ],
     "seeAlso": [
@@ -84,30 +83,24 @@
             "profile": "http://www.europeana.eu/schemas/edm/EDM.xsd"
         }
     ],
-    "rendering": [
-        {
-            "@id": "http://dfg-viewer.de/show/?tx_dlf[id]=https%3A%2F%2Fwww.landesarchiv-bw.de%2Fdfgviewer%2Fmods1-1263080.xml",
-            "label": "Objekt im DFG-Viewer anzeigen",
-            "format": "text/html"
-        }
-    ],
     "sequences": [
         {
-            "@id": "http://3c80d3e9-e82d-4641-8f09-fe605a068661",
+            "@id": "http://7b25112b-6b4c-4454-af24-fbf717948e86",
             "@type": "sc:Sequence",
             "viewingHint": "paged",
             "canvases": [
                 {
-                    "@id": "http://73fad018-cf2b-4c4f-9ac6-e1eb39852a36",
+                    "@id": "http://image_1-1263080-1",
                     "@type": "sc:Canvas",
                     "label": "1",
                     "height": 400,
                     "width": 600,
                     "images": [
                         {
-                            "@id": "http://e55a9a84-0f55-4689-89e8-6d4bac206aa8",
+                            "@id": "",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
+                            "on": "http://image_1-1263080-1",
                             "resource": {
                                 "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/b93c8277-dc6c-4ffe-af1b-192868285491/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
@@ -119,23 +112,22 @@
                                     "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/b93c8277-dc6c-4ffe-af1b-192868285491",
                                     "profile": "http://iiif.io/api/image/2/level1.json"
                                 }
-                            },
-                            "on": "http://73fad018-cf2b-4c4f-9ac6-e1eb39852a36"
+                            }
                         }
                     ]
                 },
-                
                 {
-                    "@id": "http://779aa500-fa40-44b2-8669-b01a5197c3b3",
+                    "@id": "http://image_1-1263080-2",
                     "@type": "sc:Canvas",
                     "label": "2",
                     "height": 400,
                     "width": 600,
                     "images": [
                         {
-                            "@id": "http://4c5cf891-bdc1-4ce7-89aa-be0db37f7d92",
+                            "@id": "",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
+                            "on": "http://image_1-1263080-2",
                             "resource": {
                                 "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/778ad780-2547-4ed9-b7b2-72ea733e053a/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
@@ -147,8 +139,223 @@
                                     "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/778ad780-2547-4ed9-b7b2-72ea733e053a",
                                     "profile": "http://iiif.io/api/image/2/level1.json"
                                 }
-                            },
-                            "on": "http://779aa500-fa40-44b2-8669-b01a5197c3b3"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://image_1-1263080-3",
+                    "@type": "sc:Canvas",
+                    "label": "3",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://image_1-1263080-3",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/9cce03a2-0f5a-4580-9605-e6507e657bce/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/9cce03a2-0f5a-4580-9605-e6507e657bce",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://image_1-1263080-4",
+                    "@type": "sc:Canvas",
+                    "label": "4",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://image_1-1263080-4",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/af33897a-dff1-4ec9-9706-77e71565a58f/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/af33897a-dff1-4ec9-9706-77e71565a58f",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://image_1-1263080-5",
+                    "@type": "sc:Canvas",
+                    "label": "5",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://image_1-1263080-5",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/b37e4597-0841-48ba-855e-f1c73a02f384/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/b37e4597-0841-48ba-855e-f1c73a02f384",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://image_1-1263080-6",
+                    "@type": "sc:Canvas",
+                    "label": "6",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://image_1-1263080-6",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/765f08ac-7366-4452-8b98-dd9258944d19/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/765f08ac-7366-4452-8b98-dd9258944d19",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://image_1-1263080-7",
+                    "@type": "sc:Canvas",
+                    "label": "7",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://image_1-1263080-7",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/f33a593f-dfb1-42b7-afa7-ef77be5495f3/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/f33a593f-dfb1-42b7-afa7-ef77be5495f3",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://image_1-1263080-8",
+                    "@type": "sc:Canvas",
+                    "label": "8",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://image_1-1263080-8",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/5f0fa065-1f14-44b8-97c8-5b87fea3f65f/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/5f0fa065-1f14-44b8-97c8-5b87fea3f65f",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://image_1-1263080-9",
+                    "@type": "sc:Canvas",
+                    "label": "9",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://image_1-1263080-9",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/8569e675-cde6-441e-96a0-d7dc0949050b/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/8569e675-cde6-441e-96a0-d7dc0949050b",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://image_1-1263080-10",
+                    "@type": "sc:Canvas",
+                    "label": "10",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://image_1-1263080-10",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/93d80b3f-1e45-448a-b67e-1ea93218a039/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/93d80b3f-1e45-448a-b67e-1ea93218a039",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
                         }
                     ]
                 }
@@ -157,16 +364,64 @@
     ],
     "structures": [
         {
-            "@id": "http://8feb99b3-c350-4b8e-a35f-e22a249557a8",
+            "@id": "http://image_1-1263080-1_structure",
             "@type": "sc:Canvas",
             "label": "Schmuckkassette",
-            "canvases": ["http://73fad018-cf2b-4c4f-9ac6-e1eb39852a36"]
+            "canvases": ["http://image_1-1263080-1"]
         },
         {
-            "@id": "http://13d3f0a0-59bf-4b60-bb67-7575fc4f02de",
+            "@id": "http://image_1-1263080-2_structure",
             "@type": "sc:Canvas",
             "label": "Einband Vorderseite",
-            "canvases": ["http://779aa500-fa40-44b2-8669-b01a5197c3b3"]
+            "canvases": ["http://image_1-1263080-2"]
+        },
+        {
+            "@id": "http://image_1-1263080-3_structure",
+            "@type": "sc:Canvas",
+            "label": "Einband Rückseite",
+            "canvases": ["http://image_1-1263080-3"]
+        },
+        {
+            "@id": "http://image_1-1263080-4_structure",
+            "@type": "sc:Canvas",
+            "label": "Einband Innen",
+            "canvases": ["http://image_1-1263080-4"]
+        },
+        {
+            "@id": "http://image_1-1263080-5_structure",
+            "@type": "sc:Canvas",
+            "label": "Leerseite",
+            "canvases": ["http://image_1-1263080-5"]
+        },
+        {
+            "@id": "http://image_1-1263080-6_structure",
+            "@type": "sc:Canvas",
+            "label": "fol 01r",
+            "canvases": ["http://image_1-1263080-6"]
+        },
+        {
+            "@id": "http://image_1-1263080-7_structure",
+            "@type": "sc:Canvas",
+            "label": "fol 01v-02r",
+            "canvases": ["http://image_1-1263080-7"]
+        },
+        {
+            "@id": "http://image_1-1263080-8_structure",
+            "@type": "sc:Canvas",
+            "label": "fol 02v-03r",
+            "canvases": ["http://image_1-1263080-8"]
+        },
+        {
+            "@id": "http://image_1-1263080-9_structure",
+            "@type": "sc:Canvas",
+            "label": "fol 03v-04r",
+            "canvases": ["http://image_1-1263080-9"]
+        },
+        {
+            "@id": "http://image_1-1263080-10_structure",
+            "@type": "sc:Canvas",
+            "label": "fol 04v-05r",
+            "canvases": ["http://image_1-1263080-10"]
         }
     ]
 }
