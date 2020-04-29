@@ -58,11 +58,11 @@
 	"seeAlso": [
         {
             "@id": "https://resolver.sub.uni-hamburg.de/id/PPN1012343960",
-            "label": "OPAC",
+            "label": "URN",
             "format": "text/html"
         },
        	 {
-            "@id": "https://digitalisate.sub.uni-hamburg.de/de/nc/detail.html?tx_dlf%5Bid%5D=38424&tx_dlf%5Bpage%5D=1&tx_dlf%5Bpointer%5D=0",
+            "@id": "https://resolver.sub.uni-hamburg.de/kitodo/PPN1012343960_18800101",
             "format": "text/html"}
             ],
 	"sequences": [
