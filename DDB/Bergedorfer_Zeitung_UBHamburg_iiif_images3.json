@@ -8,22 +8,23 @@
 	    "Bergedorfer Zeitung und Anzeiger-1880-01-01"
         ]
       },
-	"metadata": [
+	"metadata": 
+	[
 		{
 			"label": [
-				{
-					"@language": "de",
-					"@value": "Titel"
-                },
-                {
-                    "@language": "en",
-                    "@value": "Title"
-                }
-            ],		
+			{
+			    "@language": "de",
+			    "@value": "Titel"
+			},
+			{
+			   "@language": "en",
+			   "@value": "Titel"
+			}
+			],
 			"value": "Bergedorfer Zeitung und Anzeiger, 01.01.1880"
-		}
-	],
-            "label": [
+		},
+		{
+		                "label": [
                 {
                     "@language": "de",
                     "@value": "Zeitraum"
@@ -34,9 +35,9 @@
                 }
             ],
             "value": "1880-01-01"
-        },
-
-            "label": [
+		},
+		{
+		    "label": [
                 {
                     "@language": "de",
                     "@value": "Erschienen"
@@ -47,9 +48,15 @@
                 }
             ],
             "value": "Hamburg"
-        }
-    ],
+		}
+	],
 	"navDate": "1880-01-01T00:00:00Z",
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "de"
+		}
+	],
 	"license": "http://creativecommons.org/publicdomain/zero/1.0/",
 	"attribution": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky",
 	"sequences": [
