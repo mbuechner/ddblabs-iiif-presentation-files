@@ -340,10 +340,13 @@
 	},
 	"logo": "https://dev-ddb.fiz-karlsruhe.de/ddb-current/assets/portal/newspaper/header/Gruppe%20934-72e66507a7838cd596fd6c341a34df1a.svg",
 	"seeAlso": [
-	{
-	    "id": "https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA",
-	    "type": "Dataset",
-	    "format": "XML",
-	    "profile": ""
-	}]
+      	  {
+           	 "@id": "https://resolver.sub.uni-hamburg.de/id/PPN1012343960",
+            	"label": "OPAC",
+           	 "format": "text/html"
+       	 },
+       		 {
+           	 "@id": "https://digitalisate.sub.uni-hamburg.de/de/nc/detail.html?tx_dlf%5Bid%5D=38424&tx_dlf%5Bpage%5D=1&tx_dlf%5Bpointer%5D=0",
+           	 "format": "text/html"}
+            ]
 }
