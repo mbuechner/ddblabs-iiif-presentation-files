@@ -1,0 +1,106 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https://www.deutsche-digitale-bibliothek.de/item/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU",
+    "label": "Gekrätzaufbereitung",
+    "license": "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "logo": "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00001166.png",
+    "attribution": "Sächsisches Staatsarchiv",
+    "metadata": [
+        {
+            "label": "Titel",
+            "value": "Gekrätzaufbereitung",
+            "language": "de"
+        },
+        {
+            "label": "Verzeichnungsstufe",
+            "value": "Archivalieneinheit"
+        },
+        {
+            "label": "Signatur",
+            "value": "Bestellnummer: 40133 Hütte Halsbrücke, Nr. 2-I151 (Benutzung im Bergarchiv Freiberg)"
+        },
+        {
+            "label": "Kontext",
+            "value": "40133 Hütte Halsbrücke >> 2. Risse >> 2.1. Übergreifende Angelegenheiten >> 2.1.2. Gebäude >> 2.1.2.2. Schmelzhütte"
+        },
+        {
+            "label": "Laufzeit",
+            "value": "1903-01-10/1903-01-10: 10. Januar 1903"
+        },
+        {
+            "label": "Sonstige Erschließungsangaben",
+            "value": "Personen/Institutionen: Jeb.<br><br>Maßstab: 1:100<br><br>Format: 78,5 x 43<br><br>Beschreibstoff: Papier<br><br>Benutzerfilmsignatur: 21664"
+        },
+        {
+            "label": "Bestand",
+            "value": "40133 Hütte Halsbrücke"
+        },
+        {
+            "label": "Rechteinformation",
+            "value": "Es gilt die Sächsische Archivbenutzungsverordnung (SächsGVBl. Jg.2003, Bl.-Nr. 4 S. 79)"
+        },
+        {
+            "label": "Rechtsstatus",
+            "value": "Rechte vorbehalten - Freier Zugang"
+        }
+    ],
+    "related": [
+        {
+            "@id": "http://www.archiv.sachsen.de/archiv/bestand.jsp?guid=c3758069-f6f4-4df3-9ad6-4a7b89468bdb",
+            "format": "text/html",
+            "label": "Link zum Objekt beim Datengeber"
+        }
+    ],
+    "seeAlso": [
+        {
+            "@id": "https://www.deutsche-digitale-bibliothek.de/item/xml/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU",
+            "format": "application/xml",
+            "profile": "http://www.europeana.eu/schemas/edm/EDM.xsd"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "http://8a7275ee-eb50-4752-9f50-d40da659e34e",
+            "@type": "sc:Sequence",
+            "viewingHint": "paged",
+            "canvases": [
+                {
+                    "@id": "http://cf4a7962-20ad-43a9-a6ca-6674d4dcb900",
+                    "@type": "sc:Canvas",
+                    "label": "1",
+                    "height": 400,
+                    "width": 600,
+                    "images": [
+                        {
+                            "@id": "",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://cf4a7962-20ad-43a9-a6ca-6674d4dcb900",
+                            "resource": {
+                                "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/f46f6faa-ad2b-4e9a-b17b-d0b5a17f94c6/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 600,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/f46f6faa-ad2b-4e9a-b17b-d0b5a17f94c6",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "@id": "http://cf4a7962-20ad-43a9-a6ca-6674d4dcb900_structure",
+            "@type": "sc:Canvas",
+            "label": "1",
+            "canvases": ["http://cf4a7962-20ad-43a9-a6ca-6674d4dcb900"]
+        }
+    ]
+}

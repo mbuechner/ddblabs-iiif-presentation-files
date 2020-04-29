@@ -1,5 +1,5 @@
-Sparte: Archiv
-
+Sparte: Archiv  
+Provider: Landesarchiv Baden-Württemberg  
 Ursprungsformat: EAD(DDB)
 
 DDB-Objekt: https://www.deutsche-digitale-bibliothek.de/item/BGISQUG3F43FTFNBQ64YUGJGX4KYUQQ4
