@@ -3,11 +3,7 @@
 	],
 	"@type": "sc:Manifest",
 	"@id": "http://bc6f1610-aa42-4514-9701-b2b785dd89f0",
-	"label":{
-	    "de": [
-	    "Bergedorfer Zeitung und Anzeiger-1880-01-01"
-        ]
-      },
+	"label": "Bergedorfer Zeitung und Anzeiger-1880-01-01",
 	"metadata": 
 	[
 		{
