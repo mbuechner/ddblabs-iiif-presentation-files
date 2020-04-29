@@ -8,21 +8,62 @@
 	    "Bergedorfer Zeitung und Anzeiger-1880-01-01"
         ]
       },
-      "navDate": "1880-01-01T00:00:00Z",
 	"metadata": [
 		{
-			"label": "Label",
-			"value": "Value"
+			"label": [
+				{
+					"@language": "de",
+					"@value": "Titel"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Title"
+                }
+            ],		
+			"value": "Bergedorfer Zeitung und Anzeiger, 01.01.1880"
 		}
 	],
-	"description": [
-		{
-			"@value": "[Click to edit description]",
-			"@language": "de"
-		}
-	],
+	 {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Zeitraum"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Period"
+                }
+            ],
+            "value": "1880-01-01"
+        },
+
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Erschienen"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Published"
+                }
+            ],
+            "value": "Hamburg"
+        }
+    ],
+	"navDate": "1880-01-01T00:00:00Z",
 	"license": "http://creativecommons.org/publicdomain/zero/1.0/",
-	"attribution": "[Click to edit attribution]",
+	"attribution": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky",
+    "seeAlso": [
+        {
+            "@id": "https://resolver.sub.uni-hamburg.de/id/PPN1012343960",
+            "label": "OPAC",
+            "format": "text/html"
+        },
+        {
+            "@id": "https://digitalisate.sub.uni-hamburg.de/de/nc/detail.html?tx_dlf%5Bid%5D=38424&tx_dlf%5Bpage%5D=1&tx_dlf%5Bpointer%5D=0",
+            "format": "text/html"
+        }
+    ],
 	"sequences": [
 		{
 			"@id": "http://a0d5abe3-c441-4ea2-b811-c85044193114",
@@ -309,7 +350,7 @@
 	"logo": "https://dev-ddb.fiz-karlsruhe.de/ddb-current/assets/portal/newspaper/header/Gruppe%20934-72e66507a7838cd596fd6c341a34df1a.svg",
 	"seeAlso": [
 	{
-	    "id": "https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/XSV7U5CJQEDZELX3PLHK6SKRYWBX4BY2",
+	    "id": "https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA",
 	    "type": "Dataset",
 	    "format": "XML",
 	    "profile": ""
