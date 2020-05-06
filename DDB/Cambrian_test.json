@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3320825/manifest.json",
+  "@id": "http://ebb769dd-ad97-4aa6-9ac5-e9e27c75ccdd",
   "@type": "sc:Manifest",
   "label": "Cambrian (1804-10-13)",
   "navDate": "1804-10-13T00:00:00Z",
