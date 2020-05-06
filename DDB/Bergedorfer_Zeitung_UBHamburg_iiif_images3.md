@@ -6,14 +6,10 @@ Versuch eine Zeitung mit vier Seiten zu gestalten.
 BSB benutzt nicht das Label description, welches sogar durch den Editor angeboten wird
 
 
-#### Sparte: 
-Bibliotek
-#### Provider: 
-Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky
-#### Ursprungsformat: 
-METS/Newspaper METS
-#### DDB-Objekt (URL):
-https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
+Sparte: Bibliotek
+Provider: Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky
+Ursprungsformat: METS/Newspaper METS
+DDB-Objekt (URL): https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
 
 
 ### Vorgehen:
