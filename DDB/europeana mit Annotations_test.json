@@ -1,6 +1,6 @@
 {
   "@context": [
-    "http://9d2b1acf-9a2c-4964-a2f9-fcc20f1e63fb"
+    "http://iiif.io/api/presentation/2/context.json"
   ],
   "id": "https://preview.iiif.io/cookbook/0068-newspaper/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
   "type": "Manifest",
