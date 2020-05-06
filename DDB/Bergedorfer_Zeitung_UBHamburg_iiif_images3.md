@@ -23,7 +23,7 @@ DDB-ID: Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
 Link zum Testsystem: https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
 
 Header METS:
- ```
+ ```xml
  <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dv="http://dfg-viewer.de/" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
  <responseDate>2020-02-17T07:23:24Z</responseDate> 
   <request verb="GetRecord" identifier="PPN1012343960_18800101" metadataPrefix="mets">https://digitalisate.sub.uni-hamburg.de/oai-zeitungen.html</request> 
