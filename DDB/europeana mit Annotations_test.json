@@ -1,199 +1,188 @@
 {
-  "@context": [
-    "http://iiif.io/api/presentation/3/context.json"
-  ],
-  "id": "https://preview.iiif.io/cookbook/0068-newspaper/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
-  "type": "Manifest",
-  "partOf": [
+  "@type": "sc:Manifest",
+  "@id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/manifest",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "within": "http://data.theeuropeanlibrary.org/BibliographicResource/3000096302605",
+  "label": [
     {
-      "id": "https://preview.iiif.io/cookbook/0068-newspaper/recipe/0068-newspaper/newspaper_title-collection.json",
-      "type": "Collection"
+      "@value": "Berliner Tageblatt - 1906-02-04"
     }
   ],
-  "label": {
-    "de": [
-      "Berliner Tageblatt - 1925-02-16"
-    ]
-  },
   "metadata": [
     {
-      "label": {
-        "en": [
-          "type"
-        ]
-      },
-      "value": {
-        "none": [
-          "http://schema.org/PublicationIssue",
-          "http://data.europeana.eu/concept/base/18"
-        ],
-        "en": [
-          "Analytic serial",
-          "Newspaper",
-          "Newspaper Issue"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "language"
-        ]
-      },
-      "value": {
-        "none": [
-          "de"
-        ],
-        "en": [
-          "German"
-        ]
-      }
-    }
-  ],
-  "thumbnail": [
-    {
-      "id": "https://api.europeana.eu/api/v2/thumbnail-by-url.json?uri=https%3A%2F%2Fiiif.europeana.eu%2Fimage%2F2YMIN6YXMQ6COVM5AO2XKB5KMCKPMT2YKEKNMAGHVRBIHOOY4AVA%2Fpresentation_images%2F9340afd0-ffe2-11e5-b68d-fa163e60dd72%2Fnode-2%2Fimage%2FSBB%2FBerliner_Tageblatt%2F1925%2F02%2F16%2F0%2FF_SBB_00001_19250216_054_079_0_001%2Ffull%2Ffull%2F0%2Fdefault.jpg&type=TEXT",
-      "type": "Image",
-      "format": "image/jpeg"
-    }
-  ],
-  "navDate": "1925-02-16T00:00:00Z",
-  "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution"
+      "label": "type",
+      "value": [
+        {
+          "@value": "http://schema.org/PublicationIssue"
+        },
+        {
+          "@language": "en",
+          "@value": "Analytic serial"
+        },
+        {
+          "@language": "en",
+          "@value": "Newspaper"
+        },
+        {
+          "@language": "en",
+          "@value": "Newspaper Issue"
+        },
+        {
+          "@value": "http://data.europeana.eu/concept/base/18"
+        }
       ]
     },
-    "value": {
-      "en": [
-        "Berliner Tageblatt - https://www.europeana.eu/portal/record/9200355/BibliographicResource_3000096302605.html. Staatsbibliothek zu Berlin - Preußischer Kulturbesitz. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/"
+    {
+      "label": "language",
+      "value": [
+        {
+          "@value": "de"
+        }
       ]
     }
+  ],
+  "thumbnail": {
+    "@type": "dctypes:Image",
+    "@id": "https://api.europeana.eu/api/v2/thumbnail-by-url.json?uri=https%3A%2F%2Fiiif.europeana.eu%2Fimage%2F557EMFHM5W7ORX4UNK4QWD4NE2CYFSZ4GSZTZANQMJZ6XGSCX22Q%2Fpresentation_images%2F7a71bca0-f804-11e5-bc8a-fa163e60dd72%2Fnode-2%2Fimage%2FSBB%2FBerliner_Tageblatt%2F1906%2F02%2F04%2F1%2FF_SBB_00001_19060204_035_062_1_001%2Ffull%2Ffull%2F0%2Fdefault.jpg&type=TEXT"
   },
-  "logo": [
-    {
-      "id": "https://style.europeana.eu/images/europeana-logo-default.png"
-    }
-  ],
+  "navDate": "1906-02-04T00:00:00Z",
+  "attribution": "Berliner Tageblatt - 1906-02-04 - https://www.europeana.eu/item/9200355/BibliographicResource_3000098462054. Staatsbibliothek zu Berlin - Preußischer Kulturbesitznull. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "logo": "https://style.europeana.eu/images/europeana-logo-default.png",
   "seeAlso": [
     {
-      "id": "https://www.europeana.eu/api/v2/record/9200355/BibliographicResource_3000096302513.json-ld",
-      "type": "Dataset",
+      "@id": "https://www.europeana.eu/api/v2/record/9200355/BibliographicResource_3000098462054.json-ld",
       "format": "application/ld+json",
+      "profile": "http://www.europeana.eu/schemas/edm/"
+    },
+    {
+      "@id": "https://www.europeana.eu/api/v2/record/9200355/BibliographicResource_3000098462054.json",
+      "format": "application/json",
+      "profile": "http://www.europeana.eu/schemas/edm/"
+    },
+    {
+      "@id": "https://www.europeana.eu/api/v2/record/9200355/BibliographicResource_3000098462054.rdf",
+      "format": "application/rdf+xml",
       "profile": "http://www.europeana.eu/schemas/edm/"
     }
   ],
-  "items": [
+  "sequences": [
     {
-      "id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000096302513/canvas/p1",
-      "type": "Canvas",
-      "label": {
-        "none": [
-          "p. 1"
-        ]
-      },
-      "seeAlso": [
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "startCanvas": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/canvas/p1",
+      "canvases": [
         {
-          "id": "https://preview.iiif.io/cookbook/0068-newspaper/recipe/0068-newspaper/newspaper_issue_1-alto_p1.xml",
-          "type": "Text",
-          "format": "application/xml",
-          "profile": "http://www.loc.gov/standards/alto/",
-          "label": {
-            "en": [
-              "ALTO XML"
-            ]
-          }
-        }
-      ],
-      "height": 5000,
-      "width": 3602,
-      "items": [
-        {
-          "id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000096302513/annotation_page_painting/ap1",
-          "type": "AnnotationPage",
-          "items": [
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/canvas/p1",
+          "label": "p. 1",
+          "height": 3613,
+          "width": 2543,
+          "attribution": "Berliner Tageblatt - 1906-02-04 - https://www.europeana.eu/item/9200355/BibliographicResource_3000098462054. Staatsbibliothek zu Berlin - Preußischer Kulturbesitznull. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
             {
-              "id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000096302513/annotation/p1",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://iiif.io/api/image/3.0/example/reference/4ce82cef49fb16798f4c2440307c3d6f-newspaper-p1/full/max/0/default.jpg",
-                "type": "Image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/557EMFHM5W7ORX4UNK4QWD4NE2CYFSZ4GSZTZANQMJZ6XGSCX22Q/presentation_images/7a71bca0-f804-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1906/02/04/1/F_SBB_00001_19060204_035_062_1_001/full/full/0/default.jpg",
                 "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://iiif.io/api/image/3.0/example/reference/4ce82cef49fb16798f4c2440307c3d6f-newspaper-p1",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ]
+                "service": {
+                  "@id": "https://iiif.europeana.eu/image/557EMFHM5W7ORX4UNK4QWD4NE2CYFSZ4GSZTZANQMJZ6XGSCX22Q/presentation_images/7a71bca0-f804-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1906/02/04/1/F_SBB_00001_19060204_035_062_1_001",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
               },
-              "target": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000096302513/canvas/p1"
+              "on": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/canvas/p1"
             }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/annopage/1"
           ]
-        }
-      ],
-      "annotations": [
+        },
         {
-          "id": "https://preview.iiif.io/cookbook/0068-newspaper/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json",
-          "type": "AnnotationPage"
-        }
-      ]
-    },
-    {
-      "id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000096302513/canvas/p2",
-      "type": "Canvas",
-      "label": {
-        "none": [
-          "p. 2"
-        ]
-      },
-      "seeAlso": [
-        {
-          "id": "https://preview.iiif.io/cookbook/0068-newspaper/recipe/0068-newspaper/newspaper_issue_1-alto_p2.xml",
-          "type": "Text",
-          "format": "application/xml",
-          "profile": "http://www.loc.gov/standards/alto/",
-          "label": {
-            "en": [
-              "ALTO XML"
-            ]
-          }
-        }
-      ],
-      "height": 5000,
-      "width": 3602,
-      "items": [
-        {
-          "id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000096302513/annotation_page_painting/ap2",
-          "type": "AnnotationPage",
-          "items": [
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/canvas/p2",
+          "label": "p. 2",
+          "height": 3611,
+          "width": 2532,
+          "attribution": "Berliner Tageblatt - 1906-02-04 - https://www.europeana.eu/item/9200355/BibliographicResource_3000098462054. Staatsbibliothek zu Berlin - Preußischer Kulturbesitznull. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
             {
-              "id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000096302513/annotation/p2",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://iiif.io/api/image/3.0/example/reference/4ce82cef49fb16798f4c2440307c3d6f-newspaper-p2/full/max/0/default.jpg",
-                "type": "Image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/557EMFHM5W7ORX4UNK4QWD4NE2CYFSZ4GSZTZANQMJZ6XGSCX22Q/presentation_images/7a71bca0-f804-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1906/02/04/1/F_SBB_00001_19060204_035_062_1_002/full/full/0/default.jpg",
                 "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://iiif.io/api/image/3.0/example/reference/4ce82cef49fb16798f4c2440307c3d6f-newspaper-p2",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ]
+                "service": {
+                  "@id": "https://iiif.europeana.eu/image/557EMFHM5W7ORX4UNK4QWD4NE2CYFSZ4GSZTZANQMJZ6XGSCX22Q/presentation_images/7a71bca0-f804-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1906/02/04/1/F_SBB_00001_19060204_035_062_1_002",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
               },
-              "target": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000096302513/canvas/p2"
+              "on": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/canvas/p2"
             }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/annopage/2"
           ]
-        }
-      ],
-      "annotations": [
+        },
         {
-          "id": "https://preview.iiif.io/cookbook/0068-newspaper/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json",
-          "type": "AnnotationPage"
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/canvas/p3",
+          "label": "p. 3",
+          "height": 3613,
+          "width": 2544,
+          "attribution": "Berliner Tageblatt - 1906-02-04 - https://www.europeana.eu/item/9200355/BibliographicResource_3000098462054. Staatsbibliothek zu Berlin - Preußischer Kulturbesitznull. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/557EMFHM5W7ORX4UNK4QWD4NE2CYFSZ4GSZTZANQMJZ6XGSCX22Q/presentation_images/7a71bca0-f804-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1906/02/04/1/F_SBB_00001_19060204_035_062_1_003/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://iiif.europeana.eu/image/557EMFHM5W7ORX4UNK4QWD4NE2CYFSZ4GSZTZANQMJZ6XGSCX22Q/presentation_images/7a71bca0-f804-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1906/02/04/1/F_SBB_00001_19060204_035_062_1_003",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/canvas/p3"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/annopage/3"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/canvas/p4",
+          "label": "p. 4",
+          "height": 3612,
+          "width": 2531,
+          "attribution": "Berliner Tageblatt - 1906-02-04 - https://www.europeana.eu/item/9200355/BibliographicResource_3000098462054. Staatsbibliothek zu Berlin - Preußischer Kulturbesitznull. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/557EMFHM5W7ORX4UNK4QWD4NE2CYFSZ4GSZTZANQMJZ6XGSCX22Q/presentation_images/7a71bca0-f804-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1906/02/04/1/F_SBB_00001_19060204_035_062_1_004/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://iiif.europeana.eu/image/557EMFHM5W7ORX4UNK4QWD4NE2CYFSZ4GSZTZANQMJZ6XGSCX22Q/presentation_images/7a71bca0-f804-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1906/02/04/1/F_SBB_00001_19060204_035_062_1_004",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/canvas/p4"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000098462054/annopage/4"
+          ]
         }
       ]
     }
