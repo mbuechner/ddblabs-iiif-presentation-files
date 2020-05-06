@@ -20,7 +20,7 @@ Die Bilder wurde über den [IIIF Editor](https://digital.bodleian.ox.ac.uk/manif
 wurden einem Zeitungsportalobjekt der UB Hamburg entnommen
 
 DDB-ID: Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
-Link zum Testsystem: https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
+Link zum Testsystem: [https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA]
 
 Header METS:
  ```xml
