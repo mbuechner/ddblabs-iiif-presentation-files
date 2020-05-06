@@ -1,18 +1,29 @@
-# Beschreibung des Objekts
-
+## Beschreibung: 
 Versuch eine Zeitung mit vier Seiten zu gestalten. 
 
-## Beobachtung: 
+
+### Beobachtung:
 BSB benutzt nicht das Label description, welches sogar durch den Editor angeboten wird
 
-## Vorgehen
+
+#### Sparte: 
+Bibliotek
+#### Provider: 
+Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky
+#### Ursprungsformat: 
+METS/Newspaper METS
+#### DDB-Objekt (URL):
+https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
+
+
+### Vorgehen:
 Die Bilder wurde über den [IIIF Editor](https://digital.bodleian.ox.ac.uk/manifest-editor/#/?_k=w7lpka) kreiert, die Links zu den IIIF-Bildern
 wurden einem Zeitungsportalobjekt der UB Hamburg entnommen
 
 DDB-ID: Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
 Link zum Testsystem: https://dev-ddb.fiz-karlsruhe.de/ddb-current/item/xml/Z72P4R3XISH4HMGD5H4VJ6HWBPEV3GZA
 
-#### Header METS:
+Header METS:
  ```
  <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dv="http://dfg-viewer.de/" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
  <responseDate>2020-02-17T07:23:24Z</responseDate> 
