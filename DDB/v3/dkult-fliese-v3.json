@@ -1,7 +1,7 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://labs.ddb.de/app/iiif-presentation/api/file?f=dkult-fliese.json",
-    "@type": "sc:Manifest",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com",
+    "type": "sc:Manifest",
     "label": {
         "de": ["Fliese"],
         "en": ["Tile"]
