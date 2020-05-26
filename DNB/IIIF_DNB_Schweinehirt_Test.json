@@ -45,7 +45,7 @@
           "height": 4123,
           "images": [
             {
-              "@id": " ",
+              "@id": "",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "on": "https://portal.dnb.de/bookviewer/view/1014156645/1/canvas",
