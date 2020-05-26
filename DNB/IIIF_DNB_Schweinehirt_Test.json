@@ -50,9 +50,7 @@
               "resource": {
                 "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 600,
-                "height": 400
+                "format": "image/jpeg"
               }
             }
           ]
