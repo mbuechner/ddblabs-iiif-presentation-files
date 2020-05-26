@@ -77,5 +77,5 @@
     "@id": "http://etc.dnb.de.appr/mets-service/objects/metadata/idn/1014156645",
     "format": "text/xml",
     "profile": "http://www.loc.gov/standards/mets/profile_docs/mets.profile.v2-0.xsd"
-  },
+  }
  }
