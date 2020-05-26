@@ -29,11 +29,6 @@
       "value": "https://nbn-resolving.org/urn:nbn:de:101:1-201203204632"
     }
    ],
-  "description": [
-    {
-      "@value": "Beschreibung des Werkes..."
-    }
-  ],
   "license": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
   "attribution": "digitized by Deutsche Nationalbibliothek",
   "sequences": [
