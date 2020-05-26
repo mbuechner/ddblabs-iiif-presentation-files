@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://services.dnb.de/iiif/1019372982",
+    "@id": "http://services.dnb.de/iiif/1019372982",
     "@type": "sc:manifest",
     "label": "Führer durch Leipzigs Sehenswürdigkeiten und Geschäftswelt mit Verkehrs-Lexikon und grossem Stadtplan",
     "metadata": [
