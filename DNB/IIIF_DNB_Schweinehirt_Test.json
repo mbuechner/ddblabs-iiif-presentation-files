@@ -60,8 +60,7 @@
                                     "@id": "https://labs.ddb.de/app/iiif-image/iiif/2/1014156645",
                                     "profile": "http://iiif.io/api/image/2/level1.json"
               },
-             "on":"https://portal.dnb.de/bookviewer/view/1014156645/1/canvas"
-               }
+                }
             }
           ]
         }
