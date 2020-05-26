@@ -55,8 +55,9 @@
                 "height": 400,
                 "width": 600,
                 "format": "image/jpeg"
-              }
-            }
+              },
+             "on":"https://portal.dnb.de/bookviewer/view/1014156645/1/canvas"
+               }
           ]
         }
       ]
