@@ -41,8 +41,6 @@
           "@id": "https://portal.dnb.de/bookviewer/view/1014156645/1/canvas",
           "@type": "sc:Canvas",
           "label": "1",
-          "width": 600,
-          "height": 400,
           "images": [
             {
               "@id": "",
