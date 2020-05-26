@@ -1,5 +1,5 @@
 {
-  "@id": "https://labs.ddb.de/app/iiif-presentation/browse?d=Testdaten&f=Testdaten/DNB_TEST_Schweinehirt.json",
+  "@id": "http://services.dnb.de/iiif/1014156645",
   "@type": "sc:Manifest",
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "viewingDirection": "left-to-right",
@@ -51,7 +51,7 @@
   },
   "sequences": [
     {
-      "@id": "https://portal.dnb.de/bookviewer/view/1014156645/sequence",
+      "@id": "https://services.dnb.de/iiif/1014156645/sequence/normal",
       "@type": "sc:Sequence",
       "label": "Current Page Order",
       "viewingDirection": "left-to-right",
@@ -75,7 +75,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://portal.dnb.de/bookviewer/view/1014156645",
+                  "@id": "https://services.dnb.de/iiif/1014156645",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 400,
