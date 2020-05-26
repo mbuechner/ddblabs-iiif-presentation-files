@@ -70,7 +70,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/1/p.jpg?reduce=1.6",
+                "@id": "https://portal.dnb.de/bookviewer/view/1014156645/img/page/001/p.jpg?reduce=1.6",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
