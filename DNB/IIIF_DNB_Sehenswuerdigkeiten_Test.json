@@ -53,7 +53,8 @@
                 "label": "1",
                 "height": 800,
                 "width": 1126,
-                "images": [{
+                "images": [
+                    {
                     "@id": "https://portal.dnb.de/bookviewer/view/1019372982/1/image",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
@@ -64,10 +65,10 @@
                         "format": "image/jpeg",
                         "height": 800,
                         "width": 1126,
-                     "service" : {
-                     "@context" : "http://iiif.io/api/image/2/context.json",
-                     "@id" : "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1019372982/info.json",
-            "profile" : "http://iiif.io/api/image/2/level1.json"
+                     "service": {
+                     "@context": "http://iiif.io/api/image/2/context.json",
+                     "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1019372982/info.json",
+            "profile": "http://iiif.io/api/image/2/level1.json"
                     }
                     }
                 }
