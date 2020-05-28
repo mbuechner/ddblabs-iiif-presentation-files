@@ -51,8 +51,8 @@
                 "@id": "https://portal.dnb.de/bookviewer/view/1019372982/1/canvas",
                 "@type": "sc:Canvas",
                 "label": "1",
-                "height": 400,
-                "width": 600,
+                "height": 1126,
+                "width": 800,
                 "images": [
                     {
                     "@id": "https://portal.dnb.de/bookviewer/view/1019372982/1/image",
@@ -63,8 +63,8 @@
                         "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1019372982/full/full/0/default.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 400,
-                        "width": 600,
+                        "height": 1126,
+                        "width": 800,
                      "service": {
                      "@context": "http://iiif.io/api/image/2/context.json",
                      "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1019372982/info.json",
