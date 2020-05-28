@@ -59,9 +59,14 @@
                     "motivation": "sc:painting",
                     "on": "https://portal.dnb.de/bookviewer/view/1019372982/1/canvas",
                     "resource": {
-                        "@id": "https://portal.dnb.de/bookviewer/view/1019372982/img/page/001/p.jpg",
+                        "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1019372982/full/full/0/default.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
+                        "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1019372982",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          },
                         "height": 800,
                         "width": 1126
                     }
