@@ -67,7 +67,7 @@
                         "width": 800,
                      "service": {
                      "@context": "http://iiif.io/api/image/2/context.json",
-                     "@id": "https://gdzdev.sub.uni-goettingen.de/iiif/image/gdz:PPN664326250:00000001",
+                     "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1019372982",
             "profile": "http://iiif.io/api/image/2/level1.json"
                     }
                     }
