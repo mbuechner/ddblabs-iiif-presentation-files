@@ -104,12 +104,13 @@
 												"sizeByForcedWh",
 												"sizeByWh",
 												"mirroring"
-											]
+											 ]
 										}
-									]
+									            ]
 							    
-        }
-      } ]
+                                                                             }
+                                                                       } 
+						}]
     } ]
   } ]
 }
