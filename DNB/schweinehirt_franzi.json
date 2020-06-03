@@ -30,6 +30,16 @@
 		}
 	
 	],
+	"thumbnail": [{
+        "id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/full/80,100/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "service": [{
+            "id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645",
+            "type": "ImageService3",
+            "profile": "level1"
+        }]
+    }],
 	"description": [
 		{
 			"@value": "Testmanifest der DNB. ",
