@@ -119,7 +119,7 @@
 										}
 									            ],
 									  "selector": {
-      "@context": "http://iiif.io/api/image/2/context.json"n",
+      "@context": "http://iiif.io/api/image/2/context.json",
       "@type": "iiif:ImageApiSelector",
       "region": "50,50,1250,1850"
     }
