@@ -73,7 +73,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/full/full/0/gray.jpg",
+								"@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/50,50,1250,1850/full/0/gray.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
