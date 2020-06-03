@@ -1,0 +1,258 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://23774c57-3289-49a1-a2bf-205d6bfa0e4a",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [
+		{
+			"label": "Verlag",
+			"value": "Verlag Junge Welt"
+		},
+		{
+			"label": "Verlagsort",
+			"value": "Budapest"
+		},
+		{
+			"label": "Jahr",
+			"value": "[19]57"
+		},
+		{
+			"label": "Umfang",
+			"value": "12 Blatt"
+		},
+		{
+			"label": "Sprache",
+			"value": "Deutsch"
+		},
+		{
+			"label": "Autor",
+			"value": "Andersen "
+		},
+	
+	],
+	"description": [
+		{
+			"@value": "Testmanifest der DNB. ",
+			"@language": "ger"
+		}
+	],
+	"license": "",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://ab729f88-a5fe-48a6-84b6-5718d7c0f7bd",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://7b6ee490-dbc7-4827-8320-d92d4963c9fe",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1651,
+					"width": 2246,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://456a0cbf-274c-41bf-a6aa-3b3a3c4a24f9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 3708146,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1651,
+								"width": 2246
+							},
+							"on": "http://7b6ee490-dbc7-4827-8320-d92d4963c9fe"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://069c7aab-c92c-4808-917a-8a5c2c06af35",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": "1000",
+					"width": "1000",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3d674724-a1f4-47ec-9d46-da1154715d2a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/full/full/45/gray.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 3708146,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1651,
+								"width": 2246
+							},
+							"on": "http://069c7aab-c92c-4808-917a-8a5c2c06af35"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://7ea7251d-d7f3-47df-92b4-72d2a06b3120",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1651,
+					"width": 2246,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c2e216f5-45bb-47ca-95d3-bfeb99f2f47f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645/1000,500,1000,1000/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1014156645",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 3708146,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1651,
+								"width": 2246
+							},
+							"on": "http://7ea7251d-d7f3-47df-92b4-72d2a06b3120"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"logo": ""
+}
