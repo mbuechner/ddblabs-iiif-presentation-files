@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/iiif_collection.json",
+  "@type": "sc:Collection",
+  "label": "DNB IIIF Collection",
+  "collections": [
+    {
+      "@id": "https://labs.ddb.de/app/iiif-presentation/api/file?f=DNB%2FSchweinehirt_grau.json",
+      "@type": "sc:Collection",
+      "label": "Schweinehirt Franzi Grau"
+    },    
+    {
+      "@id": "https://labs.ddb.de/app/iiif-presentation/api/file?f=DNB%2Fschweinehirt_franzi.json",
+      "@type": "sc:Collection",
+      "label": "Schweinehirt Franzi"
+    },
+    {
+      "@id": "https://labs.ddb.de/app/iiif-presentation/api/file?f=DNB%2FIIIF_DNB_Sehenswuerdigkeiten_Test.json",
+      "@type": "sc:Collection",
+      "label": "Sehenswürdigkeiten"
+    },
+    {
+      "@id": "https://labs.ddb.de/app/iiif-presentation/api/file?f=DNB%2FIIIF_DNB_Schweinehirt_Test.json",
+      "@type": "sc:Collection",
+      "label": "Schweinehirt Test 1"
+    },
+    {
+      "@id": "https://labs.ddb.de/app/iiif-presentation/api/file?f=DNB%2FDNB_TEST_Schweinehirt_2.json",
+      "@type": "sc:Collection",
+      "label": "Schweinehirt Test 2"
+    }
+  ]
+}
