@@ -3,7 +3,6 @@
   "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/iiif_collection.json",
   "@type": "sc:Collection",
   "label": "DNB IIIF Collection",
-   "viewingHint": "top",
   "description": "Description of Collection",
   "attribution": "Provided by Anke",
 
