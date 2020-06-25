@@ -3,7 +3,7 @@
   "type": "Manifest",
   "items": [
     {
-      "id": "DNB/IIIF_DNB_Schweinehirt_Test.json/canvas/0",
+      "id": "https://labs.ddb.de/app/iiif-presentation/api/file?f=DNB%2index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
