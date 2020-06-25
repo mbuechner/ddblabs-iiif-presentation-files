@@ -26,6 +26,34 @@
       "profile" : "http://iiif.io/api/image/2/level1.json"
     }
   },
+   "thumbnail" : {
+    "@id" : "https://portal.dnb.de/bookviewer/view/1124183418/img/page/2/p.jpg?reduce=15",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+   "thumbnail" : {
+    "@id" : "https://portal.dnb.de/bookviewer/view/1124183418/img/page/3/p.jpg?reduce=15",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+   "thumbnail" : {
+    "@id" : "https://portal.dnb.de/bookviewer/view/1124183418/img/page/4/p.jpg?reduce=15",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+   "thumbnail" : {
+    "@id" : "https://portal.dnb.de/bookviewer/view/1124183418/img/page/5/p.jpg?reduce=15",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
   "sequences" : [ {
     "@id" : "https://services.dnb.de/iiif/1124183418/sequence/normal",
     "@type" : "sc:Sequence",
@@ -165,6 +193,21 @@
     "canvases" : [ "https://portal.dnb.de/bookviewer/view/1014156645/img/page/1/p.jpg?reduce=1.5" ]
   }, {
     "@id" : "https://portal.dnb.de/bookviewer/view/1124183418/range/LOG_0002",
+    "@type" : "sc:Canvas",
+    "label" : "Startseite",
+    "canvases" : [ "https://portal.dnb.de/bookviewer/view/1124183418/img/page/s/p.jpg?reduce=1.5" ]
+  }, {
+    "@id" : "https://portal.dnb.de/bookviewer/view/1124183418/range/LOG_0003",
+    "@type" : "sc:Canvas",
+    "label" : "Startseite",
+    "canvases" : [ "https://portal.dnb.de/bookviewer/view/1124183418/img/page/s/p.jpg?reduce=1.5" ]
+  }, {
+    "@id" : "https://portal.dnb.de/bookviewer/view/1124183418/range/LOG_0004",
+    "@type" : "sc:Canvas",
+    "label" : "Startseite",
+    "canvases" : [ "https://portal.dnb.de/bookviewer/view/1124183418/img/page/s/p.jpg?reduce=1.5" ]
+  }, {
+    "@id" : "https://portal.dnb.de/bookviewer/view/1124183418/range/LOG_0005",
     "@type" : "sc:Canvas",
     "label" : "Startseite",
     "canvases" : [ "https://portal.dnb.de/bookviewer/view/1124183418/img/page/s/p.jpg?reduce=1.5" ]
