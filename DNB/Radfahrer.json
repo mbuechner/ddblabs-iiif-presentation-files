@@ -16,11 +16,11 @@
     "label" : "Verlag",
     "value" : [ "A. M. Falk" ]
   }, {
-    "label" : "Sprache",
-    "value" : [ "ger" ]
+    "label" : "Rechteinformation",
+    "value" : [ "Wahrnehmung der Rechte durch die VG WORT (§ 51 VGG)" ]
   }, {
     "label" : "URN",
-    "value" : "https://nbn-resolving.org/urn:nbn:de:101:1-201203204632"
+    "value" : " urn:nbn:de:101:1-201706254225"
   } ],
   "license" : "http://rightsstatements.org/vocab/NoC-NC/1.0/",
   "attribution" : "digitized by Deutsche Nationalbibliothek",
@@ -40,10 +40,10 @@
         "motivation" : "sc:painting",
         "on" : "https://portal.dnb.de/bookviewer/view/1124183418/1/canvas",
         "resource" : {
-          "@id" : "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1124183418/full/400,/90/default.jpg",
+          "@id" : "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1124183418/full/full/default.jpg",
           "@type" : "dctypes:Image",
-          "height" : 400,
-          "width" : 600,
+          "height" : 600,
+          "width" : 400,
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
