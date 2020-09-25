@@ -8,17 +8,17 @@
 
   "collections": [
     {
-      "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/iiif_collection.json",
+      "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/collectiontest.json",
       "@type": "sc:Collection",
       "label": "Test 1"
     },    
     {
-      "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/iiif_collection.json",
+      "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/collectiontest.json",
       "@type": "sc:Collection",
       "label": "Test 2"
     },
     {
-      "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/iiif_collection.jsonn",
+      "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/collectiontest.json",
       "@type": "sc:Collection",
       "label": "Test 3"
     }
