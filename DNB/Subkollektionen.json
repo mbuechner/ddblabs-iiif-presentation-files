@@ -21,6 +21,6 @@
       "@id": "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/iiif_collection.jsonn",
       "@type": "sc:Collection",
       "label": "Test 3"
-    },
+    }
    ]
 }
