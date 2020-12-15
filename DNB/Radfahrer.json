@@ -1,7 +1,7 @@
 {
   "@id" : "https://labs.ddb.de/app/iiif-presentation/api/file?f=DNB%2FRadfahrer.json&rand=26014",
   "@type" : "sc:Manifest",
-  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@context" : "http://etc.dnb.de.test/cantaloupe/iiif/2/image.tif/info.json",
   "viewingDirection" : "left-to-right",
   "viewingHint" : "paged",
   "navDate" : "1957-01-01T00:00:00+01:00",
@@ -40,14 +40,14 @@
         "motivation" : "sc:painting",
         "on" : "https://portal.dnb.de/bookviewer/view/1124183418/1/canvas",
         "resource" : {
-          "@id" : "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1124183418/full/full/default.jpg",
+          "@id" : "http://etc.dnb.de.test/cantaloupe/iiif/2/image.tif/0,0,200,200/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "height" : 600,
           "width" : 400,
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/1124183418",
+            "@context" : "http://etc.dnb.de.test/cantaloupe/iiif/2/image.tif/info.json",
+            "@id" : "https://labs.ddb.de/app/iiif-image-dnb/iiif/2/image.tif",
             "profile" : "http://iiif.io/api/image/2/level1.json"
           }
         }
