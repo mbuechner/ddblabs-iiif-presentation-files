@@ -67,7 +67,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "{{iiif-image-url}}/0ffcfbc9-e582-4295-9557-cc6acc384878.jpg",
+                "@id": "{{iiif-image-url}}/0ffcfbc9-e582-4295-9557-cc6acc384878/full/full/0/default.jpg",
                 "@type": "dctype:Image",
                 "format": "image/jpg",
                 "height": 207,
