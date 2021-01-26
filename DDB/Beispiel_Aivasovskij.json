@@ -59,6 +59,7 @@
         {
           "@id": "https://api.ddb.de/iiif/presentation/v2/EOJAMCAVD755DTKBYD5JG3SLRXLITTQQ/canvas",
           "@type": "sc:Canvas",
+          "label": "Küstenlandschaft mit Hafenstadt",
           "height": 207,
           "width": 300,
           "images": [
