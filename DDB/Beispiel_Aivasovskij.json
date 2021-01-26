@@ -1,0 +1,81 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/v2/EOJAMCAVD755DTKBYD5JG3SLRXLITTQQ/manifest",
+  "label": "Küstenlandschaft mit Hafenstadt",
+  "metadata": [
+    {
+      "label": "Objektbezeichnung",
+      "value": "Gemälde"
+    },
+    {
+      "label": "Material/Technik",
+      "value": "Leinwand; Öl"
+    },
+    {
+      "label": "Maße",
+      "value": "H: 56 cm, B: 80 cm"
+    },
+    {
+      "label": "Herstellung",
+      "value": "1859 ; Aiwasoffski, Iwan (Künstler)"
+    },
+    {
+      "label": "Bezug (was)",
+      "value": "Natur/Landschaft"
+    },
+    {
+      "label": "Beschriftung",
+      "value": "Signatur: bezeichnet und datiert (u.r.:A?bazobcki? / 1859)"
+    },
+    {
+      "label": "Klassifikation",
+      "value": "Malerei (Sachgruppe); Romantik (Stil)"
+    },
+    {
+      "label": "Standort",
+      "value": "Kunsthalle zu Kiel"
+    },
+    {
+      "label": "Inventarnummer",
+      "value": "901"
+    },
+    {
+      "label": "LIDO Identifikator",
+      "value": "DE-MUS-076017/lido/901"
+    }
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+  "attribution": "Kunsthalle zu Kiel",
+  "seeAlso": {
+    "@id": "https://www.deutsche-digitale-bibliothek.de/item/EOJAMCAVD755DTKBYD5JG3SLRXLITTQQ",
+    "format": "text/html"
+  },
+  "sequences": [
+    {
+      "@id": "https://api.ddb.de/iiif/presentation/v2/EOJAMCAVD755DTKBYD5JG3SLRXLITTQQ/sequence",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://api.ddb.de/iiif/presentation/v2/EOJAMCAVD755DTKBYD5JG3SLRXLITTQQ/canvas",
+          "@type": "sc:Canvas",
+          "height": 207,
+          "width": 300,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{iiif-image-url}}/0ffcfbc9-e582-4295-9557-cc6acc384878.jpg",
+                "@type": "dctype:Image",
+                "format": "image/jpg",
+                "height": 207,
+                "width": 300
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
