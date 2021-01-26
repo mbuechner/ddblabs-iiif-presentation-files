@@ -67,12 +67,13 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "{{iiif-image-url}}/0ffcfbc9-e582-4295-9557-cc6acc384878/full/full/0/default.jpg",
+                "@id": "{{iiif-image-url}}/0ffcfbc9-e582-4295-9557-cc6acc384878.jpg",
                 "@type": "dctype:Image",
                 "format": "image/jpg",
                 "height": 207,
                 "width": 300
-              }
+              },
+              "on": "https://api.ddb.de/iiif/presentation/v2/EOJAMCAVD755DTKBYD5JG3SLRXLITTQQ/canvas"
             }
           ]
         }
