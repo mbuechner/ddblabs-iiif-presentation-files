@@ -49,7 +49,9 @@
             "canvases": [{
                     "@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec",
                     "@type": "sc:Canvas",
-                    "label": "HM.1978-187a",
+                    "label": "Eckfliese HM.1978-187a",
+                    "description": "ziemlich olle Eckfliese",
+                    "license": "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                     "height": 800,
                     "width": 600,
                     "images": [{
@@ -79,12 +81,17 @@
                         }, {
                             "label": "<a href=\"http://ddb.vocnet.org/glossar/glos0039\">Rechtsstatus<\/a>",
                             "value": "Hetjens-Museum, Fotograf: Horst Kolberg, 2013"
+                        }, {
+                            "label": "mimetype",
+                            "value": "image/jpeg"
                         }
                     ]
                 }, {
                     "@id": "http://ed2792af-ffcc-46e9-a46f-a5c46aa738e1",
                     "@type": "sc:Canvas",
-                    "label": "HM.1978-187b",
+                    "label": "Fliese HM.1978-187b",
+                    "description": "Noch 'ne Fliese, auch nicht schöner",
+                    "license": "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                     "height": 800,
                     "width": 600,
                     "images": [{
@@ -114,12 +121,17 @@
                         }, {
                             "label": "<a href=\"http://ddb.vocnet.org/glossar/glos0039\">Rechtsstatus<\/a>",
                             "value": "Hetjens-Museum, Fotograf: Horst Kolberg, 2013"
+                        }{
+                            "label": "mimetype",
+                            "value": "image/jpeg"
                         }
                     ]
                 }, {
                     "@id": "http://f0a4b780-d194-47e7-9e4d-feefbfbe1666",
                     "@type": "sc:Canvas",
-                    "label": "HM.1978-187c",
+                    "label": "Fliese HM.1978-187c",
+                    "description": "mintfarbene Fliese, die Farbe der Saison",
+                    "license": "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                     "height": 800,
                     "width": 600,
                     "images": [{
@@ -149,6 +161,9 @@
                         }, {
                             "label": "<a href=\"http://ddb.vocnet.org/glossar/glos0039\">Rechtsstatus<\/a>",
                             "value": "Hetjens-Museum, Fotograf: Horst Kolberg, 2013"
+                        }{
+                            "label": "mimetype",
+                            "value": "image/jpeg"
                         }
                     ]
                 }
