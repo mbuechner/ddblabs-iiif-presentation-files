@@ -4,11 +4,18 @@
     "@type": "sc:Manifest",
     "metadata": [
         {
-            "label": [{
-                "@value": "Maße",
-                "@uri": "http://ddb.vocnet.org/label/lab01002",
-                "@language": "de"
-            }],
+            "label": [
+                {
+                    "@value": "Maße",
+                    "@uri": "http://ddb.vocnet.org/label/lab01002",
+                    "@language": "de"
+                },
+                {
+                    "@value": "Dimensions",
+                    "@uri": "http://ddb.vocnet.org/label/lab01002",
+                    "@language": "en"
+                }
+            ],
             "value": [
                 {
                     "@value": "(H x B): 15 x 15 cm",
