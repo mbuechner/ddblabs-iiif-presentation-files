@@ -9,7 +9,8 @@
                 "@language": "de"
             }
         }, {
-            "label": "<a href=\"http://ddb.vocnet.org/label/lab01051\">Beschreibung<\/a>",
+            "label": "Beschreibung",
+            "label-uri": "http://ddb.vocnet.org/label/lab01051",
             "value": "Fliese, Keramik, Villeroy & Boch, Mettlach, um 1900<br/>Fliese mit Dekor in Grün, Weiß und hellem Gelb, das sich über die Grenzen der Fliese fortsetzt. Ebenfalls zu beachten sind daher die Inventarnummern HM.1978-187b und c. "
         }, {
             "label": "<a href=\"http://ddb.vocnet.org/label/lab01005\">Material/Technik<\/a>",
