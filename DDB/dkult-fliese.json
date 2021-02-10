@@ -19,8 +19,10 @@
                 "@language": "de"
             }
         }, {
-            "label": "<a href=\"http://ddb.vocnet.org/label/lab01022\">Beteiligte Personen und Organisationen<\/a>",
-            "value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/gnd/2149866-0\">Villeroy &amp; Boch-Aktiengesellschaft<\/a>"
+            "label": "Beteiligte Personen und Organisationen",
+            "label-uri": "http://ddb.vocnet.org/label/lab01022",
+            "value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/gnd/2149866-0\">Villeroy &amp; Boch-Aktiengesellschaft<\/a>",
+            "value-uri": "https://d-nb.info/gnd/2149866-0"
         }, {
             "label": "<a href=\"http://ddb.vocnet.org/label/lab01054\">Beschriftung<\/a>",
             "value": {
