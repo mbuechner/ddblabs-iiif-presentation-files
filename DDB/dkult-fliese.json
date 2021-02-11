@@ -158,13 +158,13 @@
                                 "@id": "{{iiif-image-url}}/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 800,
-                                "width": 600,
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
                                     "@id": "{{iiif-image-url}}/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
-                                }
+                                },
+                                "height": 800,
+                                "width": 600
                             },
                             "on": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"
                         }
