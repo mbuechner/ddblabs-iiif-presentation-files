@@ -6,12 +6,12 @@
         {
             "label": [
                 {
-                    "@id": "http://ddb.vocnet.org/label/lab01002",
+                    "id": "http://ddb.vocnet.org/label/lab01002",
                     "@value": "Maße",
                     "@language": "de"
                 },
                 {
-                    "@id": "http://ddb.vocnet.org/label/lab01002",
+                    "id": "http://ddb.vocnet.org/label/lab01002",
                     "@value": "Dimensions",
                     "@language": "en"
                 }
@@ -28,11 +28,11 @@
             ]
         },
         {
+            "@context": {"lab01051": "http://ddb.vocnet.org/label/lab01051"},
             "label": [
                 {
-                    "@id": "http://ddb.vocnet.org/label/lab01051",
                     "@value": "Beschreibung",
-                    "@language": "de"
+                    "@type": "lab01051"
                 }
             ],
             "value": [
@@ -45,14 +45,14 @@
         {
             "label": [
                 {
-                    "@id": "http://ddb.vocnet.org/label/lab01005",
+                    "id": "http://ddb.vocnet.org/label/lab01005",
                     "@value": "Material/Technik",
                     "@language": "de"
                 }
             ],
             "value": [
                 {
-                    "@id": "http://d-nb.info/gnd/4030270-2",
+                    "id": "http://d-nb.info/gnd/4030270-2",
                     "@value": "Keramik, gepresst, glasiert",
                     "@language": "de"
                 }
@@ -61,14 +61,14 @@
         {
             "label": [
                 {
-                    "@id": "http://ddb.vocnet.org/label/lab01022",
+                    "id": "http://ddb.vocnet.org/label/lab01022",
                     "@value": "Beteiligte Personen und Organisationen",
                     "@language": "de"
                 }
             ],
             "value": [
                 {
-                    "@id": "https://d-nb.info/gnd/2149866-0",
+                    "id": "https://d-nb.info/gnd/2149866-0",
                     "@value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/gnd/2149866-0\">Villeroy &amp; Boch-Aktiengesellschaft</a>",
                     "@language": "de"
                 }
@@ -77,7 +77,7 @@
         {
             "label": [
                 {
-                    "@id": "http://ddb.vocnet.org/label/lab01054",
+                    "id": "http://ddb.vocnet.org/label/lab01054",
                     "@value": "Beschriftung",
                     "@language": "de"
                 }
@@ -92,7 +92,7 @@
         {
             "label": [
                 {
-                    "@id": "http://ddb.vocnet.org/label/lab01010",
+                    "id": "http://ddb.vocnet.org/label/lab01010",
                     "@value": "Klassifikation",
                     "@language": "de"
                 }
@@ -107,7 +107,7 @@
         {
             "label": [
                 {
-                    "@id": "http://ddb.vocnet.org/label/lab01045",
+                    "id": "http://ddb.vocnet.org/label/lab01045",
                     "@value": "Standort",
                     "@language": "de"
                 }
@@ -174,7 +174,7 @@
                         {
                             "label": [
                                 {
-                                    "@id": "http://ddb.vocnet.org/label/lab01031",
+                                    "id": "http://ddb.vocnet.org/label/lab01031",
                                     "@label": "Inventarnummer",
                                     "@language": "de"
                                 }
@@ -184,7 +184,7 @@
                         {
                             "label": [
                                 {
-                                    "@id": "http://ddb.vocnet.org/glossar/glos0039",
+                                    "id": "http://ddb.vocnet.org/glossar/glos0039",
                                     "@value": "Rechtsstatus",
                                     "@language": "de"
                                 }
@@ -236,8 +236,9 @@
                         {
                             "label": [
                                 {
-                                    "@id": "http://ddb.vocnet.org/label/lab01031",
-                                    "@value": "Inventarnummer"
+                                    "id": "http://ddb.vocnet.org/label/lab01031",
+                                    "@value": "Inventarnummer",
+                                    "@language": "de"
                                 }
                             ],
                             "value": "HM.1978-187b"
@@ -245,8 +246,9 @@
                         {
                             "label": [
                                 {
-                                    "@id": "http://ddb.vocnet.org/glossar/glos0039",
-                                    "@value": "Rechtsstatus"
+                                    "id": "http://ddb.vocnet.org/glossar/glos0039",
+                                    "@value": "Rechtsstatus",
+                                    "@language": "de"
                                 }
                             ],
                             "value": "Hetjens-Museum, Fotograf: Horst Kolberg, 2013"
@@ -291,8 +293,9 @@
                         {
                             "label": [
                                 {
-                                    "@id": "http://ddb.vocnet.org/label/lab01031",
-                                    "@value": "Inventarnummer"
+                                    "id": "http://ddb.vocnet.org/label/lab01031",
+                                    "@value": "Inventarnummer",
+                                    "@language": "de"
                                 }
                             ],
                             "value": "HM.1978-187c"
@@ -300,8 +303,9 @@
                         {
                             "label": [
                                 {
-                                    "@id": "http://ddb.vocnet.org/glossar/glos0039",
-                                    "@value": "Rechtsstatus"
+                                    "id": "http://ddb.vocnet.org/glossar/glos0039",
+                                    "@value": "Rechtsstatus",
+                                    "@language": "de"
                                 }
                             ],
                             "value": "Hetjens-Museum, Fotograf: Horst Kolberg, 2013"
