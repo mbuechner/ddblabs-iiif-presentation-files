@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://labs.ddb.de/app/iiif-presentation/api/file?f=dkult-fliese.json",
+    "@id": "{{self-url}}",
     "@type": "sc:Manifest",
     "metadata": [
         {
@@ -136,12 +136,12 @@
     },
     "sequences": [
         {
-            "@id": "http://32ce6218-4460-4e8d-87fc-bf1aa5b05a54",
+            "@id": "{{self-url}}/sequence/normal",
             "@type": "sc:Sequence",
             "label": "Normal Sequence",
             "canvases": [
                 {
-                    "@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec",
+                    "@id": "{{self-url}}/canvas/p1",
                     "@type": "sc:Canvas",
                     "label": "Eckfliese HM.1978-187a",
                     "description": "ziemlich olle Eckfliese",
@@ -166,7 +166,7 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"
+                            "on": "{{self-url}}/canvas/p1"
                         }
                     ],
                     "related": "https://www.duesseldorf.de/dkult/DE-MUS-037918/532872",
@@ -203,7 +203,7 @@
                     ]
                 },
                 {
-                    "@id": "http://ed2792af-ffcc-46e9-a46f-a5c46aa738e1",
+                    "@id": "{{self-url}}/canvas/p2",
                     "@type": "sc:Canvas",
                     "label": "Fliese HM.1978-187b",
                     "description": "Noch 'ne Fliese, auch nicht schöner",
@@ -228,7 +228,7 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "http://ed2792af-ffcc-46e9-a46f-a5c46aa738e1"
+                            "on": "{{self-url}}/canvas/p2"
                         }
                     ],
                     "related": "https://www.duesseldorf.de/dkult/DE-MUS-037918/532868",
@@ -260,7 +260,7 @@
                     ]
                 },
                 {
-                    "@id": "http://f0a4b780-d194-47e7-9e4d-feefbfbe1666",
+                    "@id": "{{self-url}}/canvas/p3",
                     "@type": "sc:Canvas",
                     "label": "Fliese HM.1978-187c",
                     "description": "mintfarbene Fliese, die Farbe der Saison",
@@ -285,7 +285,7 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "http://f0a4b780-d194-47e7-9e4d-feefbfbe1666"
+                            "on": "{{self-url}}/canvas/p3"
                         }
                     ],
                     "related": "https://www.duesseldorf.de/dkult/DE-MUS-037918/532871",
@@ -321,13 +321,13 @@
     ],
     "structures": [
         {
-            "@id": "http://679b4f5f-98ac-49b4-afaa-07d26b143c0a",
+            "@id": "{{self-url}}/range/r1",
             "@type": "sc:Range",
             "label": "Fliesenreihe",
             "canvases": [
-                "http://6a1301a2-001f-4b49-8168-09a8106cdfec",
-                "http://ed2792af-ffcc-46e9-a46f-a5c46aa738e1",
-                "http://f0a4b780-d194-47e7-9e4d-feefbfbe1666"
+                "{{self-url}}/canvas/p1",
+                "{{self-url}}/canvas/p2",
+                "{{self-url}}/canvas/p2"
             ],
             "metadata": [
                 {
@@ -337,7 +337,14 @@
             ]
         }
     ],
-    "thumbnail": {"@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"},
+    "thumbnail": {
+        "@id": "{{iiif-image-url}}/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/!120,120//0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "{{iiif-image-url}}/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+    },
     "logo": {
         "@id": "{{iiif-image-url}}/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
         "service": {
