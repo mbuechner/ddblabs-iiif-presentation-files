@@ -162,7 +162,7 @@
                                 "width": 600,
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "{{iiif-image-url}}",
+                                    "@id": "{{iiif-image-url}}/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
@@ -224,7 +224,7 @@
                                 "width": 600,
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "{{iiif-image-url}}",
+                                    "@id": "{{iiif-image-url}}/aef5359e-773a-4f42-9270-7501fbc44706",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
@@ -281,7 +281,7 @@
                                 "width": 600,
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "{{iiif-image-url}}",
+                                    "@id": "{{iiif-image-url}}/ff7d6194-77dd-44d4-a228-5ec64b49690d",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
@@ -342,7 +342,7 @@
         "@id": "{{iiif-image-url}}/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
         "service": {
             "@context": "http://iiif.io/api/image/2/context.json",
-            "@id": "{{iiif-image-url}}",
+            "@id": "{{iiif-image-url}}/8d9910a7-ac24-49de-9c6b-c9b4fccce270",
             "profile": "http://iiif.io/api/image/2/level2.json"
         }
     },
