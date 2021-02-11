@@ -340,7 +340,7 @@
     "thumbnail": {"@id": "http://6a1301a2-001f-4b49-8168-09a8106cdfec"},
     "logo": "{{iiif-image-url}}/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
     "attribution": {
-        "@value": "<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/6KIBP2IUJLHLDFDZ2LNFZID3Q5XRPXFL\">Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf</a>",
+        "@value": "Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf",
         "@language": "zxx"
     },
     "label": [
