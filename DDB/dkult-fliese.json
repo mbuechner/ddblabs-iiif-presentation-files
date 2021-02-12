@@ -359,6 +359,7 @@
     "thumbnail": {
         "@id": "{{iiif-image-url}}/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/100,150/0/default.jpg",
         "@type": "dctypes:Image",
+        "format": "image/jpeg",
         "height": 150,
         "width": 100,
         "service": {
