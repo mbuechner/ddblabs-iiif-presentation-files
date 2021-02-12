@@ -232,9 +232,7 @@
             "@type": "sc:Range",
             "label": "Fliesenreihe",
             "canvases": [
-                "{{self-url}}/canvas/p1",
-                "{{self-url}}/canvas/p2",
-                "{{self-url}}/canvas/p2"
+                "{{self-url}}/canvas/p1"
             ],
             "metadata": [
                 {
