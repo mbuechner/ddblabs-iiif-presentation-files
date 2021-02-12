@@ -2,6 +2,33 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "{{self-url}}",
     "@type": "sc:Manifest",
+    "attribution": {
+        "@value": "Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf",
+        "@language": "zxx"
+    },
+    "description": {
+        "@value": "Fliese, Keramik, Villeroy & Boch, Mettlach, um 1900 Fliese mit Dekor in Grün, Weiß und hellem Gelb, das sich über die Grenzen der Fliese fortsetzt. Ebenfalls zu beachten sind daher die Inventarnummern HM.1978-187a und b.",
+        "@language": "de"
+    },
+    "label": [
+        {
+            "@value": "Fliese",
+            "@language": "de"
+        },
+        {
+            "@value": "Tile",
+            "@language": "en"
+        }
+    ],
+    "license": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/",
+    "logo": {
+        "@id": "{{iiif-image-url}}/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "{{iiif-image-url}}/8d9910a7-ac24-49de-9c6b-c9b4fccce270",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+    },
     "metadata": [
         {
             "label": [
@@ -120,25 +147,20 @@
             ]
         }
     ],
-    "description": {
-        "@value": "Fliese, Keramik, Villeroy & Boch, Mettlach, um 1900 Fliese mit Dekor in Grün, Weiß und hellem Gelb, das sich über die Grenzen der Fliese fortsetzt. Ebenfalls zu beachten sind daher die Inventarnummern HM.1978-187a und b.",
-        "@language": "de"
+    "related": {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/item/ITECVBNCDBG5HEIWWI7N3QF7GS3YQGSY",
+        "format": "text/html"
     },
-    "license": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/",
     "seeAlso": {
         "@id": "https://api.deutsche-digitale-bibliothek.de/items/ITECVBNCDBG5HEIWWI7N3QF7GS3YQGSY",
         "format": "application/xml",
         "profile": "https://www.deutsche-digitale-bibliothek.de/ns/cortex"
     },
-    "related": {
-        "@id": "https://www.deutsche-digitale-bibliothek.de/item/ITECVBNCDBG5HEIWWI7N3QF7GS3YQGSY",
-        "format": "text/html"
-    },
     "sequences": [
         {
             "@id": "{{self-url}}/sequence/normal",
             "@type": "sc:Sequence",
-            "label": "Normal Sequence",
+            "label": "Normale Sequenz",
             "canvases": [
                 {
                     "@id": "{{self-url}}/canvas/p1",
@@ -150,8 +172,6 @@
                     "width": 600,
                     "images": [
                         {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://367b0c50-5922-4c81-a2aa-a552d88e22d6",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
@@ -212,8 +232,6 @@
                     "width": 600,
                     "images": [
                         {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://c1b84b95-f19d-495a-be9d-89bd75dcfed1",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
@@ -269,8 +287,6 @@
                     "width": 600,
                     "images": [
                         {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://d81dfba4-0506-4513-b3b5-5c3b3140fcef",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
@@ -344,27 +360,5 @@
             "@id": "{{iiif-image-url}}/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
             "profile": "http://iiif.io/api/image/2/level2.json"
         }
-    },
-    "logo": {
-        "@id": "{{iiif-image-url}}/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
-        "service": {
-            "@context": "http://iiif.io/api/image/2/context.json",
-            "@id": "{{iiif-image-url}}/8d9910a7-ac24-49de-9c6b-c9b4fccce270",
-            "profile": "http://iiif.io/api/image/2/level2.json"
-        }
-    },
-    "attribution": {
-        "@value": "Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf",
-        "@language": "zxx"
-    },
-    "label": [
-        {
-            "@value": "Fliese",
-            "@language": "de"
-        },
-        {
-            "@value": "Tile",
-            "@language": "en"
-        }
-    ]
+    }
 }
