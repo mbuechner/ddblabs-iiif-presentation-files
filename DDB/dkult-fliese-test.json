@@ -241,13 +241,5 @@
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "{{iiif-image-url}}/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/!120,120//0/default.jpg",
-        "service": {
-            "@context": "http://iiif.io/api/image/2/context.json",
-            "@id": "{{iiif-image-url}}/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
-            "profile": "http://iiif.io/api/image/2/level2.json"
-        }
-    }
+    ]
 }
