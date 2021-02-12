@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/v2/EOJAMCAVD755DTKBYD5JG3SLRXLITTQQ/manifest",
+  "@id": "{{self-url}}",
   "label": "Küstenlandschaft mit Hafenstadt",
   "metadata": [
     {
