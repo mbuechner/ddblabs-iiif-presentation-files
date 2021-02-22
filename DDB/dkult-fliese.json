@@ -196,7 +196,7 @@
                             "label": [
                                 {
                                     "id": "http://ddb.vocnet.org/label/lab01031",
-                                    "@label": "Inventarnummer",
+                                    "@value": "Inventarnummer",
                                     "@language": "de"
                                 }
                             ],
