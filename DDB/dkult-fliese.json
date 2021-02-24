@@ -191,6 +191,11 @@
                         }
                     ],
                     "related": "https://www.duesseldorf.de/dkult/DE-MUS-037918/532872",
+                    "seeAlso": {
+                        "@id": "https://api.deutsche-digitale-bibliothek.de/items/ITECVBNCDBG5HEIWWI7N3QF7GS3YQGSY",
+                        "format": "application/xml",
+                        "profile": "https://www.deutsche-digitale-bibliothek.de/ns/cortex"
+                    },
                     "metadata": [
                         {
                             "label": [
