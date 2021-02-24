@@ -70,11 +70,11 @@
             ]
         },
         {
+            "@context": {"lab00000": "http://ddb.vocnet.org/label/lab00000"},
             "label": [
                 {
-                    "id": "http://ddb.vocnet.org/label/lab01005",
                     "@value": "Material/Technik",
-                    "@language": "de"
+                    "@type": "lab00000"
                 }
             ],
             "value": [
