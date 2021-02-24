@@ -346,13 +346,7 @@
             "canvases": [
                 "{{self-url}}/canvas/p1",
                 "{{self-url}}/canvas/p2",
-                "{{self-url}}/canvas/p2"
-            ],
-            "metadata": [
-                {
-                    "label": "HELLO",
-                    "value": "Is it me you looking for!?"
-                }
+                "{{self-url}}/canvas/p3"
             ]
         }
     ],
