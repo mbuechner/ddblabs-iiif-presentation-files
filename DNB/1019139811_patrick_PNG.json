@@ -1,0 +1,926 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://devel.dnb.de/iiif/presentation/v2/1019139811/manifest",
+	"@type": "sc:Manifest",
+	"label": "Bibo reisst aus! [Elektronische Ressource] : Ein Bilderbuch / Susanne Ehmcke",
+	"_comment1": "Bereitstellungsrelevante Metadaten aus dem CBS",
+	"metadata": [
+		{
+			"label": "Titel",
+			"value": "Bibo reisst aus! [Elektronische Ressource] : Ein Bilderbuch"
+		},
+		{
+			"label": "Autor",
+			"value": "EhmckeBauer-Pezellen, Susanne"
+		},
+		{
+			"label": "Herausgeber Sekundärausgabe",
+			"value": "Dt. Nationalbibliothek"
+		},
+		{
+			"label": "Erscheinungsort Sekundärausgabe",
+			"value": "Leipzig ; Frankfurt, M."
+		},
+		{
+			"label": "Erscheinungsjahr Sekundärausgabe",
+			"value": "1947"
+		},
+		{
+			"label": "Verlag",
+			"value": "Maier"
+		},
+		{
+			"label": "Verlagsort",
+			"value": "Ravensburg"
+		},
+		{
+			"label": "Jahr",
+			"value": "1947"
+		},
+		{
+			"label": "Umfang",
+			"value": "11 Seiten"
+		},
+		{
+			"label": "Sprache",
+			"value": "Deutsch"
+		},
+		{
+			"label": "Rechteinformationen",
+			"value": "Wahrnehmung der Rechte durch die VG WORT (§51 VGG)"
+		},
+		{
+			"label": "URN",
+			"value": "<a href='https://nbn-resolving.org/urn:nbn:de:101:1-201203306081'>urn:nbn:de:101:1-201203306081</a>"
+		},
+		{
+			"label": "Link zum Datensatz im Katalog",
+			"value": "<a href='http://d-nb.info/1019139811'>http://d-nb.info/1019139811</a>"
+		}
+	],
+	"_comment2": "Doku der Testinhalte",
+	"description": "DNB Testmanifest mit Herausgeber Sekundärausgabe, DFG Logo in Attribution, Viewing Hint und Direction, Strukturbaum und Link zum Datensatz",
+	"_comment3": "Keine Ahnung, wo das im Viewer wirkt - Miniaturansichten werden ja generiert",
+	"thumbnail": {
+		"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000010.png/full/100,70/0/default.jpg",
+		"service": {
+			"@context": "http://iiif.io/api/image/2/context.json",
+			"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000010.png",
+			"profile": "http://iiif.io/api/image/2/level1.json"
+		}
+	},
+	"license": "http://rightsstatements.org/vocab/InC/1.0/",
+	"_comment4": "Kontakt und DFG Hinweis",
+	"attribution": "<p>Deutsche Nationalbibliothek <a href='http://www.dnb.de/'>http://www.dnb.de/</a> <a href='mailto:digitalisierung@dnb.de'>digitalisierung@dnb.de</a> </p><p><b>DFG Hinweis:</b> </p><p><img src='https://devel.dnb.de/iiif/image/2/DFG_Logo.jpg/full/108,/0/default.jpg'></p>",
+	"logo": "https://devel.dnb.de/iiif/image/2/DNB-Logo-Viewer.jpg/full/108,/0/default.jpg",
+	"_comment5": "Link zum Datensatz",
+	"seeAlso": [
+		{
+			"@id": "http://d-nb.info/1019139811",
+			"format": "text/html"
+		}
+	],
+	"sequences": [
+		{
+			"@id": "https://devel.dnb.de/iiif/image/1019139811/sequence/normal",
+			"@type": "sc:Sequence",
+			"_comment5": "Leserichtung",
+			"viewingDirection": "left-to-right",
+			"_comment7": "Zweiseitenansicht",
+			"viewingHint": "paged",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page1",
+					"@type": "sc:Canvas",
+					"label": "1",
+					"_comment8": "Dateien zum Download",
+					"rendering": [
+                        {
+                            "@id": "http://devel.dnb.de/iiif/resource/1019139811/mets.xml",
+                            "format": "application/mets+xml",
+                            "label": "METS/XML"
+                        },
+                        {
+                            "@id": "http://devel.dnb.de/iiif/resource/1019139811/IIIF_Test.pdf",
+                            "format": "application/pdf",
+                            "label": "PDF"
+                        },
+                        {
+                            "@id": "http://devel.dnb.de/iiif/resource/1019139811/1019139811_00000110.jpg",
+                            "format": "application/jpg",
+                            "label": "JPG"
+                        }
+                    ],
+					"height": 2889,
+					"width": 2167,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000010.png/full/2889,/90/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000010.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 3243608,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2889,
+								"width": 2167
+							},
+							"on": "http://2e3d9439-c230-4fd1-9a5e-d7c48879b02a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page2",
+					"@type": "sc:Canvas",
+					"label": "2",
+					"height": 2682,
+					"width": 1829,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000020.png/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000020.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2440242,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2682,
+								"width": 1829
+							},
+							"on": "http://906fc59d-d204-488d-999a-de85047db0ce"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page3",
+					"@type": "sc:Canvas",
+					"label": "3",
+					"height": 2790,
+					"width": 1841,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000030.png/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000030.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2343942,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2790,
+								"width": 1841
+							},
+							"on": "http://d8aa083e-abb7-4f9c-873e-c7e6fded4088"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page4",
+					"@type": "sc:Canvas",
+					"label": "4",
+					"height": 2699,
+					"width": 1966,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000040.png/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000040.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2440242,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2699,
+								"width": 1966
+							},
+							"on": "http://cd4cdd51-75a8-4c94-ac62-3e5e39719385"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page5",
+					"@type": "sc:Canvas",
+					"label": "4",
+					"height": 2699,
+					"width": 1966,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000050.png/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000050.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2440242,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2699,
+								"width": 1966
+							},
+							"on": "http://cd4cdd51-75a8-4c94-ac62-3e5e39719385"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page6",
+					"@type": "sc:Canvas",
+					"label": "4",
+					"height": 2699,
+					"width": 1966,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000060.png/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000060.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2440242,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2699,
+								"width": 1966
+							},
+							"on": "http://cd4cdd51-75a8-4c94-ac62-3e5e39719385"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page7",
+					"@type": "sc:Canvas",
+					"label": "4",
+					"height": 2699,
+					"width": 1966,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000070.png/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000070.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2440242,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2699,
+								"width": 1966
+							},
+							"on": "http://cd4cdd51-75a8-4c94-ac62-3e5e39719385"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page8",
+					"@type": "sc:Canvas",
+					"label": "4",
+					"height": 2699,
+					"width": 1966,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000080.png/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000080.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2440242,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2699,
+								"width": 1966
+							},
+							"on": "http://cd4cdd51-75a8-4c94-ac62-3e5e39719385"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page9",
+					"@type": "sc:Canvas",
+					"label": "2",
+					"height": 2699,
+					"width": 1966,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000090.png/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000090.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2440242,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2699,
+								"width": 1966
+							},
+							"on": "http://906fc59d-d204-488d-999a-de85047db0ce"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page10",
+					"@type": "sc:Canvas",
+					"label": "3",
+					"height": 2924,
+					"width": 2157,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page10",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000100.png/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000100.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2343942,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2924,
+								"width": 2157
+							},
+							"on": "http://d8aa083e-abb7-4f9c-873e-c7e6fded4088"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page11",
+					"@type": "sc:Canvas",
+					"label": "4",
+					"height": 2924,
+					"width": 2157,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "https://devel.dnb.de/iiif/image/2/101913981/canvas/page11",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000100.png/pct:36.2077,22.26402,64.81224,31.60055/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://devel.dnb.de/iiif/image/2/1019139811_00000110.png",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2440242,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2924,
+								"width": 2157
+							},
+							"on": "http://cd4cdd51-75a8-4c94-ac62-3e5e39719385"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [
+		{
+			"@id": "https://devel.dnb.de/iiif/image/2/1019139811/range/r0",
+			"@type": "sc:Range",
+			"label": [
+				{
+					"@value": "Front Cover",
+					"@language": "en"
+				},
+				{
+					"@value": "Vordeckel",
+					"@language": "ger"
+				}
+			],
+			"canvases": [
+				"https://devel.dnb.de/iiif/image/2/101913981/canvas/page1"
+			]
+		},
+		{
+			"@id": "https://devel.dnb.de/iiif/image/2/101913981/range/r1",
+			"@type": "sc:Range",
+			"label": [
+				{
+					"@value": "Title",
+					"@language": "en"
+				},
+				{
+					"@value": "Titelseite",
+					"@language": "ger"
+				}
+			],
+			"canvases": [
+				"https://devel.dnb.de/iiif/image/2/101913981/canvas/page2"
+			]
+		},
+		{
+			"@id": "https://devel.dnb.de/iiif/image/2/101913981/range/r2",
+			"@type": "sc:Range",
+			"label": [
+				{
+					"@value": "Chapter",
+					"@language": "en"
+				},
+				{
+					"@value": "Kapitel",
+					"@language": "ger"
+				}
+			],
+			"canvases": [
+				"https://devel.dnb.de/iiif/image/2/101913981/canvas/page3"
+			]
+		},
+		{
+			"@id": "https://devel.dnb.de/iiif/image/2/1019139811/range/r2",
+			"@type": "sc:Range",
+			"label": [
+				{
+					"@value": "Back Cover",
+					"@language": "en"
+				},
+				{
+					"@value": "Hinterdeckel",
+					"@language": "ger"
+				}
+			],
+			"canvases": [
+				"https://devel.dnb.de/iiif/image/2/101913981/canvas/page10"
+			]
+		}
+	]
+}
