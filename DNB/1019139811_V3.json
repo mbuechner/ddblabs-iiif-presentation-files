@@ -1,0 +1,296 @@
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "__IIIF__/presentation/v2/1019139811_V3/manifest",
+	"type": "Manifest",
+	"label": {
+		"de": ["Bibo reisst aus! [Elektronische Ressource] : Ein Bilderbuch / Susanne Ehmcke"]
+	},
+	"_comment1": "Bereitstellungsrelevante Metadaten aus dem CBS",
+	"metadata": [{
+			"label": "Titel",
+			"value": "Bibo reisst aus! [Elektronische Ressource] : Ein Bilderbuch"
+		},
+		{
+			"label": "Autor",
+			"value": "Ehmcke, Susanne"
+		},
+		{
+			"label": "Herausgeber Sekundärausgabe",
+			"value": "Dt. Nationalbibliothek"
+		},
+		{
+			"label": "Erscheinungsort Sekundärausgabe",
+			"value": "Leipzig ; Frankfurt, M."
+		},
+		{
+			"label": "Erscheinungsjahr Sekundärausgabe",
+			"value": "1947"
+		},
+		{
+			"label": "Verlag",
+			"value": "Maier"
+		},
+		{
+			"label": "Verlagsort",
+			"value": "Ravensburg"
+		},
+		{
+			"label": "Jahr",
+			"value": "1947"
+		},
+		{
+			"label": "Umfang",
+			"value": "11 Seiten"
+		},
+		{
+			"label": "Sprache",
+			"value": "Deutsch"
+		},
+		{
+			"label": "Rechteinformationen",
+			"value": "Wahrnehmung der Rechte durch die VG WORT (§51 VGG)"
+		},
+		{
+			"label": "URN",
+			"value": "<a href='https://nbn-resolving.org/urn:nbn:de:101:1-201203306081'>urn:nbn:de:101:1-201203306081</a>"
+		},
+		{
+			"label": "Link zum Datensatz im Katalog",
+			"value": "<a href='http://d-nb.info/1019139811'>http://d-nb.info/1019139811</a>"
+		}
+	],
+	"_comment2": "Doku der Testinhalte",
+	"summary": {
+		"de": ["DNB Testmanifest mit Herausgeber Sekundärausgabe, DFG Logo in Attribution, Viewing Hint und Direction, Strukturbaum und Link zum Datensatz"]
+	},
+
+	"_comment3": "Vorschaubild repräsentiert das Manifest",
+	"thumbnail": [{
+		"id": "__IIIF__/image/2/1019139811_00000020.tif/full/full/0/default.jpg",
+		"type": "Image",
+		"format": "image/jpeg",
+		"service": [{
+			"id": "__IIIF__/image/2/1019139811_00000010.tif",
+			"type": "ImageService3",
+			"profile": "level1"
+		}]
+	}],
+	"_comment4": "Leserichtung",
+	"viewingDirection": "left-to-right",
+	"_comment5": "Zweiseitenansicht",
+	"behavior": ["paged"],
+
+	"_comment6": "Kontakt und DFG Hinweis, hier unter Rights und RequiredStatement",
+	"rights": "http://rightsstatements.org/vocab/InC/1.0/",
+	"requiredStatement": {
+		"label": {
+			"de": ["Attribution"]
+		},
+		"value": {
+			"de": ["<p><b>DFG Hinweis:</b> </p><p><img src='__IIIF__/image/2/DFG_Logo.jpg/full/108,/0/default.jpg'></p>"]
+		}
+	},
+	"_comment7": "Provider wird im Mirador beim Hinzufügen angezeigt, keine HTML-Tags lesbar",
+	"provider": [{
+		"id": "http://www.dnb.de/",
+		"type": "Agent",
+		"label": {
+			"en": ["Deutsche Nationalbibliothek"]
+		},
+		"homepage": [{
+			"id": "http://www.dnb.de/",
+			"type": "Text",
+			"label": {
+				"en": ["Homepage der Deutschen Nationalbibliothek"]
+			},
+			"format": "text/html"
+		}],
+		"logo": [{
+			"id": "_/iiif/image/2/DNB-Logo-Viewer.jpg/full/108,/0/default.jpg",
+			"type": "Image",
+			"format": "image/jpeg"
+		}],
+		"seeAlso": [{
+			"id": "http://d-nb.info/1019139811",
+			"format": "text/html"
+		}]
+	}],
+	"homepage": [{
+		"id": "http://www.dnb.de/",
+		"type": "Text",
+		"label": {
+			"de": ["DNB Homepage"]
+		},
+		"format": "text/html"
+	}],
+
+	"seeAlso": [{
+		"id": "__IIIF__/resource/1019139811/mets.xml",
+		"type": "Dataset",
+		"format": "text/xml"
+	}],
+	"rendering": [{
+		"id": "__IIIF__/iiif/resource/1019139811/IIIF_Test.pdf",
+		"type": "Text",
+		"label": {
+			"de": ["Download als PDF"]
+		},
+		"format": "application/pdf"
+	}],
+
+	"items": [{
+			"id": "__IIIF__/image/2/101913981/canvas/page1",
+			"type": "Canvas",
+			"label": {
+				"none": ["p. 1"]
+			},
+			"height": 1000,
+			"width": 750,
+			"items": [{
+				"id": "__IIIF__/image/2/101913981/canvas/page1",
+				"type": "AnnotationPage",
+				"items": [{
+					"id": "__IIIF__/image/2/101913981/canvas/page1",
+					"type": "Annotation",
+					"motivation": "painting",
+					"body": {
+						"id": "__IIIF__/image/2/1019139811_00000010.tif/full/2889,/0/default.jpg",
+						"type": "Image",
+						"format": "image/jpeg",
+						"service": [{
+							"id": "__IIIF__/image/2/1019139811_00000010.tif",
+							"type": "ImageService3",
+							"profile": "level2",
+							"service": [{
+								"@id": "https://example.org/iiif/auth/login",
+								"@type": "AuthCookieService1"
+							}]
+						}],
+						"height": 2000,
+						"width": 1500
+					},
+					"target": "__IIIF__/image/2/101913981/canvas/page1"
+				}]
+			}],
+			"annotations": [{
+				"id": "__IIIF__/image/2/101913981/canvas/page1",
+				"type": "AnnotationPage"
+			}]
+		},
+		{
+			"id": "__IIIF__/image/2/101913981/canvas/page2",
+			"type": "Canvas",
+			"label": {
+				"none": ["p. 2"]
+			},
+			"height": 1000,
+			"width": 750,
+			"items": [{
+				"id": "__IIIF__/image/2/101913981/canvas/page2",
+				"type": "AnnotationPage",
+				"items": [{
+					"id": "__IIIF__/image/2/101913981/canvas/page2",
+					"type": "Annotation",
+					"motivation": "painting",
+					"body": {
+						"id": "__IIIF__/image/2/1019139811_00000020.tif/full/full/0/default.jpg",
+						"type": "Image",
+						"format": "image/jpeg",
+						"service": [{
+							"id": "__IIIF__/image/2/1019139811_00000020.tif",
+							"type": "ImageService3",
+							"profile": "level2",
+							"service": [{
+								"@id": "https://example.org/iiif/auth/login",
+								"@type": "AuthCookieService1"
+							}]
+						}],
+						"height": 2000,
+						"width": 1500
+					},
+					"target": "__IIIF__/image/2/101913981/canvas/page2"
+				}]
+			}]
+		},		
+		{
+			"id": "__IIIF__/image/2/101913981/canvas/page3",
+			"type": "Canvas",
+			"label": {
+				"none": ["p. 3"]
+			},
+			"height": 0,
+			"width": 0,
+			"items": [{
+				"id": "__IIIF__/image/2/101913981/canvas/page3",
+				"type": "AnnotationPage",
+				"items": [{
+					"id": "__IIIF__/image/2/101913981/canvas/page3",
+					"type": "Annotation",
+					"motivation": "painting",
+					"body": {
+						"id": "__IIIF__/image/2/1019139811_00000030.tif/full/full/0/default.jpg",
+						"type": "Image",
+						"format": "image/jpeg",
+						"service": [{
+							"_comment8": "Diese ID steuert im Mirador die Vorschaubilder",
+							"id": "__IIIF__/image/2/1019139811_00000030.tif",
+							"type": "ImageService3",
+							"profile": "level2",
+							"service": [{
+								"@id": "https://example.org/iiif/auth/login",
+								"@type": "AuthCookieService1"
+							}]
+						}],
+						"height": 0,
+						"width": 0
+					},
+					"target": "__IIIF__/image/2/101913981/canvas/page3"
+				}]
+			}]
+		}
+	],
+
+	"structures": [{
+		"id": "__IIIF__/image/2/1019139811/range/r0",
+		"type": "Range",
+		"label": {
+			"de": ["Inhaltsverzeichnis"]
+		},
+		"items": [{
+			"id": "__IIIF__/image/2/1019139811/range/r1",
+			"type": "Range",
+			"label": {
+				"de": ["Vordeckel"]
+			},
+			"items": [{
+					"id": "__IIIF__/image/2/101913981/canvas/page1",
+					"type": "Canvas"
+				},
+				{
+					"type": "SpecificResource",
+					"source": "https://example.org/iiif/book1/canvas/p2",
+					"selector": {
+						"type": "FragmentSelector",
+						"value": "xywh=0,0,750,300"
+					}
+				}
+			]
+		}]
+	}],
+
+	"annotations": [{
+		"id": "https://example.org/iiif/book1/page/manifest/1",
+		"type": "AnnotationPage",
+		"items": [{
+			"id": "https://example.org/iiif/book1/page/manifest/a1",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"value": "I love this manifest!"
+			},
+			"target": "https://example.org/iiif/book1/manifest"
+		}]
+	}]
+}
