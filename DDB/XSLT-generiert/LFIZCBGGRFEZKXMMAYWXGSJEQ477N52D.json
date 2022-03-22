@@ -1,0 +1,331 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "HEXE VON NORDEROOG, DIE",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Filmmuseum der Landeshauptstadt Düsseldorf",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020" },
+          
+          { "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Stummfilmausschnitt",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050" },
+          
+          { "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Sven Hennings, ein Seefahrer, kehrt nach jahrelanger Abwesenheit mit seiner Tochter Mirzam, die aus einer Verbindung mit einer indischen Tänzerin stammt, in seine Heimat, einem nordfriesischen Fischerdorf, zurück. Sie werden im Hause der Göbecks aufgenommen. Knut und Lars Göbeck verlieben sich in Mirzam, ganz gegen den Willen ihrer Mutter, die in dem fremdländischen Wesen eine Hexe sieht, die mit ihren Verführungskünsten häuslichen Frieden stört. Unterstützt wird ihre Haltung von der spürbaren Ablehnung der Inselbewohner, die Mirzam argwöhnisch beobachten. Mirzam und Sven Hennings verlassen die dörfliche Gemeinschaft, die ihnen ein friedliches Leben verwehrt, und wechseln auf die Insel Norderoog. Dort, weiterhin mißtrauisch beäugt, entschließen sie sich, mit Lars, dessen Liebe von Mirzam erwidert wird, auf ein Schiff zu fliehen, das Kurs auf das Eismeer nimmt. Es wird Tag und Nacht gefischt und man macht reiche Beute. Kapitän Hanson beobachtet mit Argwohn das zufriedene Leben von Lars und Mirzam, denn Hennings und er haben Pläne für eine gemeinsame Zukunft geschmiedet. Lars ist ihnen dabei im Wege, da sie den Gewinn unter sich aufteilen wollen und Hanson außerdem Interesse an Mirzam hat. In einer stürmischen Nacht wird ein Beiboot klargemacht, Hennings und Lars gehören mit zur Besatzung. Es sollen Plätze für die Angelleinen an der Küste entlang gesucht werden. Am Morgen wird das Beiboot vermißt. Mirzam, untröstlich, muß sich nun gegen den zudringlichen Kapitän zur Wehr setzen und flieht schließlich vom Schiff. Nach langer Zeit kehrt sie in das kleine Fischerdorf zurück, findet Knut, der inzwischen Leuchtturmwärter geworden ist, und will mit ihm auf Lars Rückkehr warten. Knut, der Mirzam immer noch liebt, und an Lars Rettung nicht mehr glaubt, möchte Mirzam heiraten, die jedoch nicht fähig ist, dieses Angebot anzunehmen. Ihr angegriffener Gesundheitszustand ausgelöst durch die Sehnsucht nach Lars, verschlechtert sich zusehends. Todkrank kann sie noch Lars überraschende Rückkehr wahrnehmen; sie bittet beide Brüder, die sich ihretwegen zerstritten hatten, zu versöhnen und stirbt. (Quelle: Filmmuseum Düsseldorf)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100" },
+          
+          { "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Geistige Schöpfung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110" },
+          
+          { "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Regie: Hubert Moest",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100" },
+          
+          { "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110" },
+          
+          { "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Produktionsfirma: Eiko-Film GmbH &lt;Berlin&gt;",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120" },
+          
+          { "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsches Reich",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130" },
+          
+          { "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1919",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340" },
+          
+          { "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Werk (Sachgruppe)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400" },
+          
+          { "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Filmmuseum der Landeshauptstadt Düsseldorf",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410" },
+          
+          { "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "FM.Film.10546",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/844ede50-25ba-4c9d-ab1c-332cf6e4e7be/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/844ede50-25ba-4c9d-ab1c-332cf6e4e7be",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00012275.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00012275",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequence" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Filmbild aus \"Die Hexe von Norderoog\"",
+            "attribution" : "© Filmmuseum der Landeshauptstadt Düsseldorf",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/844ede50-25ba-4c9d-ab1c-332cf6e4e7be/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Filmbild aus \"Die Hexe von Norderoog\"",
+            "attribution" : "© Filmmuseum der Landeshauptstadt Düsseldorf",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b0c1e757-c70b-4a3b-badb-5dafb74795b9/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Filmbild aus \"Die Hexe von Norderoog\"",
+            "attribution" : "© Filmmuseum der Landeshauptstadt Düsseldorf",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8f5587dd-569d-4090-82cb-fa3d4f1dad70/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/4",
+            "@type" : "sc:Canvas",
+            "label" : "Filmbild aus \"Die Hexe von Norderoog\"",
+            "attribution" : "© Filmmuseum der Landeshauptstadt Düsseldorf",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/11f48639-277c-49fa-a706-9d38cbcfdfb3/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/5",
+            "@type" : "sc:Canvas",
+            "label" : "Filmbild aus \"Die Hexe von Norderoog\"",
+            "attribution" : "© Filmmuseum der Landeshauptstadt Düsseldorf",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/197d9d70-9248-4839-b89d-aef174f67d42/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/6",
+            "@type" : "sc:Canvas",
+            "label" : "Filmbild aus \"Die Hexe von Norderoog\"",
+            "attribution" : "© Filmmuseum der Landeshauptstadt Düsseldorf",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f2704f82-8b7e-4a48-95fb-dcc85d6a7d22/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/7",
+            "@type" : "sc:Canvas",
+            "label" : "Die Hexe von Norderoog",
+            "attribution" : "© Filmmuseum der Landeshauptstadt Düsseldorf",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
+                "mimetype" : "video/mp4",
+                "name2" : "" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f2df33ea-5661-494d-a2e3-831c79f76c35/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/7",
+            "@type" : "sc:Canvas",
+            "label" : "",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/92aebdbe-d7a7-45d4-9dde-fab296e475aa/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Filmbild aus \"Die Hexe von Norderoog\"",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/3",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/4",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/5",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/6" ] },
+      
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/range/normal/2",
+        "@type" : "sc:Range",
+        "label" : "Die Hexe von Norderoog",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/7" ] } ] }

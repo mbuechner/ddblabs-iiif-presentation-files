@@ -1,0 +1,152 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Feierlicher Empfang des Präsidenten des Königlich-Westphälischen Konsistoriums der Israeliten und Mitglieds der Reichsstände Herrn Israel Jacobson in M. H. Bock's Lehr- und Bildungs-Anstalten : gehalten in deutscher, franz., engl. u. hebräischer Sprache",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Universitätsbibliothek Johann Christian Senckenberg",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_003" },
+          
+          { "@value" : "Dokumenttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Monografie",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_006" },
+          
+          { "@value" : "Erschienen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Berlin : Amelang, 1811",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_007" },
+          
+          { "@value" : "Elektronische Ausgabe",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Universitätsbibliothek JCS Frankfurt am Main, 2007",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_008" },
+          
+          { "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" },
+          
+          { "@value" : "Englisch",
+            "@language" : "de" },
+          
+          { "@value" : "Französisch",
+            "@language" : "de" },
+          
+          { "@value" : "Hebräisch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_009" },
+          
+          { "@value" : "Umfang",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "8 Bl.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_011" },
+          
+          { "@value" : "Thema",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Jüdische Erziehung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_014" },
+          
+          { "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Frankfurt am Main",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/809461c6-aa94-4c5b-a6af-b1b4a2e6939f/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/809461c6-aa94-4c5b-a6af-b1b4a2e6939f",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "logo" : 
+    { "@id" : "99900287.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "99900287",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequence" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Feierlicher Empfang des Präsidenten des Königlich-Westphälischen Konsistoriums der Israeliten und Mitglieds der Reichsstände Herrn Israel Jacobson in M. H. Bock's Lehr- und Bildungs-Anstalten : gehalten in deutscher, franz., engl. u. hebräischer Sprache",
+            "attribution" : "Universitätsbibliothek JCS Frankfurt am Main, 2007",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/png",
+                "name2" : "" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/809461c6-aa94-4c5b-a6af-b1b4a2e6939f/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Feierlicher Empfang des Präsidenten des Königlich-Westphälischen Konsistoriums der Israeliten und Mitglieds der Reichsstände Herrn Israel Jacobson in M. H. Bock's Lehr- und Bildungs-Anstalten : gehalten in deutscher, franz., engl. u. hebräischer Sprache",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q/canvas/1" ] } ] }

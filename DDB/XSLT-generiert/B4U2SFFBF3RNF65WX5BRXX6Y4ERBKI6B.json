@@ -1,0 +1,318 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Tonbandgerät Telefunken Magnetophon 98",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Deutsches Technikmuseum",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by/4.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020" },
+          
+          { "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Man-made object",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050" },
+          
+          { "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Beschreibung für Tonbandgerät Telefunken Magnetophon 98 folgt. Aufenthaltsort: Depot des DTM",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060" },
+          
+          { "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Metall, Kunststoff",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070" },
+          
+          { "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Objektmaß TxBxH: 295 x 360 x 195 mm; Masse: 12,64 kg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100" },
+          
+          { "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Hergestellt",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110" },
+          
+          { "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Telefunken GmbH",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130" },
+          
+          { "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1962-1966",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210" },
+          
+          { "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Nachrichtentechnik; Tonbandgerät",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_330" },
+          
+          { "@value" : "Verwandtes Objekt/Literatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "<a href=\"https://www.deutsche-digitale-bibliothek.de/item/T73QJA7N6C5W3FKPBQBCGD6MCIOXQI77\">Werbeprospekt (Archivalie zu diesem Objekt im DTMB (I.2.060 P-Tfk 03138))</a>",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400" },
+          
+          { "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsches Technikmuseum, Berlin",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410" },
+          
+          { "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1/1997/0800 0",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_450" },
+          
+          { "@value" : "Sammlung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "AEG Produktsammlung; Kommunikation und Medien",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3ab49d3e-6e11-4fae-9fa0-618e074d6f8f/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3ab49d3e-6e11-4fae-9fa0-618e074d6f8f",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/oid1448366331117.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/oid1448366331117",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequence" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/6",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Tonbandgerät Telefunken Magnetophon 98",
+            "attribution" : "© Deutsches Technikmuseum",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/cee83b1c-086d-4635-96de-03020bd9909a/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Tonbandgerät Telefunken Magnetophon 98",
+            "attribution" : "© Deutsches Technikmuseum",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7508f470-2203-464c-8427-5ebf3cf451e2/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Tonbandgerät Telefunken Magnetophon 98",
+            "attribution" : "© Deutsches Technikmuseum",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de41597f-7364-4cc4-b8f9-540d2c4c8895/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/4",
+            "@type" : "sc:Canvas",
+            "label" : "Tonbandgerät Telefunken Magnetophon 98",
+            "attribution" : "© Deutsches Technikmuseum",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1798f35c-ee54-44fd-a5de-0c431881484b/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/5",
+            "@type" : "sc:Canvas",
+            "label" : "Tonbandgerät Telefunken Magnetophon 98",
+            "attribution" : "© Deutsches Technikmuseum",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/15cd255e-e157-4f95-9b7a-7c107c6ea0af/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/6",
+            "@type" : "sc:Canvas",
+            "label" : "Tonbandgerät Telefunken Magnetophon 98",
+            "attribution" : "© Deutsches Technikmuseum",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3ab49d3e-6e11-4fae-9fa0-618e074d6f8f/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/7",
+            "@type" : "sc:Canvas",
+            "label" : "Tonbandgerät Telefunken Magnetophon 98",
+            "attribution" : "© Deutsches Technikmuseum",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fb672ae6-465d-4f3b-9fe8-433f3de5a7cb/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Tonbandgerät Telefunken Magnetophon 98",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/3",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/4",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/5",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/6",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/7" ] } ] }

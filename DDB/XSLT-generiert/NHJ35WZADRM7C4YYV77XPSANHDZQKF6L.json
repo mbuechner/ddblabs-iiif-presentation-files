@@ -1,0 +1,132 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Die Leibhusaren und ihre Geschichte.",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum e.V.",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_film_002" },
+          
+          { "@value" : "Urheber",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Mercedes-Film GmbH",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_005" },
+          
+          { "@value" : "Entstanden",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1917",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_007" },
+          
+          { "@value" : "Beschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Mercedes-Film GmbH, Die Leibhusaren und ihre Geschichte, Der Kinematograph, 565, (1917). Die Werbung verweist darauf, dass der Film durch von Mackensens Frau gefördert wird.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_008" },
+          
+          { "@value" : "Quelle",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_010" },
+          
+          { "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_011" },
+          
+          { "@value" : "Objekttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Werbematerial",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "application/pdf",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012050.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012050",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequence" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Die Leibhusaren und ihre Geschichte.",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "application/pdf",
+                "name2" : "Quelle: DFF - Deutsches Filminstitut & Filmmuseum" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Die Leibhusaren und ihre Geschichte.",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/canvas/1" ] } ] }

@@ -1,0 +1,165 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Xenia Prinzessin v. Preußen verh. Lithander (1949-1992) / Porträt mit Ehemann Per-Edvard Lithander (* 1945) und Baby Patrick Lithander (* 1973) im Arm, Halbfiguren",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Hessisches Staatsarchiv Darmstadt",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/unbekannt/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_004" },
+          
+          { "@value" : "Archivaliensignatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Hessisches Staatsarchiv Darmstadt, R 4, 3380",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_029" },
+          
+          { "@value" : "Kontext",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bildersammlung >> Personen >> Buchstaben X und Y",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_008" },
+          
+          { "@value" : "Laufzeit",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1973",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_012" },
+          
+          { "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "15 x 10 cm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_014" },
+          
+          { "@value" : "Urheber",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Verkauf zugunsten der Prinzessin Kira v. Preußen Stiftung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_016" },
+          
+          { "@value" : "Archivalientyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bild/Foto",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_019" },
+          
+          { "@value" : "Sonstige Erschließungsangaben",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Identifikation (Bild): Originaldatierung: [1973]<br /><br />Weitere Angaben (Bild): Ausführung: s/w-Fotokarte + Neg.<br /><br />Vermerke: Deskriptoren: Xenia (Preußen, Prinzessin)<br /><br />Vermerke: Deskriptoren: Lithander, Per-Edvard<br /><br />Vermerke: Deskriptoren: Lithander, Patrick<br /><br />Vermerke: Deskriptoren: Prinzessin Kira von Preußen Stiftung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_001" },
+          
+          { "@value" : "Bestand",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "R 4 Bildersammlung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_002" },
+          
+          { "@value" : "Online-Findbuch im Angebot des Archivs",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "https://arcinsys.hessen.de/arcinsys/llist?nodeid=g121054&page=1&reload=true&sorting=41",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/935f8cd8-5043-4b6a-b9ed-2c6d5e0b5ac4/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/935f8cd8-5043-4b6a-b9ed-2c6d5e0b5ac4",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00000762.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00000762",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequence" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Xenia Prinzessin v. Preußen verh. Lithander (1949-1992) / Porträt mit Ehemann Per-Edvard Lithander (* 1945) und Baby Patrick Lithander (* 1973) im Arm, Halbfiguren",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/935f8cd8-5043-4b6a-b9ed-2c6d5e0b5ac4/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Xenia Prinzessin v. Preußen verh. Lithander (1949-1992) / Porträt mit Ehemann Per-Edvard Lithander (* 1945) und Baby Patrick Lithander (* 1973) im Arm, Halbfiguren",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV/canvas/1" ] } ] }

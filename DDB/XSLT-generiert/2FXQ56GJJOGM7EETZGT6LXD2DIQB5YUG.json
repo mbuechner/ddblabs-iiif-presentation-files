@@ -1,0 +1,219 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Charlottenburg-Wilmersdorf, Ruhrstraße 12A",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Landesdenkmalamt Berlin",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_denk_001" },
+          
+          { "@value" : "Denkmalart",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Baudenkmal",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_denk_002" },
+          
+          { "@value" : "Land",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Berlin",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_denk_004" },
+          
+          { "@value" : "Ort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Charlottenburg-Wilmersdorf",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_denk_005" },
+          
+          { "@value" : "Ortsteil",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Wilmersdorf",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_denk_006" },
+          
+          { "@value" : "Straße und Hausnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Ruhrstraße 12A",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_denk_008" },
+          
+          { "@value" : "Name",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Villa Bab",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_denk_009" },
+          
+          { "@value" : "Denkmaltyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Villa",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_denk_012" },
+          
+          { "@value" : "Beteiligte",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bab, Eugen [Bauherr]",
+            "@language" : "de" },
+          
+          { "@value" : "Rosenthal, Harry [Entwurf]",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100" },
+          
+          { "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Datierung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130" },
+          
+          { "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1923-1924",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee0f5bf8-2d58-425e-bd03-f20454c238f6/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee0f5bf8-2d58-425e-bd03-f20454c238f6",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008976.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008976",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequence" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Charlottenburg-Wilmersdorf, Ruhrstraße 12A",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Landesdenkmalamt Berlin" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee0f5bf8-2d58-425e-bd03-f20454c238f6/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Charlottenburg-Wilmersdorf, Ruhrstraße 12A",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Landesdenkmalamt Berlin" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a0403832-8149-4e17-8b00-4bdc71817233/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Charlottenburg-Wilmersdorf, Ruhrstraße 12A",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Landesdenkmalamt Berlin" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3573e21e-13a8-41c3-85a2-75452c423986/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Charlottenburg-Wilmersdorf, Ruhrstraße 12A",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/3" ] } ] }

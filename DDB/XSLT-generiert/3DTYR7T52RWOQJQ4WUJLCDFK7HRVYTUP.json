@@ -1,0 +1,189 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Neue Straßenbrücke in Dausenau über die Lahn",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Bundesanstalt für Wasserbau (BAW). Infozentrum Wasserbau",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by/4.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_002" },
+          
+          { "@value" : "Beteiligte Personen und Organisationen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bundesanstalt für Wasserbau Karlsruhe",
+            "@language" : "de" },
+          
+          { "@value" : "Unbekannt (Fotograf)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_006" },
+          
+          { "@value" : "Erschienen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Dausenau",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210" },
+          
+          { "@value" : "Bezug (Was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kreuzung/Brücke/Unter- und Überführung",
+            "@language" : "de" },
+          
+          { "@value" : "Brücke",
+            "@language" : "de" },
+          
+          { "@value" : "Landschaft/Ansiedlung vor Gewässerausbau",
+            "@language" : "de" },
+          
+          { "@value" : "Landschaft",
+            "@language" : "de" },
+          
+          { "@value" : "Stadt/Ansiedlung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_230" },
+          
+          { "@value" : "Bezug (wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Ort: Dausenau",
+            "@language" : "de" },
+          
+          { "@value" : "Wasserstraße: 2401 Lahn",
+            "@language" : "de" },
+          
+          { "@value" : "Strecke von: 120,90; Strecke bis: 120,90",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_240" },
+          
+          { "@value" : "Bezug (wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1951",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_380" },
+          
+          { "@value" : "Periode",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Ab Ende 2. Weltkrieg (1946 bis 1989);",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410" },
+          
+          { "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "HB14087",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050" },
+          
+          { "@value" : "Abstract",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Ausrichtung: Querformat",
+            "@language" : "de" },
+          
+          { "@value" : "Farbinformation: Schwarz/Weiß",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020" },
+          
+          { "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografie",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/834814f1-babc-4ee5-9ac5-c5c03ce636de/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/834814f1-babc-4ee5-9ac5-c5c03ce636de",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00011872.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00011872",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequence" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Neue Straßenbrücke in Dausenau über die Lahn",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/4.0/",
+                "mimetype" : "image/jpg",
+                "name2" : "Bundesanstalt für Wasserbau (BAW). Infozentrum Wasserbau" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/834814f1-babc-4ee5-9ac5-c5c03ce636de/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Neue Straßenbrücke in Dausenau über die Lahn",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP/canvas/1" ] } ] }

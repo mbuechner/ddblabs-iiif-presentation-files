@@ -1,0 +1,287 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Kleinbildnegativ: Einrichtungshaus Döhler, 1975",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "FHXB Friedrichshain-Kreuzberg Museum",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020" },
+          
+          { "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografie (Lichtbild)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050" },
+          
+          { "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografien vom Einrichtungshaus Döhler mit Ilja Glasunow vom 13. November 1975. Henschel-Fotobestand, Signatur: B01_0102_35-40<br />[FHXB Friedrichshain-Kreuzberg Museum]",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070" },
+          
+          { "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "24 mm x 36 mm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100" },
+          
+          { "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Aufgenommen",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110" },
+          
+          { "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Jürgen Henschel (1923-2012)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130" },
+          
+          { "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1975",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210" },
+          
+          { "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografie (Lichtbild)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_220" },
+          
+          { "@value" : "Bezug (wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Einrichtungshaus Döhler",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400" },
+          
+          { "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "FHXB Friedrichshain-Kreuzberg Museum, Berlin",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410" },
+          
+          { "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "2017/4178",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_450" },
+          
+          { "@value" : "Sammlung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotosammlungen; Jürgen Henschel, Negative (1959-1991)",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dbbfa2e1-4365-4f14-8582-597129f88d46/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dbbfa2e1-4365-4f14-8582-597129f88d46",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "logo" : 
+    { "@id" : "00009864.jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "00009864",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequence" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Kleinbildnegativ: Einrichtungshaus Döhler, 1975",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Jürgen Henschel" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dbbfa2e1-4365-4f14-8582-597129f88d46/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Kleinbildnegativ: Einrichtungshaus Döhler, 1975",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Jürgen Henschel" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/953b99a9-9e0e-48da-a92c-0a3c43482a5b/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Kleinbildnegativ: Einrichtungshaus Döhler, 1975",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Jürgen Henschel" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7f4b38d5-5ffc-449a-9211-0d38ecdbfdce/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/4",
+            "@type" : "sc:Canvas",
+            "label" : "Kleinbildnegativ: Einrichtungshaus Döhler, 1975",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Jürgen Henschel" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2b04bc73-21ff-49c0-984e-802027fec9dd/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/5",
+            "@type" : "sc:Canvas",
+            "label" : "Kleinbildnegativ: Einrichtungshaus Döhler, 1975",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Jürgen Henschel" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/32d3346c-359a-4696-bd27-926d668afc5b/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/6",
+            "@type" : "sc:Canvas",
+            "label" : "Kleinbildnegativ: Einrichtungshaus Döhler, 1975",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Jürgen Henschel" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7f59b9f2-3aeb-47e9-b99e-0ef82dbd09ff/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Kleinbildnegativ: Einrichtungshaus Döhler, 1975",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/3",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/4",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/5",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/6" ] } ] }

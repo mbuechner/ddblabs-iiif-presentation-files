@@ -1,0 +1,127 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Die Madonna mit der Waschschüssel",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_002" },
+          
+          { "@value" : "Beteiligte Personen und Organisationen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Flipart (Kupferstich), Jean-Jacques",
+            "@language" : "de" },
+          
+          { "@value" : "Giulio Romano (Gemälde), Giulio Pippi, gen.",
+            "@language" : "de" },
+          
+          { "@value" : "Hutin (Vorzeichnung), Charles François",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_003" },
+          
+          { "@value" : "Dokumenttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Illustration",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_004" },
+          
+          { "@value" : "Erschienen in",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Recueil d'Estampes d'après les plus célèbres Tableaux de la Galerie Royale de Dresde : I. VOLUME. Contenant cinquante pieces avec une description de chaque tableau en francois et en italien. ; 1",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_006" },
+          
+          { "@value" : "Erschienen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1753",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_008" },
+          
+          { "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Französisch, Italienisch",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de459bfb-f475-4748-b024-be41c2849dee/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de459bfb-f475-4748-b024-be41c2849dee",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00014072.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00014072",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequence" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Die Madonna mit der Waschschüssel",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "[Electronic ed.]: Dresden SLUB, ZB" } ],
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de459bfb-f475-4748-b024-be41c2849dee/info.json",
+                  "@type" : "ImageService2",
+                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Die Madonna mit der Waschschüssel",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS/canvas/1" ] } ] }
