@@ -145,7 +145,7 @@
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008976",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/sequence/normal",
         "@type" : "sc:Sequence",
@@ -162,14 +162,15 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                 "mimetype" : "image/jpeg",
                 "name2" : "Landesdenkmalamt Berlin" } ],
+            "width" : 1067,
+            "height" : 800,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee0f5bf8-2d58-425e-bd03-f20454c238f6/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee0f5bf8-2d58-425e-bd03-f20454c238f6/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image" } } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/2",
@@ -181,14 +182,15 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                 "mimetype" : "image/jpeg",
                 "name2" : "Landesdenkmalamt Berlin" } ],
+            "width" : 1122,
+            "height" : 800,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a0403832-8149-4e17-8b00-4bdc71817233/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a0403832-8149-4e17-8b00-4bdc71817233/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image" } } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/3",
@@ -200,14 +202,15 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                 "mimetype" : "image/jpeg",
                 "name2" : "Landesdenkmalamt Berlin" } ],
+            "width" : 1119,
+            "height" : 800,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3573e21e-13a8-41c3-85a2-75452c423986/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3573e21e-13a8-41c3-85a2-75452c423986/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image" } } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/range/normal/1",
