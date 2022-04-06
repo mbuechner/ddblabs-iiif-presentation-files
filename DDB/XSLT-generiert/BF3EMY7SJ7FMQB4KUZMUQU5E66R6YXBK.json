@@ -163,42 +163,21 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7f025368-1d81-43b6-bb79-48b2c7c0aad4",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00007778.png",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00007778",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/BF3EMY7SJ7FMQB4KUZMUQU5E66R6YXBK/sequence/normal",
         "@type" : "sc:Sequence",
         "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/BF3EMY7SJ7FMQB4KUZMUQU5E66R6YXBK/canvas/1",
         "canvases" : 
-        [ 
-          { "@context" : "http://iiif.io/api/presentation/2/context.json",
-            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/BF3EMY7SJ7FMQB4KUZMUQU5E66R6YXBK/canvas/1",
-            "@type" : "sc:Canvas",
-            "label" : "Application, Extension, and Alteration: The many-body Problem in early                     Quantum Mechanics",
-            "attribution" : "",
-            "metadata" : 
-            [ 
-              { "license" : "http://creativecommons.org/licenses/by-sa/4.0/",
-                "mimetype" : "video/mp4",
-                "name2" : "Max-Planck-Institut für Wissenschaftsgeschichte" } ],
-            "images" : 
-            [ 
-              { "@type" : "oa:Annotation",
-                "motivation" : "sc:painting",
-                "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7f025368-1d81-43b6-bb79-48b2c7c0aad4/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+        [  ] } ],
     "structures" : 
-    [ 
-      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/BF3EMY7SJ7FMQB4KUZMUQU5E66R6YXBK/range/normal/1",
-        "@type" : "sc:Range",
-        "label" : "Application, Extension, and Alteration: The many-body Problem in early                     Quantum Mechanics",
-        "canvases" : 
-        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/BF3EMY7SJ7FMQB4KUZMUQU5E66R6YXBK/canvas/1" ] } ] }
+    [  ] }

@@ -113,14 +113,16 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/45dcc89d-e874-496d-9967-32014214a7a5",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00002136.jpg",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00002136",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/W6PPE7I4QWZOM7ZTXPOCESGG22EHG7D3/sequence/normal",
         "@type" : "sc:Sequence",
@@ -137,14 +139,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                 "mimetype" : "image/jpeg",
                 "name2" : "Landesamt für Denkmalpflege Hessen" } ],
+            "width" : 1200,
+            "height" : 800,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/45dcc89d-e874-496d-9967-32014214a7a5/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/45dcc89d-e874-496d-9967-32014214a7a5/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/45dcc89d-e874-496d-9967-32014214a7a5",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/W6PPE7I4QWZOM7ZTXPOCESGG22EHG7D3/canvas/1" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/W6PPE7I4QWZOM7ZTXPOCESGG22EHG7D3/canvas/2",
@@ -156,14 +165,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                 "mimetype" : "image/jpeg",
                 "name2" : "Landesamt für Denkmalpflege Hessen" } ],
+            "width" : 1322,
+            "height" : 800,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3912acac-b4ce-46de-b710-457de8d8c437/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3912acac-b4ce-46de-b710-457de8d8c437/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3912acac-b4ce-46de-b710-457de8d8c437",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/W6PPE7I4QWZOM7ZTXPOCESGG22EHG7D3/canvas/2" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/W6PPE7I4QWZOM7ZTXPOCESGG22EHG7D3/canvas/3",
@@ -175,14 +191,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                 "mimetype" : "image/jpeg",
                 "name2" : "Landesamt für Denkmalpflege Hessen" } ],
+            "width" : 1111,
+            "height" : 800,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f23ccd4-a465-475a-bc90-ae5250722670/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f23ccd4-a465-475a-bc90-ae5250722670/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f23ccd4-a465-475a-bc90-ae5250722670",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/W6PPE7I4QWZOM7ZTXPOCESGG22EHG7D3/canvas/3" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/W6PPE7I4QWZOM7ZTXPOCESGG22EHG7D3/canvas/4",
@@ -194,14 +217,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                 "mimetype" : "image/jpeg",
                 "name2" : "Landesamt für Denkmalpflege Hessen" } ],
+            "width" : 1111,
+            "height" : 800,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3a358d43-030d-4f54-be64-aab867a6c842/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3a358d43-030d-4f54-be64-aab867a6c842/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3a358d43-030d-4f54-be64-aab867a6c842",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/W6PPE7I4QWZOM7ZTXPOCESGG22EHG7D3/canvas/4" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/W6PPE7I4QWZOM7ZTXPOCESGG22EHG7D3/range/normal/1",

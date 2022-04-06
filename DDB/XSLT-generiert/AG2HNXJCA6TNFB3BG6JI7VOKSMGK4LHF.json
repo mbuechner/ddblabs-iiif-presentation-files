@@ -146,14 +146,16 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dbbfa2e1-4365-4f14-8582-597129f88d46",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "00009864.jpeg",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "00009864",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/sequence/normal",
         "@type" : "sc:Sequence",
@@ -170,14 +172,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Jürgen Henschel" } ],
+            "width" : 397,
+            "height" : 600,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dbbfa2e1-4365-4f14-8582-597129f88d46/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dbbfa2e1-4365-4f14-8582-597129f88d46/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dbbfa2e1-4365-4f14-8582-597129f88d46",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/1" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/2",
@@ -189,14 +198,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Jürgen Henschel" } ],
+            "width" : 800,
+            "height" : 530,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/953b99a9-9e0e-48da-a92c-0a3c43482a5b/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/953b99a9-9e0e-48da-a92c-0a3c43482a5b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/953b99a9-9e0e-48da-a92c-0a3c43482a5b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/2" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/3",
@@ -208,14 +224,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Jürgen Henschel" } ],
+            "width" : 397,
+            "height" : 600,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7f4b38d5-5ffc-449a-9211-0d38ecdbfdce/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7f4b38d5-5ffc-449a-9211-0d38ecdbfdce/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7f4b38d5-5ffc-449a-9211-0d38ecdbfdce",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/3" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/4",
@@ -227,14 +250,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Jürgen Henschel" } ],
+            "width" : 800,
+            "height" : 530,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2b04bc73-21ff-49c0-984e-802027fec9dd/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2b04bc73-21ff-49c0-984e-802027fec9dd/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2b04bc73-21ff-49c0-984e-802027fec9dd",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/4" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/5",
@@ -246,14 +276,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Jürgen Henschel" } ],
+            "width" : 800,
+            "height" : 530,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/32d3346c-359a-4696-bd27-926d668afc5b/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/32d3346c-359a-4696-bd27-926d668afc5b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/32d3346c-359a-4696-bd27-926d668afc5b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/5" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/6",
@@ -265,14 +302,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Jürgen Henschel" } ],
+            "width" : 800,
+            "height" : 530,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7f59b9f2-3aeb-47e9-b99e-0ef82dbd09ff/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7f59b9f2-3aeb-47e9-b99e-0ef82dbd09ff/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7f59b9f2-3aeb-47e9-b99e-0ef82dbd09ff",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/canvas/6" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/AG2HNXJCA6TNFB3BG6JI7VOKSMGK4LHF/range/normal/1",

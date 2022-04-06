@@ -148,14 +148,16 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/834814f1-babc-4ee5-9ac5-c5c03ce636de",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00011872.png",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00011872",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP/sequence/normal",
         "@type" : "sc:Sequence",
@@ -172,14 +174,21 @@
               { "license" : "http://creativecommons.org/licenses/by/4.0/",
                 "mimetype" : "image/jpg",
                 "name2" : "Bundesanstalt für Wasserbau (BAW). Infozentrum Wasserbau" } ],
+            "width" : 6147,
+            "height" : 4128,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/834814f1-babc-4ee5-9ac5-c5c03ce636de/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/834814f1-babc-4ee5-9ac5-c5c03ce636de/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/834814f1-babc-4ee5-9ac5-c5c03ce636de",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP/canvas/1" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3DTYR7T52RWOQJQ4WUJLCDFK7HRVYTUP/range/normal/1",

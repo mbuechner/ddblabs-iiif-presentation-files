@@ -91,14 +91,16 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012050.jpg",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012050",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/sequence/normal",
         "@type" : "sc:Sequence",
@@ -115,14 +117,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                 "mimetype" : "application/pdf",
                 "name2" : "Quelle: DFF - Deutsches Filminstitut & Filmmuseum" } ],
+            "width" : 438,
+            "height" : 600,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/canvas/1" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/range/normal/1",

@@ -146,14 +146,16 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/844ede50-25ba-4c9d-ab1c-332cf6e4e7be",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00012275.jpg",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00012275",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/sequence/normal",
         "@type" : "sc:Sequence",
@@ -170,14 +172,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
                 "mimetype" : "image/jpeg",
                 "name2" : "" } ],
+            "width" : 600,
+            "height" : 480,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/844ede50-25ba-4c9d-ab1c-332cf6e4e7be/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/844ede50-25ba-4c9d-ab1c-332cf6e4e7be/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/844ede50-25ba-4c9d-ab1c-332cf6e4e7be",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/1" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/2",
@@ -189,14 +198,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
                 "mimetype" : "image/jpeg",
                 "name2" : "" } ],
+            "width" : 600,
+            "height" : 480,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b0c1e757-c70b-4a3b-badb-5dafb74795b9/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b0c1e757-c70b-4a3b-badb-5dafb74795b9/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b0c1e757-c70b-4a3b-badb-5dafb74795b9",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/2" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/3",
@@ -208,14 +224,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
                 "mimetype" : "image/jpeg",
                 "name2" : "" } ],
+            "width" : 600,
+            "height" : 480,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8f5587dd-569d-4090-82cb-fa3d4f1dad70/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8f5587dd-569d-4090-82cb-fa3d4f1dad70/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8f5587dd-569d-4090-82cb-fa3d4f1dad70",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/3" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/4",
@@ -227,14 +250,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
                 "mimetype" : "image/jpeg",
                 "name2" : "" } ],
+            "width" : 600,
+            "height" : 480,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/11f48639-277c-49fa-a706-9d38cbcfdfb3/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/11f48639-277c-49fa-a706-9d38cbcfdfb3/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/11f48639-277c-49fa-a706-9d38cbcfdfb3",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/4" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/5",
@@ -246,14 +276,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
                 "mimetype" : "image/jpeg",
                 "name2" : "" } ],
+            "width" : 600,
+            "height" : 480,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/197d9d70-9248-4839-b89d-aef174f67d42/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/197d9d70-9248-4839-b89d-aef174f67d42/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/197d9d70-9248-4839-b89d-aef174f67d42",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/5" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/6",
@@ -265,33 +302,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
                 "mimetype" : "image/jpeg",
                 "name2" : "" } ],
+            "width" : 600,
+            "height" : 480,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f2704f82-8b7e-4a48-95fb-dcc85d6a7d22/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
-          
-          { "@context" : "http://iiif.io/api/presentation/2/context.json",
-            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/7",
-            "@type" : "sc:Canvas",
-            "label" : "Die Hexe von Norderoog",
-            "attribution" : "© Filmmuseum der Landeshauptstadt Düsseldorf",
-            "metadata" : 
-            [ 
-              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
-                "mimetype" : "video/mp4",
-                "name2" : "" } ],
-            "images" : 
-            [ 
-              { "@type" : "oa:Annotation",
-                "motivation" : "sc:painting",
-                "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f2df33ea-5661-494d-a2e3-831c79f76c35/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f2704f82-8b7e-4a48-95fb-dcc85d6a7d22/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f2704f82-8b7e-4a48-95fb-dcc85d6a7d22",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/6" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/7",
@@ -303,14 +328,21 @@
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-ez/",
                 "mimetype" : "image/jpeg",
                 "name2" : "" } ],
+            "width" : 600,
+            "height" : 480,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/92aebdbe-d7a7-45d4-9dde-fab296e475aa/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/92aebdbe-d7a7-45d4-9dde-fab296e475aa/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/92aebdbe-d7a7-45d4-9dde-fab296e475aa",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/7" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/range/normal/1",
@@ -322,10 +354,4 @@
           "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/3",
           "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/4",
           "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/5",
-          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/6" ] },
-      
-      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/range/normal/2",
-        "@type" : "sc:Range",
-        "label" : "Die Hexe von Norderoog",
-        "canvases" : 
-        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/7" ] } ] }
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LFIZCBGGRFEZKXMMAYWXGSJEQ477N52D/canvas/6" ] } ] }

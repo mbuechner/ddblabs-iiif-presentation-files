@@ -157,14 +157,16 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3ab49d3e-6e11-4fae-9fa0-618e074d6f8f",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/oid1448366331117.png",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/oid1448366331117",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/sequence/normal",
         "@type" : "sc:Sequence",
@@ -181,14 +183,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "width" : 3000,
+            "height" : 2002,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/cee83b1c-086d-4635-96de-03020bd9909a/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/cee83b1c-086d-4635-96de-03020bd9909a/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/cee83b1c-086d-4635-96de-03020bd9909a",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/1" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/2",
@@ -200,14 +209,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "width" : 3000,
+            "height" : 2002,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7508f470-2203-464c-8427-5ebf3cf451e2/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7508f470-2203-464c-8427-5ebf3cf451e2/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7508f470-2203-464c-8427-5ebf3cf451e2",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/2" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/3",
@@ -219,14 +235,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "width" : 3000,
+            "height" : 2002,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de41597f-7364-4cc4-b8f9-540d2c4c8895/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de41597f-7364-4cc4-b8f9-540d2c4c8895/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de41597f-7364-4cc4-b8f9-540d2c4c8895",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/3" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/4",
@@ -238,14 +261,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "width" : 3000,
+            "height" : 2002,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1798f35c-ee54-44fd-a5de-0c431881484b/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1798f35c-ee54-44fd-a5de-0c431881484b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1798f35c-ee54-44fd-a5de-0c431881484b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/4" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/5",
@@ -257,14 +287,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "width" : 3000,
+            "height" : 2002,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/15cd255e-e157-4f95-9b7a-7c107c6ea0af/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/15cd255e-e157-4f95-9b7a-7c107c6ea0af/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/15cd255e-e157-4f95-9b7a-7c107c6ea0af",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/5" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/6",
@@ -276,14 +313,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "width" : 3000,
+            "height" : 2002,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3ab49d3e-6e11-4fae-9fa0-618e074d6f8f/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] },
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3ab49d3e-6e11-4fae-9fa0-618e074d6f8f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3ab49d3e-6e11-4fae-9fa0-618e074d6f8f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/6" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/7",
@@ -295,14 +339,21 @@
               { "license" : "",
                 "mimetype" : "image/jpeg",
                 "name2" : "Foto: Deutsches Technikmuseum" } ],
+            "width" : 3000,
+            "height" : 2002,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fb672ae6-465d-4f3b-9fe8-433f3de5a7cb/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fb672ae6-465d-4f3b-9fe8-433f3de5a7cb/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fb672ae6-465d-4f3b-9fe8-433f3de5a7cb",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/canvas/7" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/B4U2SFFBF3RNF65WX5BRXX6Y4ERBKI6B/range/normal/1",

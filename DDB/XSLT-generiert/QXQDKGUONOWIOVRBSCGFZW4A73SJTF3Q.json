@@ -111,14 +111,16 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/809461c6-aa94-4c5b-a6af-b1b4a2e6939f",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "99900287.png",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "99900287",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q/sequence/normal",
         "@type" : "sc:Sequence",
@@ -135,14 +137,21 @@
               { "license" : "",
                 "mimetype" : "image/png",
                 "name2" : "" } ],
+            "width" : 304,
+            "height" : 490,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/809461c6-aa94-4c5b-a6af-b1b4a2e6939f/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/809461c6-aa94-4c5b-a6af-b1b4a2e6939f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/809461c6-aa94-4c5b-a6af-b1b4a2e6939f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q/canvas/1" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXQDKGUONOWIOVRBSCGFZW4A73SJTF3Q/range/normal/1",

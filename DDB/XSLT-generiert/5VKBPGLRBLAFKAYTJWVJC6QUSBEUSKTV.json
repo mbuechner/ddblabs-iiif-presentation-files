@@ -105,33 +105,24 @@
         "value" : 
         [ 
           { "@value" : "R 4 Bildersammlung",
-            "@language" : "de" } ] },
-      
-      { "label" : 
-        [ 
-          { "id" : "flex_arch_002" },
-          
-          { "@value" : "Online-Findbuch im Angebot des Archivs",
-            "@language" : "de" } ],
-        "value" : 
-        [ 
-          { "@value" : "https://arcinsys.hessen.de/arcinsys/llist?nodeid=g121054&page=1&reload=true&sorting=41",
             "@language" : "de" } ] } ],
     "thumbnail" : 
-    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/935f8cd8-5043-4b6a-b9ed-2c6d5e0b5ac4/full/!800,600/0/default.jpg",
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c40f340a-2bc8-494b-8ffb-fc73bda7ef95/full/!800,600/0/default.jpg",
       "@type" : "dctypes:Image",
       "format" : "image/jpeg",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
-        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/935f8cd8-5043-4b6a-b9ed-2c6d5e0b5ac4",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c40f340a-2bc8-494b-8ffb-fc73bda7ef95",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
-    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00000762.png",
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00000762.png",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
-        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00000762",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00000762",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV/sequence/normal",
         "@type" : "sc:Sequence",
@@ -145,17 +136,24 @@
             "attribution" : "",
             "metadata" : 
             [ 
-              { "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/unbekannt/",
                 "mimetype" : "image/jpeg",
                 "name2" : "" } ],
+            "width" : 354,
+            "height" : 581,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/935f8cd8-5043-4b6a-b9ed-2c6d5e0b5ac4/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c40f340a-2bc8-494b-8ffb-fc73bda7ef95/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c40f340a-2bc8-494b-8ffb-fc73bda7ef95",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV/canvas/1" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/5VKBPGLRBLAFKAYTJWVJC6QUSBEUSKTV/range/normal/1",

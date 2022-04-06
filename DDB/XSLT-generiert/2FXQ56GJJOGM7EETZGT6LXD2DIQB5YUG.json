@@ -138,7 +138,9 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee0f5bf8-2d58-425e-bd03-f20454c238f6",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008976.png",
       "service" : 
@@ -170,7 +172,13 @@
                 "motivation" : "sc:painting",
                 "resource" : 
                 { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee0f5bf8-2d58-425e-bd03-f20454c238f6/full/!800,600/0/default.jpg",
-                  "@type" : "dctypes:Image" } } ] },
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee0f5bf8-2d58-425e-bd03-f20454c238f6",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/1" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/2",
@@ -190,7 +198,13 @@
                 "motivation" : "sc:painting",
                 "resource" : 
                 { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a0403832-8149-4e17-8b00-4bdc71817233/full/!800,600/0/default.jpg",
-                  "@type" : "dctypes:Image" } } ] },
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a0403832-8149-4e17-8b00-4bdc71817233",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/2" } ] },
           
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
             "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/3",
@@ -210,7 +224,13 @@
                 "motivation" : "sc:painting",
                 "resource" : 
                 { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3573e21e-13a8-41c3-85a2-75452c423986/full/!800,600/0/default.jpg",
-                  "@type" : "dctypes:Image" } } ] } ] } ],
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3573e21e-13a8-41c3-85a2-75452c423986",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/canvas/3" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2FXQ56GJJOGM7EETZGT6LXD2DIQB5YUG/range/normal/1",

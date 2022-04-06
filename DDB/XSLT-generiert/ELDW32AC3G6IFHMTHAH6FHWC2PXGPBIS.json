@@ -86,14 +86,16 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de459bfb-f475-4748-b024-be41c2849dee",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00014072.png",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00014072",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS/sequence/normal",
         "@type" : "sc:Sequence",
@@ -110,14 +112,21 @@
               { "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
                 "mimetype" : "image/jpeg",
                 "name2" : "[Electronic ed.]: Dresden SLUB, ZB" } ],
+            "width" : 1000,
+            "height" : 1401,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de459bfb-f475-4748-b024-be41c2849dee/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de459bfb-f475-4748-b024-be41c2849dee/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/de459bfb-f475-4748-b024-be41c2849dee",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS/canvas/1" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ELDW32AC3G6IFHMTHAH6FHWC2PXGPBIS/range/normal/1",

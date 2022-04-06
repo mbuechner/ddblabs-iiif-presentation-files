@@ -130,14 +130,16 @@
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b0587102-8c69-4bca-b93f-fbe2968beb62",
-        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
     "logo" : 
     { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012364.png",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
         "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012364",
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
-    "sequence" : 
+    "sequences" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/6OIMOEODXJ44QVKPNT3OPKMXNCW5B4I2/sequence/normal",
         "@type" : "sc:Sequence",
@@ -154,14 +156,21 @@
               { "license" : "http://creativecommons.org/licenses/by-sa/4.0/",
                 "mimetype" : "image/jpeg",
                 "name2" : "Digitalisat: Universitätsbibliothek Erlangen-Nürnberg" } ],
+            "width" : 1600,
+            "height" : 1281,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b0587102-8c69-4bca-b93f-fbe2968beb62/info.json",
-                  "@type" : "ImageService2",
-                  "profile" : "http://iiif.io/api/image/2/level2.json" } } ] } ] } ],
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b0587102-8c69-4bca-b93f-fbe2968beb62/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b0587102-8c69-4bca-b93f-fbe2968beb62",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/6OIMOEODXJ44QVKPNT3OPKMXNCW5B4I2/canvas/1" } ] } ] } ],
     "structures" : 
     [ 
       { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/6OIMOEODXJ44QVKPNT3OPKMXNCW5B4I2/range/normal/1",
