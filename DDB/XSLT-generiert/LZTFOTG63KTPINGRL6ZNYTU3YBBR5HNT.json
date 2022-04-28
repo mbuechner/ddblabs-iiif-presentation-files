@@ -1,0 +1,756 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "MARCHIVUM Mannheim",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_004",
+            "@value" : "Archivaliensignatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "MARCHIVUM Mannheim, 38/2012_00124",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_029",
+            "@value" : "Kontext",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Verlassenschaftsakten Feudenheim >> 2.5. Vermögensübergabe",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_008",
+            "@value" : "Laufzeit",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1832-1833",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_009",
+            "@value" : "Digitalisat im Angebot des Archivs",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "https://scope.mannheim.de//DFG-Files/0/D143-1.jpg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_001",
+            "@value" : "Bestand",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Verlassenschaftsakten Feudenheim",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_002",
+            "@value" : "Online-Findbuch im Angebot des Archivs",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "https://scope.mannheim.de/detail.aspx?ID=36872",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/63af9bfc-66de-4892-a1de-e3e7a9e54bc4/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/63af9bfc-66de-4892-a1de-e3e7a9e54bc4",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00001230.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00001230",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/63af9bfc-66de-4892-a1de-e3e7a9e54bc4/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/63af9bfc-66de-4892-a1de-e3e7a9e54bc4",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dc3918c5-a232-478b-9de7-6c75b405626f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dc3918c5-a232-478b-9de7-6c75b405626f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/2" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/187a89a9-d48c-400e-84bf-27a30a5280f5/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/187a89a9-d48c-400e-84bf-27a30a5280f5",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/3" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/4",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b9331599-47bb-41e3-8a22-f0147ce3594d/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b9331599-47bb-41e3-8a22-f0147ce3594d",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/4" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/5",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dea5d069-b1ac-4909-9e3b-f3084f11fd08/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dea5d069-b1ac-4909-9e3b-f3084f11fd08",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/5" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/6",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a0c5353b-dd72-4e11-880b-d8e6f9b8adcc/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a0c5353b-dd72-4e11-880b-d8e6f9b8adcc",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/6" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/7",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/db353ba9-05d9-401b-b321-67a0fffaccc5/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/db353ba9-05d9-401b-b321-67a0fffaccc5",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/7" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/8",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/68211353-bdc2-4cc3-8a18-7f8716926aff/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/68211353-bdc2-4cc3-8a18-7f8716926aff",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/8" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/9",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/09118a67-2741-4c9c-b1cc-763c0ebec0cc/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/09118a67-2741-4c9c-b1cc-763c0ebec0cc",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/9" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/10",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1632674f-ac49-4844-8244-4b49db9a840f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1632674f-ac49-4844-8244-4b49db9a840f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/10" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/11",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b73088b7-7149-4c24-8d07-7fd8c9c611b7/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b73088b7-7149-4c24-8d07-7fd8c9c611b7",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/11" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/12",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e3ff53f5-7097-4749-9274-5270798f191a/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e3ff53f5-7097-4749-9274-5270798f191a",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/12" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/13",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/5b1657ce-ee0e-40ff-9db8-4ae0b2a775ed/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/5b1657ce-ee0e-40ff-9db8-4ae0b2a775ed",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/13" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/14",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/496bdd8a-f7f5-4f6a-ab5f-fb792677dd72/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/496bdd8a-f7f5-4f6a-ab5f-fb792677dd72",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/14" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/15",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c3bf09e2-7bb2-499f-9798-25ca641cc9fa/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c3bf09e2-7bb2-499f-9798-25ca641cc9fa",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/15" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/16",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f56e9b99-e378-4d2c-8f5d-064f732cb39b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f56e9b99-e378-4d2c-8f5d-064f732cb39b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/16" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/17",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/10860629-c643-45cb-b0e1-02025882014f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/10860629-c643-45cb-b0e1-02025882014f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/17" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/18",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/4b3f26a9-3dae-4776-b016-152453a38fcc/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/4b3f26a9-3dae-4776-b016-152453a38fcc",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/18" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/19",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0744209f-aa4b-4ba3-aa17-0c3962029485/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0744209f-aa4b-4ba3-aa17-0c3962029485",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/19" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/20",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2f001a7d-8219-467a-87a6-fa9399babb41/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2f001a7d-8219-467a-87a6-fa9399babb41",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/20" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/21",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/25b93cfb-b81a-4db2-946c-9885b959baf9/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/25b93cfb-b81a-4db2-946c-9885b959baf9",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/21" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/22",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/040edb37-ac96-4ecd-93ba-c135ff599196/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/040edb37-ac96-4ecd-93ba-c135ff599196",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/22" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/23",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ea2bae8c-e02f-45c6-8126-a320dabd4c6f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ea2bae8c-e02f-45c6-8126-a320dabd4c6f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/23" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/24",
+            "@type" : "sc:Canvas",
+            "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fd09df9f-0676-4d88-9f23-0fbef075e53f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fd09df9f-0676-4d88-9f23-0fbef075e53f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/24" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Vermögensverzeichnis und Übergabe der Eva Herrmann, Witwe des gewesenen Bürgers aus Feudenheim Georg Herrmann, an ihre fünf großjährigen Töchter",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/3",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/4",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/5",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/6",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/7",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/8",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/9",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/10",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/11",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/12",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/13",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/14",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/15",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/16",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/17",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/18",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/19",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/20",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/21",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/22",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/23",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/LZTFOTG63KTPINGRL6ZNYTU3YBBR5HNT/canvas/24" ] } ] }

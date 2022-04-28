@@ -1,0 +1,228 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GDJR2SQ5DP5H3GEKGAWJQVESFDF2NK7J/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "König Konrad der Junge",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Ruprecht-Karls-Universität Heidelberg. Universitätsbibliothek",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/GDJR2SQ5DP5H3GEKGAWJQVESFDF2NK7J",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/GDJR2SQ5DP5H3GEKGAWJQVESFDF2NK7J",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_015",
+            "@value" : "Alternativer Titel",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Große Heidelberger Liederhandschrift (Codex Manesse) (Titelzusatz)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Buchmalerei",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Konradin der Junge (1252-1268), der Sohn König Konrad IV. (1228-1254), war der letzte Staufer sowie Herzog von Schwaben und König von Jerusalem und Sizilien. Er verfaßte zwei Minnelieder. 1268 wurde er in Neapel, erst 16 Jahre alt, hingerichtet.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Pergament, Deckfarbenminiaturen",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "35 x 25 cm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Zürich",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1305 - 1340",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Provenienz",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_460",
+            "@value" : "(Beschreibung)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bibliotheca Palatina",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Buchmalerei",
+            "@language" : "de" },
+          
+          { "@value" : "Liederbuch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_330",
+            "@value" : "Verwandtes Objekt/Literatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Verweis: http://digi.ub.uni-heidelberg.de/diglit/cpg848/0009",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Universitätsbibliothek Heidelberg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Cod. Pal. germ. 848, Bl. 007r",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_450",
+            "@value" : "Sammlung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "UB Bibliotheca Palatina (UB Heidelberg)",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7dcf4b7b-3574-41b5-a47e-816dea5148a9/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7dcf4b7b-3574-41b5-a47e-816dea5148a9",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00013701.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00013701",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GDJR2SQ5DP5H3GEKGAWJQVESFDF2NK7J/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GDJR2SQ5DP5H3GEKGAWJQVESFDF2NK7J/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GDJR2SQ5DP5H3GEKGAWJQVESFDF2NK7J/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "König Konrad der Junge",
+            "attribution" : "© HeidICON - Die Heidelberger Objekt- und Multimediadatenbank",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1451,
+            "height" : 2000,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7dcf4b7b-3574-41b5-a47e-816dea5148a9/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7dcf4b7b-3574-41b5-a47e-816dea5148a9",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GDJR2SQ5DP5H3GEKGAWJQVESFDF2NK7J/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GDJR2SQ5DP5H3GEKGAWJQVESFDF2NK7J/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "König Konrad der Junge",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/GDJR2SQ5DP5H3GEKGAWJQVESFDF2NK7J/canvas/1" ] } ] }

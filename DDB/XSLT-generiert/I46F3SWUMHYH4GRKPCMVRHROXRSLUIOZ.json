@@ -1,0 +1,982 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Serientitel (unittitle): Testobjekt vollständig (unittitle)",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Landesarchiv Baden-Württemberg",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_004",
+            "@value" : "Archivaliensignatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Name des Archivs (archdesc/did/repository/corpname), Archivaliensignatur (unitid)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_029",
+            "@value" : "Kontext",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bestandstitel (unittitle) >> Gliederungsüberschrift (unittitle) >> Serientitel (unittitle)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_008",
+            "@value" : "Laufzeit",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1901 - 1905. Laufzeit (unitdate). Über @normal wird die \"Zeit\"-Facette in der DDB und im Archivportal-D befüllt.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_010",
+            "@value" : "Enthältvermerke",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Enthältvermerk zum Archivale (abstract)<br />Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<br />Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.<br />Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_006",
+            "@value" : "Provenienz",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Provenienz (origination). Dieses Element befüllt die Facette \"Person/Organisation\"",
+            "@language" : "de" },
+          
+          { "@value" : ". Exakte Provenienzangabe (origination/name. Über origination @label lässt sich eine beliebige Rollenangabe, z.B. hier \"Fotograph\" machen, über name @source und @authfilenumber können GND-Nummern angegeben werden Dieses Element befüllt die Facette \"Person/Organisation\"Urheber",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_007",
+            "@value" : "Vorprovenienz",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Vorprovenienz (origination @label=\"pre\"). Dieses Element befüllt die Facette \"Person/Organisation\"",
+            "@language" : "de" },
+          
+          { "@value" : "Ebert, Friedrich",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_011",
+            "@value" : "Umfang",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Umfang (physdesc/extent)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_012",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Maße (physdesc/dimensions)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_013",
+            "@value" : "Material",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Material (materialspec)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_016",
+            "@value" : "Archivalientyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Archivalientyp (physdesc/genreform). Unter @normal kann ein normalisierte Wert eingetragen werden (siehe Doku)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_017",
+            "@value" : "Sprache der Unterlagen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Sprache der Unterlagen (langmaterial/language)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_019",
+            "@value" : "Sonstige Erschließungsangaben",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Sonstige Erschließungsangaben Überschrift (odd/head): Sonstige Erschließungsangaben Text (odd/p)<br /><br />Sonstige Erschließungsangaben in Datumform Überschrift (z.B.: Geburtsdatum) (odd/head): <br />Datum. Über @normal lässt sich ein normalisiertes Datum eingeben. Dieses wird jedoch nicht ausgewertet. (odd/p/date)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_022",
+            "@value" : "Bemerkungen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Unspezifische Bemerkungen (note/p)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_036",
+            "@value" : "Zugangsbeschränkungen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Zugangsbeschränkung Überschrift (accessrestrict/head): Zugangsbeschränkung (accessrestric/p)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_027",
+            "@value" : "Indexbegriffe Person",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Indexbegriff Person. Der Wert wird in die \"Person/Organisation\"-Facette eingetragen. Über @role lässt sich eine Rolle angeben, über @source und@authfilenumber lassen sich Normdaten angeben. Normdaten werden auf die Personenseite im APD/DDB weitergeleitet. index/indexentry/persname - Rolle (z.B.: Schreiber)",
+            "@language" : "de" },
+          
+          { "@value" : "Karl IV. - Beispielperson mit Normdatum",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_033",
+            "@value" : "Indexbegriffe Ort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Indexbegriff Ort. Der Wert wird in die Ortsfacette eingetragen. Über @role lässt sich eine Rolle angeben, über @source und@authfilenumber lassen sich Normdaten angeben. Normdaten werden nicht ausgewertet. (index/indexentry/geogname) - Rolle (z.B.: Ausstellungsort)",
+            "@language" : "de" },
+          
+          { "@value" : "Stuttgart - Beispielort",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_034",
+            "@value" : "Indexbegriffe Sache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Indexbegriff Sache. Der Wert wird in die \"Schlagwort\"-Facette eingetragen. Über @role lässt sich eine Rolle angeben, über @source und@authfilenumber lassen sich Normdaten angeben. Normdaten werden nicht ausgewertet. (index/indexentry/subjec) - Spezifizierung des Begriffstyps (zur Abbildung benutzerdefinierter Indextypen)",
+            "@language" : "de" },
+          
+          { "@value" : "Merinoschaf - Beispielsachbegriff",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_009",
+            "@value" : "Digitalisat im Angebot des Archivs",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "http://ub-goobi-pr2.ub.uni-greifswald.de/viewer/resolver?urn=urn:nbn:de:gbv:9-g-568771",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_001",
+            "@value" : "Bestand",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Name des Archivs (archdesc/did/repository/corpname), Bestandssignatur (unitid) Bestandstitel (unittitle)",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6f3a78d5-aa21-45e2-9aa3-9ecb70dc267a/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6f3a78d5-aa21-45e2-9aa3-9ecb70dc267a",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00000896.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00000896",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 800,
+            "height" : 1232,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6f3a78d5-aa21-45e2-9aa3-9ecb70dc267a/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6f3a78d5-aa21-45e2-9aa3-9ecb70dc267a",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 800,
+            "height" : 1342,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/25ad8873-d746-47f8-8da1-d217ca661d11/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/25ad8873-d746-47f8-8da1-d217ca661d11",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/2" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 800,
+            "height" : 1360,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d42d5f32-3585-43bd-b767-78573e6de0be/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d42d5f32-3585-43bd-b767-78573e6de0be",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/3" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/4",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 800,
+            "height" : 1342,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7bc82a85-31a0-4c34-a7ac-d3048930c4b4/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7bc82a85-31a0-4c34-a7ac-d3048930c4b4",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/4" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/5",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 800,
+            "height" : 1360,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b5c170e5-a78b-4ab4-ab05-a744ee5d38c3/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b5c170e5-a78b-4ab4-ab05-a744ee5d38c3",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/5" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/6",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 800,
+            "height" : 1342,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d5687edf-880a-4526-b55f-7640074ae857/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d5687edf-880a-4526-b55f-7640074ae857",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/6" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/7",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 800,
+            "height" : 1351,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d339d3b8-2bae-4990-b2b8-41d6fa83e56e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d339d3b8-2bae-4990-b2b8-41d6fa83e56e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/7" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/8",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 800,
+            "height" : 1331,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c188fe10-9626-4527-a85a-b6a409dd0bb7/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c188fe10-9626-4527-a85a-b6a409dd0bb7",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/8" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/9",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 800,
+            "height" : 1353,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dfdb242b-f9a8-462a-9ccf-07a97ae6923a/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dfdb242b-f9a8-462a-9ccf-07a97ae6923a",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/9" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/10",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 800,
+            "height" : 1346,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/82be1535-3e98-4ec3-853d-de7a684261e5/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/82be1535-3e98-4ec3-853d-de7a684261e5",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/10" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/11",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1651,
+            "height" : 1470,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/97a2af28-cb72-4485-8311-128b3c047bb1/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/97a2af28-cb72-4485-8311-128b3c047bb1",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/11" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/12",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1110,
+            "height" : 948,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d38cbd02-e735-43ac-8e84-94fdff5a3daa/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d38cbd02-e735-43ac-8e84-94fdff5a3daa",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/12" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/13",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 967,
+            "height" : 886,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/edd71af5-1d1c-40cb-b011-6a304ebeed71/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/edd71af5-1d1c-40cb-b011-6a304ebeed71",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/13" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/20",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 338,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fcc58752-a5ae-4b4d-9059-fe12bafddd3e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fcc58752-a5ae-4b4d-9059-fe12bafddd3e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/20" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/22",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 423,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e05797d1-71fb-4305-9e6e-367f2e0e9735/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e05797d1-71fb-4305-9e6e-367f2e0e9735",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/22" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/23",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 383,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7aa7aa71-2559-4769-b755-81ce76a47d08/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7aa7aa71-2559-4769-b755-81ce76a47d08",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/23" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/24",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 371,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/43c28900-f3bb-43e6-a1e3-35e0e0002d55/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/43c28900-f3bb-43e6-a1e3-35e0e0002d55",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/24" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/25",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 379,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e9cd42e8-f2d5-460a-b99e-510450e4609b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e9cd42e8-f2d5-460a-b99e-510450e4609b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/25" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/26",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 382,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/98f4241d-cfe3-48bf-9751-0c67a657c501/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/98f4241d-cfe3-48bf-9751-0c67a657c501",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/26" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/27",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 379,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/5a5e85a1-2544-4887-9c67-4c8871b069d6/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/5a5e85a1-2544-4887-9c67-4c8871b069d6",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/27" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/28",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 378,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/263d96ab-b8bc-40d7-937f-8750da652604/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/263d96ab-b8bc-40d7-937f-8750da652604",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/28" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/29",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 364,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/02697d29-869e-424b-b9d6-2782ed00880c/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/02697d29-869e-424b-b9d6-2782ed00880c",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/29" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/30",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 358,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3f439e22-1139-455d-8629-a0efe41fcace/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3f439e22-1139-455d-8629-a0efe41fcace",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/30" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/31",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 370,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b40dc97d-7598-4fe0-876e-23525e1c8386/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b40dc97d-7598-4fe0-876e-23525e1c8386",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/31" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/32",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 366,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/bbee4b55-3a20-4076-a497-4a78dfe3d1fc/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/bbee4b55-3a20-4076-a497-4a78dfe3d1fc",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/32" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/33",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 388,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c2263636-5f57-447d-9254-726db9d9bf0e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c2263636-5f57-447d-9254-726db9d9bf0e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/33" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/34",
+            "@type" : "sc:Canvas",
+            "label" : "Testobjekt vollständig (unittitle)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "application/pdf",
+                "name2" : "" } ],
+            "width" : 365,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d6ecfbf8-7471-43d5-9cbf-2d972ec463d8/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d6ecfbf8-7471-43d5-9cbf-2d972ec463d8",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/34" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Testobjekt vollständig (unittitle)",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/3",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/4",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/5",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/6",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/7",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/8",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/9",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/10",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/11",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/12",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/13",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/20",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/22",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/23",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/24",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/25",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/26",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/27",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/28",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/29",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/30",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/31",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/32",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/33",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/I46F3SWUMHYH4GRKPCMVRHROXRSLUIOZ/canvas/34" ] } ] }

@@ -1,0 +1,125 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/XSV7U5CJQEDZELX3PLHK6SKRYWBX4BY2/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Abend-Zeitung ; [...] : Literaturblatt der Abend-Zeitung",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/XSV7U5CJQEDZELX3PLHK6SKRYWBX4BY2",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/XSV7U5CJQEDZELX3PLHK6SKRYWBX4BY2",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_003",
+            "@value" : "Dokumenttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Heft",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_004",
+            "@value" : "Erschienen in",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Abend-Zeitung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_006",
+            "@value" : "Erschienen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1854-07-27",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_008",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_010",
+            "@value" : "Reihe",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Projekt: Historische Zeitungen",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_013a",
+            "@value" : "PURL",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "http://digital.slub-dresden.de/id462729907-18540727",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_013b",
+            "@value" : "URN",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "urn:nbn:de:bsz:14-db-id462729907-185407278",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "stat_016",
+            "@value" : "Förderung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsche Forschungsgemeinschaft",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/052a1f26-a8f4-4f07-8bb7-3ee1ae6618e5/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/052a1f26-a8f4-4f07-8bb7-3ee1ae6618e5",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00014072.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00014072",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/XSV7U5CJQEDZELX3PLHK6SKRYWBX4BY2/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/XSV7U5CJQEDZELX3PLHK6SKRYWBX4BY2/canvas/1",
+        "canvases" : 
+        [  ] } ],
+    "structures" : 
+    [  ] }

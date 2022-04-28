@@ -1,0 +1,115 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7A2XTUIF4I53Z7HWBTEAH3LQZWKPBVOP/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Pola Negri",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum e.V.",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/7A2XTUIF4I53Z7HWBTEAH3LQZWKPBVOP",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/7A2XTUIF4I53Z7HWBTEAH3LQZWKPBVOP",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_film_007",
+            "@value" : "Beschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Pola Negri",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_008",
+            "@value" : "Quelle",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_010",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_011",
+            "@value" : "Objekttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Portrait",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/16912ca7-e3bd-46b8-b185-8766a221939b/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/16912ca7-e3bd-46b8-b185-8766a221939b",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012050.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012050",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7A2XTUIF4I53Z7HWBTEAH3LQZWKPBVOP/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7A2XTUIF4I53Z7HWBTEAH3LQZWKPBVOP/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7A2XTUIF4I53Z7HWBTEAH3LQZWKPBVOP/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Pola Negri",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Quelle: DFF - Deutsches Filminstitut & Filmmuseum" } ],
+            "width" : 318,
+            "height" : 450,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/16912ca7-e3bd-46b8-b185-8766a221939b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/16912ca7-e3bd-46b8-b185-8766a221939b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7A2XTUIF4I53Z7HWBTEAH3LQZWKPBVOP/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7A2XTUIF4I53Z7HWBTEAH3LQZWKPBVOP/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Pola Negri",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/7A2XTUIF4I53Z7HWBTEAH3LQZWKPBVOP/canvas/1" ] } ] }

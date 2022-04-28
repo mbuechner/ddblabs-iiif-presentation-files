@@ -21,9 +21,8 @@
     [ 
       { "label" : 
         [ 
-          { "id" : "flex_arch_004" },
-          
-          { "@value" : "Archivaliensignatur",
+          { "id" : "flex_arch_004",
+            "@value" : "Archivaliensignatur",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -32,9 +31,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_029" },
-          
-          { "@value" : "Kontext",
+          { "id" : "flex_arch_029",
+            "@value" : "Kontext",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -43,9 +41,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_008" },
-          
-          { "@value" : "Laufzeit",
+          { "id" : "flex_arch_008",
+            "@value" : "Laufzeit",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -54,9 +51,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_006" },
-          
-          { "@value" : "Provenienz",
+          { "id" : "flex_arch_006",
+            "@value" : "Provenienz",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -65,9 +61,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_016" },
-          
-          { "@value" : "Archivalientyp",
+          { "id" : "flex_arch_016",
+            "@value" : "Archivalientyp",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -76,9 +71,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_017" },
-          
-          { "@value" : "Sprache der Unterlagen",
+          { "id" : "flex_arch_017",
+            "@value" : "Sprache der Unterlagen",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -87,9 +81,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_019" },
-          
-          { "@value" : "Sonstige Erschließungsangaben",
+          { "id" : "flex_arch_019",
+            "@value" : "Sonstige Erschließungsangaben",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -98,9 +91,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_027" },
-          
-          { "@value" : "Indexbegriffe Person",
+          { "id" : "flex_arch_027",
+            "@value" : "Indexbegriffe Person",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -112,9 +104,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_033" },
-          
-          { "@value" : "Indexbegriffe Ort",
+          { "id" : "flex_arch_033",
+            "@value" : "Indexbegriffe Ort",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -123,9 +114,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_009" },
-          
-          { "@value" : "Digitalisat im Angebot des Archivs",
+          { "id" : "flex_arch_009",
+            "@value" : "Digitalisat im Angebot des Archivs",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -134,9 +124,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_001" },
-          
-          { "@value" : "Bestand",
+          { "id" : "flex_arch_001",
+            "@value" : "Bestand",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -145,9 +134,8 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_arch_002" },
-          
-          { "@value" : "Online-Findbuch im Angebot des Archivs",
+          { "id" : "flex_arch_002",
+            "@value" : "Online-Findbuch im Angebot des Archivs",
             "@language" : "de" } ],
         "value" : 
         [ 

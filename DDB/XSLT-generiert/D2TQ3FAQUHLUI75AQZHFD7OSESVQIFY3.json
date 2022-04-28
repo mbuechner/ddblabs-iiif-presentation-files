@@ -1,0 +1,327 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Kasel",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Landesmuseum Württemberg",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-sa/4.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Parament",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Aus Seide gefertigte Textilien waren eine Kostbarkeit. Daher wurden sie häufig in neuen Zusammenhängen weiterverwendet. Auch diese Kasel - das liturgische Obergewand des Priesters - ist aus zahlreichen Teilen eines italienischen Seidensamts mit Granatapfelmuster zusammengesetzt. Ihre Rückseite ziert eine zugeschnittene Stickerei mit Kreuzigungsgruppe und drei Evangelistensymbolen, die Vorderseite eine Kölner Borte. Die Kasel stammt angeblich aus Rottenburg. Sie ist in der Schausammlung \"LegendäreMeisterWerke\" im Alten Schloss ausgestellt.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Seidensamt, Stickerei, Damastborte",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "H. 109 cm, B. 71 cm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Hergestellt",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutschland",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1450-1499",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Wurde genutzt",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Rottenburg am Neckar",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Hergestellt",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Italien",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Hergestellt",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Köln",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kunsthandwerk",
+            "@language" : "de" },
+          
+          { "@value" : "Textilie",
+            "@language" : "de" },
+          
+          { "@value" : "Liturgie",
+            "@language" : "de" },
+          
+          { "@value" : "Kleidung",
+            "@language" : "de" },
+          
+          { "@value" : "Sakrale Bekleidung",
+            "@language" : "de" },
+          
+          { "@value" : "Holzkreuz",
+            "@language" : "de" },
+          
+          { "@value" : "Christus am Kreuz (Motiv)",
+            "@language" : "de" },
+          
+          { "@value" : "Evangelist",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_220",
+            "@value" : "Bezug (wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Jesus Christus (-4-30)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_240",
+            "@value" : "Bezug (wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1401-1500",
+            "@language" : "de" },
+          
+          { "@value" : "15. Jahrhundert",
+            "@language" : "de" },
+          
+          { "@value" : "500-1500",
+            "@language" : "de" },
+          
+          { "@value" : "500-1500",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Landesmuseum Württemberg, Stuttgart",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "WLM 10676",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_450",
+            "@value" : "Sammlung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kostüme, Textilien und moderne Textilkunst; Kunst- und Kulturgeschichtliche Sammlungen; LegendäreMeisterWerke. Kulturgeschichte(n) aus Württemberg",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/5ef49ae0-2cae-4a01-a61d-febde0fbf88e/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/5ef49ae0-2cae-4a01-a61d-febde0fbf88e",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00013113.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00013113",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Rückseite",
+            "attribution" : "© Landesmuseum Württemberg, Stuttgart",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-sa/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: H. Zwietasch" } ],
+            "width" : 333,
+            "height" : 500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/5ef49ae0-2cae-4a01-a61d-febde0fbf88e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/5ef49ae0-2cae-4a01-a61d-febde0fbf88e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Vorderseite",
+            "attribution" : "© Landesmuseum Württemberg, Stuttgart",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-sa/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: H. Zwietasch" } ],
+            "width" : 333,
+            "height" : 500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/96884f0d-f5d8-4cbc-b709-8d43663d3c7e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/96884f0d-f5d8-4cbc-b709-8d43663d3c7e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/canvas/2" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Rückseite",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/canvas/1" ] },
+      
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/range/normal/2",
+        "@type" : "sc:Range",
+        "label" : "Vorderseite",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/D2TQ3FAQUHLUI75AQZHFD7OSESVQIFY3/canvas/2" ] } ] }

@@ -1,0 +1,225 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Porträtaufnahme Fritz von Unruh",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Deutsches Exilarchiv",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_004",
+            "@value" : "Archivaliensignatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsches Exilarchiv, Nachlass Eric Schaal A.04.25.0001",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_029",
+            "@value" : "Kontext",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Nachlass Eric Schaal >> Werke >> Porträtaufnahmen ohne Widmung; Porträtierte von Jean Schlumberger bis Stefan Zweig >> Porträtaufnahmen Fritz von Unruh",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_011",
+            "@value" : "Umfang",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1 Fotografie schwarz/weiß",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_016",
+            "@value" : "Archivalientyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Archivale",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_017",
+            "@value" : "Sprache der Unterlagen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_019",
+            "@value" : "Sonstige Erschließungsangaben",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Begleitmaterial: 1 Negativ<br /><br />Dokumenttyp: Online-Ressource<br /><br />Erschienen: [Online-Ausg.] : 2013<br /><br />Entstehungszeit: 1941",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_022",
+            "@value" : "Bemerkungen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Rechte vorbehalten - Freier Zugang : Dieses digitale Objekt ist durch das Urheberrecht und/oder verwandte Rechte geschützt. Für die Nutzungsrechte wenden Sie sich bitte an das Deutsche Exilarchiv 1933-1945.<br /><br />Rückseite der Fotografie: Stempel Eric Schaal",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_027",
+            "@value" : "Indexbegriffe Person",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Schaal, Eric - Fotograf",
+            "@language" : "de" },
+          
+          { "@value" : "Unruh, Fritz von - Dokumentierte Person",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_034",
+            "@value" : "Indexbegriffe Sache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografie",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_009",
+            "@value" : "Digitalisat im Angebot des Archivs",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "https://portal.dnb.de/bookviewer/view/1042028508",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_001",
+            "@value" : "Bestand",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Nachlass Eric Schaal",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_002",
+            "@value" : "Online-Findbuch im Angebot des Archivs",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "http://d-nb.info/982021593",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/748de731-5267-4ab1-aeab-6b4ea692b450/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/748de731-5267-4ab1-aeab-6b4ea692b450",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Porträtaufnahme Fritz von Unruh",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 638,
+            "height" : 811,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/748de731-5267-4ab1-aeab-6b4ea692b450/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/748de731-5267-4ab1-aeab-6b4ea692b450",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Porträtaufnahme Fritz von Unruh",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 638,
+            "height" : 811,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c622511b-b6a7-4203-b591-5119875924df/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c622511b-b6a7-4203-b591-5119875924df",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE/canvas/2" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Porträtaufnahme Fritz von Unruh",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/CYIOWRRRFCUQU2YVPKKJWQG2OUI2PFFE/canvas/2" ] } ] }

@@ -1,0 +1,125 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2PKL4SI7DKJZBN77XWCFDGYWHOZWANZG/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Willy Fritsch",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum e.V.",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/2PKL4SI7DKJZBN77XWCFDGYWHOZWANZG",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/2PKL4SI7DKJZBN77XWCFDGYWHOZWANZG",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_film_005",
+            "@value" : "Entstanden",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1953",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_007",
+            "@value" : "Beschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Filmplakat von \"Wenn der weiße Flieder wieder blüht\" (1953)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_008",
+            "@value" : "Quelle",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_010",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_011",
+            "@value" : "Objekttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Plakat",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f49c4d5e-f149-49ca-84f8-3bfc7fc2a7af/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f49c4d5e-f149-49ca-84f8-3bfc7fc2a7af",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012050.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012050",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2PKL4SI7DKJZBN77XWCFDGYWHOZWANZG/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2PKL4SI7DKJZBN77XWCFDGYWHOZWANZG/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2PKL4SI7DKJZBN77XWCFDGYWHOZWANZG/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Filmplakat von \"Wenn der weiße Flieder wieder blüht\" (1953)",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Quelle: DFF - Deutsches Filminstitut & Filmmuseum" } ],
+            "width" : 315,
+            "height" : 448,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f49c4d5e-f149-49ca-84f8-3bfc7fc2a7af/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f49c4d5e-f149-49ca-84f8-3bfc7fc2a7af",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2PKL4SI7DKJZBN77XWCFDGYWHOZWANZG/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/2PKL4SI7DKJZBN77XWCFDGYWHOZWANZG/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Filmplakat von \"Wenn der weiße Flieder wieder blüht\" (1953)",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/2PKL4SI7DKJZBN77XWCFDGYWHOZWANZG/canvas/1" ] } ] }

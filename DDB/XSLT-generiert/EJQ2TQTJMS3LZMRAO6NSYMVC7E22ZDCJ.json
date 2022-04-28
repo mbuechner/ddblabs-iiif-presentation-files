@@ -1,0 +1,208 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/EJQ2TQTJMS3LZMRAO6NSYMVC7E22ZDCJ/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Bildnis des Nicolas de Catinat",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "LWL-Museum für Kunst und Kultur - Westfälisches Landesmuseum für Kunst und Kulturgeschichte",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/EJQ2TQTJMS3LZMRAO6NSYMVC7E22ZDCJ",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/EJQ2TQTJMS3LZMRAO6NSYMVC7E22ZDCJ",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Druck",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Radierung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Höhe x Breite: 305 x 197 mm (Platte)",
+            "@language" : "de" },
+          
+          { "@value" : "Höhe x Breite: 353 x 235 mm (Blatt)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Trouvain, Antoine, 1671-1708 (Verleger)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1693/1708",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Veröffentlichung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Paris",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Beschreibung: Porträt einer historischen Person (Catinat, Nicolas) (allein)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_220",
+            "@value" : "Bezug (wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Catinat, Nicolas",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Druckgraphik (Gattung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "LWL-Museum für Kunst und Kultur (Westfälisches Landesmuseum) — Porträtarchiv Diepenbroick (Münster)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "C-505253 PAD",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1ef117d8-d3bb-4fd1-a852-be09240be371/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1ef117d8-d3bb-4fd1-a852-be09240be371",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/EJQ2TQTJMS3LZMRAO6NSYMVC7E22ZDCJ/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/EJQ2TQTJMS3LZMRAO6NSYMVC7E22ZDCJ/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/EJQ2TQTJMS3LZMRAO6NSYMVC7E22ZDCJ/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Bildnis des Nicolas de Catinat",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt: LWL-Landesmuseum für Kunst und Kulturgeschichte Münster (2012), Quelle: LWL-Landesmuseum für Kunst und Kulturgeschichte Münster" } ],
+            "width" : 805,
+            "height" : 1200,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1ef117d8-d3bb-4fd1-a852-be09240be371/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1ef117d8-d3bb-4fd1-a852-be09240be371",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/EJQ2TQTJMS3LZMRAO6NSYMVC7E22ZDCJ/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/EJQ2TQTJMS3LZMRAO6NSYMVC7E22ZDCJ/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Bildnis des Nicolas de Catinat",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/EJQ2TQTJMS3LZMRAO6NSYMVC7E22ZDCJ/canvas/1" ] } ] }

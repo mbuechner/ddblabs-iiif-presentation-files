@@ -1,0 +1,131 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/F3WJONMF6NXB3IJQLRYV5LR67KDPMQTA/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Rad (2001)",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "KurzFilmAgentur Hamburg e.V.",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/F3WJONMF6NXB3IJQLRYV5LR67KDPMQTA",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/F3WJONMF6NXB3IJQLRYV5LR67KDPMQTA",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_film_003",
+            "@value" : "Herausgeber",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Jörn Staeger Filmproduktion (Hamburg)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_005",
+            "@value" : "Entstanden",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "2001",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_007",
+            "@value" : "Beschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Der Akteur, von Verspätung getrieben, rast starrsinnig auf seinem Frahrrad vorwärts - bis er durchgedreht wird und selber durchdreht. Quelle: KurzFilmAgentur Hamburg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_008",
+            "@value" : "Quelle",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "KurzFilmAgentur Hamburg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_010",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_011",
+            "@value" : "Objekttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kurzfilm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_015",
+            "@value" : "Bezug",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Auf die Sekunde gut – Highlights der KurzFilmAgentur Hamburg",
+            "@language" : "de" },
+          
+          { "@value" : "Kurz- und Werbefilme",
+            "@language" : "de" },
+          
+          { "@value" : "KurzFilmAgentur Hamburg e.V.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_017",
+            "@value" : "Länge",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "03:05 min",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/80255139 70f8f639-6689-41a4-9542-83a866d155ca/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "video/vnd.ddbkultur.vimeo image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/80255139 70f8f639-6689-41a4-9542-83a866d155ca",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00007456.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00007456",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/F3WJONMF6NXB3IJQLRYV5LR67KDPMQTA/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/F3WJONMF6NXB3IJQLRYV5LR67KDPMQTA/canvas/1 1",
+        "canvases" : 
+        [  ] } ],
+    "structures" : 
+    [  ] }

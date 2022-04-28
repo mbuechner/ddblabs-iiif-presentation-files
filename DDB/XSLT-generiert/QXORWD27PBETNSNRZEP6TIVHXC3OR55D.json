@@ -1,0 +1,543 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Kaffeeservice \"F\" von Ernst August Sundermann",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Stiftung Deutsches Design Museum",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/QXORWD27PBETNSNRZEP6TIVHXC3OR55D",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/QXORWD27PBETNSNRZEP6TIVHXC3OR55D",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_015",
+            "@value" : "Alternativer Titel",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Historisches Fotoarchiv Rat für Formgebung (Serientitel)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Vintage Print",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kaffeeservice der Fürstenbergform-Form \"F\" 677 von Ernst August Sundermann bestehend aus Kaffeekanne, Tasse und Untertasse, Teller, Zuckerdose und Milchgießer aus weißem Porzellan. Auszeichnungen: \"Die gute Industrieform\", Hannover 1972, Haus Industrieform 1972, Design Center Stuttgart 1972, Faenza, Italien 1972 und Leipzig 1972.",
+            "@language" : "de" },
+          
+          { "@value" : "Kaffeeservice: Kaffeegeschirr aus Porzellan",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Vintage Print, Gelatinesilberpapier, Agfa",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "18 x 24 cm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografische Aufnahme",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Sundermann, Ernst-August?",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Auftrag",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Porzellanmanufaktur Fürstenberg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Ausstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_460",
+            "@value" : "(Beschreibung)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "\"Die gute Industrieform\", Hannover 1972.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Ausstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_460",
+            "@value" : "(Beschreibung)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Haus Industrieform, Essen 1972.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Ausstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_460",
+            "@value" : "(Beschreibung)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Design Center Stuttgart, Stuttgart 1972",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Ausstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_460",
+            "@value" : "(Beschreibung)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Faenza, Italien 1972.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Ausstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_460",
+            "@value" : "(Beschreibung)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Leipzig 1972.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Digitalisierung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_460",
+            "@value" : "(Beschreibung)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Projekt: DIE GUTE FORM - Fotografien zum Produktdesign 1950-1990",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kanne",
+            "@language" : "de" },
+          
+          { "@value" : "Kaffeekanne",
+            "@language" : "de" },
+          
+          { "@value" : "Tasse",
+            "@language" : "de" },
+          
+          { "@value" : "Untertasse",
+            "@language" : "de" },
+          
+          { "@value" : "Teller",
+            "@language" : "de" },
+          
+          { "@value" : "Zuckerdose",
+            "@language" : "de" },
+          
+          { "@value" : "Milchgießer",
+            "@language" : "de" },
+          
+          { "@value" : "Geschirr",
+            "@language" : "de" },
+          
+          { "@value" : "Esskultur",
+            "@language" : "de" },
+          
+          { "@value" : "Tischkultur",
+            "@language" : "de" },
+          
+          { "@value" : "Keramik",
+            "@language" : "de" },
+          
+          { "@value" : "Porzellan",
+            "@language" : "de" },
+          
+          { "@value" : "Konsumgut",
+            "@language" : "de" },
+          
+          { "@value" : "Gebrauchsgegenstand",
+            "@language" : "de" },
+          
+          { "@value" : "Formgebung",
+            "@language" : "de" },
+          
+          { "@value" : "Design",
+            "@language" : "de" },
+          
+          { "@value" : "Industrieprodukt",
+            "@language" : "de" },
+          
+          { "@value" : "Industriedesign",
+            "@language" : "de" },
+          
+          { "@value" : "Serienprodukt",
+            "@language" : "de" },
+          
+          { "@value" : "Produktdesign",
+            "@language" : "de" },
+          
+          { "@value" : "Sachfotografie",
+            "@language" : "de" },
+          
+          { "@value" : "Produktfotografie",
+            "@language" : "de" },
+          
+          { "@value" : "Objektfotografie",
+            "@language" : "de" },
+          
+          { "@value" : "Studiofotografie",
+            "@language" : "de" },
+          
+          { "@value" : "Werbefotografie",
+            "@language" : "de" },
+          
+          { "@value" : "Pressefoto",
+            "@language" : "de" },
+          
+          { "@value" : "Silberbild",
+            "@language" : "de" },
+          
+          { "@value" : "Belichtung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_250",
+            "@value" : "Bezug (Ereignis)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung (Abgebildetes Objekt)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Sundermann, Ernst August (Entwurf)",
+            "@language" : "de" },
+          
+          { "@value" : "Porzellanmanufaktur Fürstenberg, 3476 Fürstenberg/Weser (Herstellung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1971 (Entwurfsjahr)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_330",
+            "@value" : "Verwandtes Objekt/Literatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Enthalten in: Registermappe SDDM_HF_0.002.013.001",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografie (Gattung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Stiftung Deutsches Design Museum c/o Rat für Formgebung, Frankfurt (Main)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "SDDM_HF_0.002.013.002",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_420",
+            "@value" : "Weitere Nummer(n)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "000553 (Alte Inventarnummer)",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee67cd20-2d99-44c8-b158-10e3cee149f0/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee67cd20-2d99-44c8-b158-10e3cee149f0",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/oid1589833438280.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/oid1589833438280",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeeservice \"F\" von Ernst August Sundermann",
+            "attribution" : "© Stiftung Deutsches Design Museum/SLUB / Deutsche Fotothek",
+            "metadata" : 
+            [ 
+              { "license" : "http://rightsstatements.org/vocab/InC/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1600,
+            "height" : 1192,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee67cd20-2d99-44c8-b158-10e3cee149f0/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ee67cd20-2d99-44c8-b158-10e3cee149f0",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeeservice \"F\" von Ernst August Sundermann",
+            "attribution" : "© Stiftung Deutsches Design Museum/SLUB / Deutsche Fotothek",
+            "metadata" : 
+            [ 
+              { "license" : "http://rightsstatements.org/vocab/InC/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1198,
+            "height" : 1603,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7e52e3eb-b16a-4fab-8ac2-dedf688cd2ce/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7e52e3eb-b16a-4fab-8ac2-dedf688cd2ce",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/2" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeeservice \"F\" von Ernst August Sundermann",
+            "attribution" : "© Stiftung Deutsches Design Museum/SLUB / Deutsche Fotothek",
+            "metadata" : 
+            [ 
+              { "license" : "http://rightsstatements.org/vocab/InC/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1260,
+            "height" : 1682,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/43d87e22-2395-43c3-be2d-762149020445/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/43d87e22-2395-43c3-be2d-762149020445",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/3" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/4",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeeservice \"F\" von Ernst August Sundermann",
+            "attribution" : "© Stiftung Deutsches Design Museum/SLUB / Deutsche Fotothek",
+            "metadata" : 
+            [ 
+              { "license" : "http://rightsstatements.org/vocab/InC/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1255,
+            "height" : 1686,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d8c25034-027f-40c5-bd5c-49db18429a2a/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d8c25034-027f-40c5-bd5c-49db18429a2a",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/4" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Kaffeeservice \"F\" von Ernst August Sundermann",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/3",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/QXORWD27PBETNSNRZEP6TIVHXC3OR55D/canvas/4" ] } ] }

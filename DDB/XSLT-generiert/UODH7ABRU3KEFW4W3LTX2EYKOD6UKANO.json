@@ -1,0 +1,153 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/UODH7ABRU3KEFW4W3LTX2EYKOD6UKANO/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Julius Neubronner zaubert",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum e.V.",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/UODH7ABRU3KEFW4W3LTX2EYKOD6UKANO",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/UODH7ABRU3KEFW4W3LTX2EYKOD6UKANO",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_film_002",
+            "@value" : "Urheber",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Julius Neubronner",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_005",
+            "@value" : "Entstanden",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1904",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_007",
+            "@value" : "Beschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Der Kronberger Apotheker und Erfinder Julius Neubronner (1852-1932) war einer der ersten, der in der Rhein-Main-Region Filme drehte. Im Jahre 1903 erwarb er seine erste Kamera, ein \"Kino\", die die Dresdner Foto-Firma herstellte. Mit ihr nahm er historische Ereignisse auf und hielt den Alltag seiner Familie fest. Julius Neubronner drehte aber auch kleine Sketche, von ihm selbst mit seiner Familie auf einer im Garten seines Hauses errichteten Bühne in Szene gesetzt. Dabei experimentierte er auch mit dem Stopp-Trick. \"Julius Neubronner zaubert\" zeigt den Amateurfilmer im Anzug bei der Duchführung mehrerer Zaubertricks: Er stülpt einem Jungen eine Pappröhre über, als die Röhre wieder angehoben wird, ist der Junge verschwunden und statt seiner erscheint ein Mädchen. Aus einem mit Wasser gefüllten, gläsernen Behältnis verschwindet das Wasser und Tauben steigen empor.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_008",
+            "@value" : "Quelle",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_010",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_011",
+            "@value" : "Objekttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Amateurfilm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_015",
+            "@value" : "Bezug",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Hessen",
+            "@language" : "de" },
+          
+          { "@value" : "Frühes Kino",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_017",
+            "@value" : "Länge",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "01:37 min",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/4584255e-84af-4c5a-baab-e8bdd19d7eb4 76d213b4-9dfe-41af-af4b-4d8d4d7adcfd/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "video/mp4 image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/4584255e-84af-4c5a-baab-e8bdd19d7eb4 76d213b4-9dfe-41af-af4b-4d8d4d7adcfd",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00012050.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00012050",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/UODH7ABRU3KEFW4W3LTX2EYKOD6UKANO/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/UODH7ABRU3KEFW4W3LTX2EYKOD6UKANO/canvas/1 1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/UODH7ABRU3KEFW4W3LTX2EYKOD6UKANO/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1200,
+            "height" : 860,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/UODH7ABRU3KEFW4W3LTX2EYKOD6UKANO/canvas/1" } ] } ] } ],
+    "structures" : 
+    [  ] }

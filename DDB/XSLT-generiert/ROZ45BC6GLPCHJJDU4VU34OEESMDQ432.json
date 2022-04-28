@@ -1,0 +1,115 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ROZ45BC6GLPCHJJDU4VU34OEESMDQ432/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Kostümentwurf für \"Eva Knoblauch\"",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum e.V.",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/ROZ45BC6GLPCHJJDU4VU34OEESMDQ432",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/ROZ45BC6GLPCHJJDU4VU34OEESMDQ432",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_film_007",
+            "@value" : "Beschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kostümentwurf für \"Eva Knoblauch\" 02",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_008",
+            "@value" : "Quelle",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum / Nachlass Irms Pauli",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_010",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_film_011",
+            "@value" : "Objekttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kostümentwurf",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/12bf60ad-f80c-43de-aef8-0759a54facb1/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/12bf60ad-f80c-43de-aef8-0759a54facb1",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012050.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012050",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ROZ45BC6GLPCHJJDU4VU34OEESMDQ432/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ROZ45BC6GLPCHJJDU4VU34OEESMDQ432/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ROZ45BC6GLPCHJJDU4VU34OEESMDQ432/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Kostümentwurf für \"Eva Knoblauch\" 02",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Quelle: DFF - Deutsches Filminstitut & Filmmuseum / Nachlass Irms Pauli" } ],
+            "width" : 315,
+            "height" : 446,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/12bf60ad-f80c-43de-aef8-0759a54facb1/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/12bf60ad-f80c-43de-aef8-0759a54facb1",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ROZ45BC6GLPCHJJDU4VU34OEESMDQ432/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ROZ45BC6GLPCHJJDU4VU34OEESMDQ432/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Kostümentwurf für \"Eva Knoblauch\" 02",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/ROZ45BC6GLPCHJJDU4VU34OEESMDQ432/canvas/1" ] } ] }

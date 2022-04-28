@@ -1,0 +1,234 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Peter Tamm Sen. Stiftung",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-nc/4.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Negativ (schwarz-weiß)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Mittelformat (Format)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Frachtschiff",
+            "@language" : "de" },
+          
+          { "@value" : "Deutschland (Land/Flagge)",
+            "@language" : "de" },
+          
+          { "@value" : "Auriga (Schiffsname)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_250",
+            "@value" : "Bezug (Ereignis)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Argo Reederei Richard Adler & Söhne, Bremen (Reederei/Eigner/Marine)",
+            "@language" : "de" },
+          
+          { "@value" : "Wartsila, Turku (Bauwerft)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1967 (Baujahr/Indienststellung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_460",
+            "@value" : "(Beschreibung)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1140 (Baunummer)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_250",
+            "@value" : "Bezug (Ereignis)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Nutzung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_460",
+            "@value" : "(Beschreibung)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Spätere Historie: 82 Orkney, 85 Rosavanessa, 92 Rose III, 95 Bama Trader, 96 Aarhus Trader II, 96 Med Trader, 97 Force Sea, 97 Fighter One",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografie (Gattung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Internationales Maritimes Museum Hamburg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "AF-3584",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_420",
+            "@value" : "Weitere Nummer(n)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "102719 (Objektnummer)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "stat_016",
+            "@value" : "Förderung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_450",
+            "@value" : "Sammlung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Schiffsnegative",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/29b5eed3-0289-45e5-82ed-480b602b1fcd/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/29b5eed3-0289-45e5-82ed-480b602b1fcd",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/oid1558946268517.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/oid1558946268517",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt: Peter Tamm Sen. Stiftung (Hamburg), Quelle: Peter Tamm Sen. Stiftung, Hamburg" } ],
+            "width" : 1732,
+            "height" : 1155,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/29b5eed3-0289-45e5-82ed-480b602b1fcd/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/29b5eed3-0289-45e5-82ed-480b602b1fcd",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/1" ] } ] }

@@ -1,0 +1,135 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Gekrätzaufbereitung",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Sächsisches Staatsarchiv",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_004",
+            "@value" : "Archivaliensignatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Sächsisches Staatsarchiv, 40133 Hütte Halsbrücke, Nr. 2-I151 (Benutzung im Bergarchiv Freiberg)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_029",
+            "@value" : "Kontext",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "40133 Hütte Halsbrücke >> 2. Risse >> 2.1. Übergreifende Angelegenheiten >> 2.1.2. Gebäude >> 2.1.2.2. Schmelzhütte",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_008",
+            "@value" : "Laufzeit",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "10. Januar 1903",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_016",
+            "@value" : "Archivalientyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Karten und Pläne",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_019",
+            "@value" : "Sonstige Erschließungsangaben",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Personen/Institutionen: Jeb.<br /><br />Maßstab: 1:100<br /><br />Format: 78,5 x 43<br /><br />Beschreibstoff: Papier<br /><br />Benutzerfilmsignatur: 21664",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_001",
+            "@value" : "Bestand",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "40133 Hütte Halsbrücke",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f5785c4-35a5-4ba1-ae1b-a2035eae1b00/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f5785c4-35a5-4ba1-ae1b-a2035eae1b00",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00001166.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00001166",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Gekrätzaufbereitung",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1200,
+            "height" : 842,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f5785c4-35a5-4ba1-ae1b-a2035eae1b00/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f5785c4-35a5-4ba1-ae1b-a2035eae1b00",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Gekrätzaufbereitung",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/ONHC2J5FTNPAWXO3PH662K6V4YOBSDUU/canvas/1" ] } ] }

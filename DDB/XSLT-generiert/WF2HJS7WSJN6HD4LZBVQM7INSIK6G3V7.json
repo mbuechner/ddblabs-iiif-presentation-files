@@ -1,0 +1,211 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WF2HJS7WSJN6HD4LZBVQM7INSIK6G3V7/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Bamberg: Dom",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "TU Dresden - Fachbereich Kunstgeschichte. Diathek",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/publicdomain/zero/1.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/WF2HJS7WSJN6HD4LZBVQM7INSIK6G3V7",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/WF2HJS7WSJN6HD4LZBVQM7INSIK6G3V7",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bauwerk",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kaisergrab",
+            "@language" : "de" },
+          
+          { "@value" : "Bamberg, Dom",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografische Aufnahme",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bamberg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "2013, Juli",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Riemenschneider, Tilman",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1499-1513",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Sakralbauten",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_230",
+            "@value" : "Bezug (wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bamberg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Architektur/Skulptur (Gattung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Technische Universität Dresden - Fachbereich Kunstgeschichte",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_420",
+            "@value" : "Weitere Nummer(n)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "tu_kg_0193284 (Aufnahmenummer)",
+            "@language" : "de" },
+          
+          { "@value" : "90062295 (Objektnummer)",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/18556666-ec12-4aa4-987f-dbf50ac3ddfa/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/18556666-ec12-4aa4-987f-dbf50ac3ddfa",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/oid1524219185058.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/oid1524219185058",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WF2HJS7WSJN6HD4LZBVQM7INSIK6G3V7/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WF2HJS7WSJN6HD4LZBVQM7INSIK6G3V7/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WF2HJS7WSJN6HD4LZBVQM7INSIK6G3V7/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Bamberg: Dom, 2013, Juli",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/publicdomain/zero/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt: TU Dresden, Diathek, Andrea Kiehn., Quelle: Technische Universität Dresden - Fachbereich Kunstgeschichte" } ],
+            "width" : 1200,
+            "height" : 899,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/18556666-ec12-4aa4-987f-dbf50ac3ddfa/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/18556666-ec12-4aa4-987f-dbf50ac3ddfa",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WF2HJS7WSJN6HD4LZBVQM7INSIK6G3V7/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WF2HJS7WSJN6HD4LZBVQM7INSIK6G3V7/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Bamberg: Dom, 2013, Juli",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/WF2HJS7WSJN6HD4LZBVQM7INSIK6G3V7/canvas/1" ] } ] }

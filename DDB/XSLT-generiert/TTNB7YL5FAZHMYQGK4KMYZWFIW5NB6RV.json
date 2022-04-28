@@ -1,0 +1,179 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNB7YL5FAZHMYQGK4KMYZWFIW5NB6RV/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Schachspielfigur - Weißer Springer",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Kunstgewerbemuseum",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/TTNB7YL5FAZHMYQGK4KMYZWFIW5NB6RV",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/TTNB7YL5FAZHMYQGK4KMYZWFIW5NB6RV",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Schachspiel",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Terrakotta, ockerfarbener Scherben; vollplastische Figur aus gemodelten Teilen zusammengesetzt; Kaltbemalung in Weiß, Gelb, Schwarz, Rot, Inkarnat und Grün; Firnissüberzug",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "8,8 x 4,5 x 3,0 cm; Dm. Plinthe 2,9 cm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch (?), Anfang 19. Jahrhundert",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Antikisierende Kunst",
+            "@language" : "de" },
+          
+          { "@value" : "Orientalisierende Kunst",
+            "@language" : "de" },
+          
+          { "@value" : "Pferd",
+            "@language" : "de" },
+          
+          { "@value" : "Reiter",
+            "@language" : "de" },
+          
+          { "@value" : "Romantik",
+            "@language" : "de" },
+          
+          { "@value" : "Schach",
+            "@language" : "de" },
+          
+          { "@value" : "Schachfigur",
+            "@language" : "de" },
+          
+          { "@value" : "Spiel",
+            "@language" : "de" },
+          
+          { "@value" : "Springer",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kunstgewerbemuseum, Staatliche Kunstsammlungen Dresden",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "10626",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/977c9faf-c118-40b2-9de4-3289c8354bec/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/977c9faf-c118-40b2-9de4-3289c8354bec",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/oid1526292408684.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/oid1526292408684",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNB7YL5FAZHMYQGK4KMYZWFIW5NB6RV/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNB7YL5FAZHMYQGK4KMYZWFIW5NB6RV/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNB7YL5FAZHMYQGK4KMYZWFIW5NB6RV/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Schachspielfigur - Weißer Springer, ",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt: Kunstgewerbemuseum, Staatliche Kunstsammlungen Dresden, Quelle: Kunstgewerbemuseum, Staatliche Kunstsammlungen Dresden" } ],
+            "width" : 668,
+            "height" : 1000,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/977c9faf-c118-40b2-9de4-3289c8354bec/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/977c9faf-c118-40b2-9de4-3289c8354bec",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNB7YL5FAZHMYQGK4KMYZWFIW5NB6RV/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNB7YL5FAZHMYQGK4KMYZWFIW5NB6RV/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Schachspielfigur - Weißer Springer, ",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/TTNB7YL5FAZHMYQGK4KMYZWFIW5NB6RV/canvas/1" ] } ] }

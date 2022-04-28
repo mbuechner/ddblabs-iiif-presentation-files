@@ -1,0 +1,234 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LSLML4MLSDGQHKGJ5JBSDI26XQNRP7QA/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Die apokalyptischen Reiter",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Staatsbibliothek Bamberg",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-sa/4.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/LSLML4MLSDGQHKGJ5JBSDI26XQNRP7QA",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/LSLML4MLSDGQHKGJ5JBSDI26XQNRP7QA",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Reproduktionsgraphik",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1959 fertigte die Berufsschule Bamberg mehrere Faksimile-Drucke von Dürers um 1497/98 entworfenem Holzschnitt \"Die apokalyptischen Reiter\" (vgl. auch I F 24e der Staatsbibliothek Bamberg), Teil der erstmals 1498 mit deutschem und lateinischem Text veröffentlichten \"Apokalypse\". Die vier Reiter Sieg, Krieg, Teuerung und Tod, die nach Öffnung der ersten vier Siegel durch das Lamm erscheinen, galoppieren gemeinsam über die Erde. Das Erscheinungsbild von dem jeweiligen Reiter samt Pferd sowie seine Attribute identifizieren ihn für den Betrachter. Rücksichtslos sprengen alle vier über die großteils bereits am Boden liegenden Menschen hinweg. Neben dem ausgemergelten Reiter Tod öffnet ein Unwesen sein Maul, um die Obrigkeit in die Hölle aufzunehmen. Über dem Geschehen schwebt ein Engel und vollzieht den Segensgestus.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Faksimile eines Holzschnitts",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Blatt: 49,0 x 31,2 cm",
+            "@language" : "de" },
+          
+          { "@value" : "Darstellung: 36,7 x 26,5 cm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Konzeption des Werks/der Idee",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Dürer, Albrecht (1471-1528), Inventor",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Circa 1497/98",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Städtische Berufsschule Bamberg, Hersteller",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bamberg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1959",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_300",
+            "@value" : "Beschriftung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Inschrift: AD (Unten mittig)",
+            "@language" : "de" },
+          
+          { "@value" : "Marke: Staatl. Bibliothek || Bamberg (Unterhalb mittig der Darstellung)",
+            "@language" : "de" },
+          
+          { "@value" : "Inschrift: Faksimile-Druck 1959 Berufsschule Bamberg (Unterhalb mittig der Darstellung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_330",
+            "@value" : "Verwandtes Objekt/Literatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Faksimile von: <a href=\"https://nbn-resolving.de/urn:nbn:de:bvb:22-dtl-0000097360\">Dürer, Albrecht (1471-1528): Die apokalyptischen Reiter, Bartsch VII.128.64</a>",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Staatsbibliothek Bamberg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_420",
+            "@value" : "Weitere Nummer(n)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "I F 24d (Signatur)",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0db5e109-1d75-4801-a17b-588d1ac3d302/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0db5e109-1d75-4801-a17b-588d1ac3d302",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008124.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008124",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LSLML4MLSDGQHKGJ5JBSDI26XQNRP7QA/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LSLML4MLSDGQHKGJ5JBSDI26XQNRP7QA/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LSLML4MLSDGQHKGJ5JBSDI26XQNRP7QA/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Die apokalyptischen Reiter, 1959",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-sa/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt: Staatsbibliothek Bamberg, Quelle: Staatsbibliothek Bamberg | Creditline: Staatsbibliothek Bamberg | CC BY-SA 4.0" } ],
+            "width" : 5779,
+            "height" : 7872,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0db5e109-1d75-4801-a17b-588d1ac3d302/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0db5e109-1d75-4801-a17b-588d1ac3d302",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LSLML4MLSDGQHKGJ5JBSDI26XQNRP7QA/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/LSLML4MLSDGQHKGJ5JBSDI26XQNRP7QA/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Die apokalyptischen Reiter, 1959",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/LSLML4MLSDGQHKGJ5JBSDI26XQNRP7QA/canvas/1" ] } ] }

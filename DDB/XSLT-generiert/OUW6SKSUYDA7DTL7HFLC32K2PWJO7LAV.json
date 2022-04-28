@@ -1,0 +1,397 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Katholische Kirche Sankt Johannes der Täufer, Kremsier, Tschechische Republik",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Bildarchiv des Herder-Instituts für historische Ostmitteleuropaforschung",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-sa/3.0/de/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_015",
+            "@value" : "Alternativer Titel",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kroměříž, Kostel svatého Jana Křtitele (Eigenname)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kirche (Gebäude)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Objektgattung: Kirche (Gebäude)",
+            "@language" : "de" },
+          
+          { "@value" : "Funktion: römisch-katholische Filialkirche (Aktuelle Funktion), Piaristenkirche, Abteikirche, Klosterkirche (Historische Funktion)",
+            "@language" : "de" },
+          
+          { "@value" : "Stil: Spätbarock",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Cyrani von Bolleshaus, Ignaz Josef (Entwerfer)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1737-1768",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Restaurierung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1996/2005",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Restaurierung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1996",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Restaurierung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1958",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_330",
+            "@value" : "Verwandtes Objekt/Literatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "hat Abbildung: <a href=\"https://www.deutsche-digitale-bibliothek.de/item/5STORCXLWBBZJO7XYFM4CY7ZFAWK4FBV\">Kroměříž, Kostel svatého Jana Křtitele, Lichtbild</a>",
+            "@language" : "de" },
+          
+          { "@value" : "hat Abbildung: <a href=\"https://www.deutsche-digitale-bibliothek.de/item/5STORCXLWBBZJO7XYFM4CY7ZFAWK4FBV\">Kroměříž, Kostel svatého Jana Křtitele</a>",
+            "@language" : "de" },
+          
+          { "@value" : "hat Abbildung: <a href=\"https://www.deutsche-digitale-bibliothek.de/item/IMESQUOLYES6KAAVSJZREL7IDBEIG2ES\">Kroměříž, Kostel svatého Jana Křtitele, Gewölbe, Lichtbild</a>",
+            "@language" : "de" },
+          
+          { "@value" : "hat Abbildung: <a href=\"https://www.deutsche-digitale-bibliothek.de/item/IMESQUOLYES6KAAVSJZREL7IDBEIG2ES\">Kroměříž, Kostel svatého Jana Křtitele</a>",
+            "@language" : "de" },
+          
+          { "@value" : "hat Abbildung: <a href=\"https://www.deutsche-digitale-bibliothek.de/item/BH3LIPFZFTPBHODFFS4B56W5FHZBTGSO\">Kroměříž, Kostel svatého Jana Křtitele, Lichtbild</a>",
+            "@language" : "de" },
+          
+          { "@value" : "hat Abbildung: <a href=\"https://www.deutsche-digitale-bibliothek.de/item/BH3LIPFZFTPBHODFFS4B56W5FHZBTGSO\">Kroměříž, Kostel svatého Jana Křtitele</a>",
+            "@language" : "de" },
+          
+          { "@value" : "Literatur: Památkový katalog, pamatkovykatalog.cz; Národní památkový ústav, http://pamatkovykatalog.cz?element=2155956&action=element&presenter=ElementsResults",
+            "@language" : "de" },
+          
+          { "@value" : "Literatur: <a href=\"http://d-nb.info/983219915\">Umělecké památky Moravy a Slezska, Bd. 2. J-N; Samek, Bohumil; Academia (Praha), S. 246-250</a>",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Architektur (Objektgattung); Kunstdenkmal (Gattung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kremsier, Tschechische Republik",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "stat_016",
+            "@value" : "Förderung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Leibniz-Gemeinschaft: Verbundprojekt \"Forschungsinfrastruktur Kunstdenkmäler in Ostmitteleuropa\" (FoKO)",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0c5703a3-66e9-406d-a77f-ba4c186fe110/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0c5703a3-66e9-406d-a77f-ba4c186fe110",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/oid1449069900646.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/oid1449069900646",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Katholische Kirche Sankt Johannes der Täufer, Kremsier, Tschechische Republik",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1920,
+            "height" : 2880,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0c5703a3-66e9-406d-a77f-ba4c186fe110/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0c5703a3-66e9-406d-a77f-ba4c186fe110",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Katholische Kirche Sankt Johannes der Täufer, Kremsier, Tschechische Republik",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1920,
+            "height" : 2880,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/87e350e3-3b9b-425c-8e2e-9a80258bcdbf/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/87e350e3-3b9b-425c-8e2e-9a80258bcdbf",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/2" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Katholische Kirche Sankt Johannes der Täufer, Kremsier, Tschechische Republik",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1920,
+            "height" : 1280,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f6085829-ffa1-4208-b74e-0dc153c536ce/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f6085829-ffa1-4208-b74e-0dc153c536ce",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/3" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/4",
+            "@type" : "sc:Canvas",
+            "label" : "Katholische Kirche Sankt Johannes der Täufer, Kremsier, Tschechische Republik",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1920,
+            "height" : 1280,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9ee80397-20f6-440b-8df6-b344c152cd2f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9ee80397-20f6-440b-8df6-b344c152cd2f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/4" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/5",
+            "@type" : "sc:Canvas",
+            "label" : "Katholische Kirche Sankt Johannes der Täufer, Kremsier, Tschechische Republik",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1920,
+            "height" : 2880,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e34e1ff9-0db0-48b3-93dc-d79aa407a0c8/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e34e1ff9-0db0-48b3-93dc-d79aa407a0c8",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/5" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/6",
+            "@type" : "sc:Canvas",
+            "label" : "Katholische Kirche Sankt Johannes der Täufer, Kremsier, Tschechische Republik",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1920,
+            "height" : 2880,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2452875b-62b5-41bb-9d55-5060b3342314/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2452875b-62b5-41bb-9d55-5060b3342314",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/6" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Katholische Kirche Sankt Johannes der Täufer, Kremsier, Tschechische Republik",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/3",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/4",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/5",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/OUW6SKSUYDA7DTL7HFLC32K2PWJO7LAV/canvas/6" ] } ] }

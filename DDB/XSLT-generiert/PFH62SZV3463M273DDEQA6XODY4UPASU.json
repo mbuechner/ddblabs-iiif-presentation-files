@@ -1,0 +1,257 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/PFH62SZV3463M273DDEQA6XODY4UPASU/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Soll ich? Soll ich nich? Soll ich?! Knöppe, ihr wollt! nu jerade nich!!",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Herzog August Bibliothek Wolfenbüttel",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-sa/3.0/de/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/PFH62SZV3463M273DDEQA6XODY4UPASU",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/PFH62SZV3463M273DDEQA6XODY4UPASU",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Druckgraphik",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Teil einer Reihe. I. Popper ist vermutlich der Zeichner.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Lithographie",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Höhe: 335 mm (Blatt)",
+            "@language" : "de" },
+          
+          { "@value" : "Breite: 251 mm (Blatt)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Popper, Isidor (Drucker)",
+            "@language" : "de" },
+          
+          { "@value" : "Popper, Isidor (Zeichner)",
+            "@language" : "de" },
+          
+          { "@value" : "Berendsohn, Bernhard S. (Verleger)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1849",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutschland",
+            "@language" : "de" },
+          
+          { "@value" : "Geschichte",
+            "@language" : "de" },
+          
+          { "@value" : "König",
+            "@language" : "de" },
+          
+          { "@value" : "Krone",
+            "@language" : "de" },
+          
+          { "@value" : "Karikatur",
+            "@language" : "de" },
+          
+          { "@value" : "Politik",
+            "@language" : "de" },
+          
+          { "@value" : "ICONCLASS: politische Karikaturen und Satiren",
+            "@language" : "de" },
+          
+          { "@value" : "ICONCLASS: König",
+            "@language" : "de" },
+          
+          { "@value" : "ICONCLASS: Tisch",
+            "@language" : "de" },
+          
+          { "@value" : "ICONCLASS: Krone (als Symbol der obersten Gewalt)",
+            "@language" : "de" },
+          
+          { "@value" : "ICONCLASS: eine Flasche Wein",
+            "@language" : "de" },
+          
+          { "@value" : "ICONCLASS: Weinglas, Römer",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_300",
+            "@value" : "Beschriftung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Inschrift: Satyrische Zeitbilder No. 25",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_330",
+            "@value" : "Verwandtes Objekt/Literatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Teil von: Satyrische Zeitbilder",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Graphik (Gattung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_370",
+            "@value" : "Kultur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herzog August Bibliothek, Wolfenbüttel",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Graph. C: 221",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0d96096b-4b40-43c8-ab74-ea4e1482f0c8/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0d96096b-4b40-43c8-ab74-ea4e1482f0c8",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00007007.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00007007",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/PFH62SZV3463M273DDEQA6XODY4UPASU/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/PFH62SZV3463M273DDEQA6XODY4UPASU/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/PFH62SZV3463M273DDEQA6XODY4UPASU/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Soll ich? Soll ich nich? Soll ich?! Knöppe, ihr wollt! nu jerade nich!!, 1849",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-sa/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Herzog August Bibliothek Wolfenbüttel" } ],
+            "width" : 2000,
+            "height" : 2458,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0d96096b-4b40-43c8-ab74-ea4e1482f0c8/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0d96096b-4b40-43c8-ab74-ea4e1482f0c8",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/PFH62SZV3463M273DDEQA6XODY4UPASU/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/PFH62SZV3463M273DDEQA6XODY4UPASU/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Soll ich? Soll ich nich? Soll ich?! Knöppe, ihr wollt! nu jerade nich!!, 1849",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/PFH62SZV3463M273DDEQA6XODY4UPASU/canvas/1" ] } ] }

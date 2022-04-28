@@ -1,0 +1,347 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Nachts unter der steinernen Brücke - Inhaltsverzeichnis bzw. Datierungsblätter",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Deutsches Exilarchiv",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_004",
+            "@value" : "Archivaliensignatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsches Exilarchiv, Nachlass Leo Perutz A.01.0014",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_029",
+            "@value" : "Kontext",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Nachlass Leo Perutz >> Werke (Manuskripte; Typoskripte; Belegexemplare) >> Romane",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_011",
+            "@value" : "Umfang",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1 Online-Ressource (2 Blatt = 2 Einheiten handschriftlich)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_016",
+            "@value" : "Archivalientyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Archivale",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_017",
+            "@value" : "Sprache der Unterlagen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_019",
+            "@value" : "Sonstige Erschließungsangaben",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Entstehungsort: Leipzig<br /><br />Entstehungsort: Frankfurt am Main<br /><br />Hersteller: Deutsche Nationalbibliothek<br /><br />Entstehungsdatum: 2020<br /><br />Dokumenttyp: Online-Ressource<br /><br />Fußnote zur Sprache: Schrift, Sprache: Deutsch<br /><br />Entstehungszeit: 2020",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_022",
+            "@value" : "Bemerkungen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Weitere Titel des Manuskripts : \"Meisls Gut\" und \"Die Rose und der Rosmarin\"",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_027",
+            "@value" : "Indexbegriffe Person",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Perutz, Leo - Verfasser",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_009",
+            "@value" : "Digitalisat im Angebot des Archivs",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "https://portal.dnb.de/bookviewer/view/1214739970",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_001",
+            "@value" : "Bestand",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Nachlass Leo Perutz",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_002",
+            "@value" : "Online-Findbuch im Angebot des Archivs",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "http://d-nb.info/982013469",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/45b9de32-c6bb-4e88-bb8b-5a14dd58047e/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/45b9de32-c6bb-4e88-bb8b-5a14dd58047e",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Nachts unter der steinernen Brücke - Inhaltsverzeichnis bzw. Datierungsblätter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 2140,
+            "height" : 2745,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/45b9de32-c6bb-4e88-bb8b-5a14dd58047e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/45b9de32-c6bb-4e88-bb8b-5a14dd58047e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Nachts unter der steinernen Brücke - Inhaltsverzeichnis bzw. Datierungsblätter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 2140,
+            "height" : 2745,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3035c0a0-3858-47b7-8afb-20b5265277b8/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3035c0a0-3858-47b7-8afb-20b5265277b8",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/2" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Nachts unter der steinernen Brücke - Inhaltsverzeichnis bzw. Datierungsblätter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 2056,
+            "height" : 2745,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/050ad65c-fd59-4279-a00c-a009cdcc965a/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/050ad65c-fd59-4279-a00c-a009cdcc965a",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/3" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/4",
+            "@type" : "sc:Canvas",
+            "label" : "Nachts unter der steinernen Brücke - Inhaltsverzeichnis bzw. Datierungsblätter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 2015,
+            "height" : 2745,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/cbc4f9a1-2018-4a04-bea7-505d6295fb80/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/cbc4f9a1-2018-4a04-bea7-505d6295fb80",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/4" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/5",
+            "@type" : "sc:Canvas",
+            "label" : "Nachts unter der steinernen Brücke - Inhaltsverzeichnis bzw. Datierungsblätter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 2035,
+            "height" : 2745,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7fde5156-7f40-4de3-919f-2a009ac1de53/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7fde5156-7f40-4de3-919f-2a009ac1de53",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/5" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/6",
+            "@type" : "sc:Canvas",
+            "label" : "Nachts unter der steinernen Brücke - Inhaltsverzeichnis bzw. Datierungsblätter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 2035,
+            "height" : 2745,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1d9ca07c-b381-4c65-907d-5a46704c5b16/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1d9ca07c-b381-4c65-907d-5a46704c5b16",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/6" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/7",
+            "@type" : "sc:Canvas",
+            "label" : "Nachts unter der steinernen Brücke - Inhaltsverzeichnis bzw. Datierungsblätter",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 2056,
+            "height" : 2745,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6c044cd4-98ba-47ab-9172-cc5fb5e65d60/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6c044cd4-98ba-47ab-9172-cc5fb5e65d60",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/7" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Nachts unter der steinernen Brücke - Inhaltsverzeichnis bzw. Datierungsblätter",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/3",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/4",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/5",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/6",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/Y7C37XAPNZJKWV33VHCL5C4ET7YE23TY/canvas/7" ] } ] }

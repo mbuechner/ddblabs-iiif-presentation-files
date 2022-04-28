@@ -1,73 +1,68 @@
 
   { "@context" : "http://iiif.io/api/presentation/2/context.json",
-    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/manifest",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3/manifest",
     "@type" : "sc:Manifest",
     "label" : 
     [ 
-      { "@value" : "Die Leibhusaren und ihre Geschichte.",
+      { "@value" : "Drehbuch (2. Fassung, Auszug), mit handschriftlichen Korrekturen von Artur Brauner.",
         "@language" : "de" } ],
     "attribution" : 
     { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum e.V.",
       "@language" : "zxx" },
     "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
     "seeAlso" : 
-    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L",
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3",
       "format" : "application/xml",
       "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
     "related" : 
-    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L",
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3",
       "format" : "text/html" },
     "metadata" : 
     [ 
       { "label" : 
         [ 
-          { "id" : "flex_film_002" },
-          
-          { "@value" : "Urheber",
+          { "id" : "flex_film_002",
+            "@value" : "Urheber",
             "@language" : "de" } ],
         "value" : 
         [ 
-          { "@value" : "Mercedes-Film GmbH",
+          { "@value" : "Rudolf Zehetgruber",
             "@language" : "de" } ] },
       
       { "label" : 
         [ 
-          { "id" : "flex_film_005" },
-          
-          { "@value" : "Entstanden",
+          { "id" : "flex_film_005",
+            "@value" : "Entstanden",
             "@language" : "de" } ],
         "value" : 
         [ 
-          { "@value" : "1917",
+          { "@value" : "1965",
             "@language" : "de" } ] },
       
       { "label" : 
         [ 
-          { "id" : "flex_film_007" },
-          
-          { "@value" : "Beschreibung",
+          { "id" : "flex_film_007",
+            "@value" : "Beschreibung",
             "@language" : "de" } ],
         "value" : 
         [ 
-          { "@value" : "Mercedes-Film GmbH, Die Leibhusaren und ihre Geschichte, Der Kinematograph, 565, (1917). Die Werbung verweist darauf, dass der Film durch von Mackensens Frau gefördert wird.",
+          { "@value" : "Drehbuch (2. Fassung, Auszug) von \"Mädchen hinter Gittern\", mit handschriftlichen Korrekturen von Artur Brauner; Screenplay (2nd version, excerpt) of \"Mädchen hinter Gittern\", with handwritten revisions by Artur Brauner.",
             "@language" : "de" } ] },
       
       { "label" : 
         [ 
-          { "id" : "flex_film_008" },
-          
-          { "@value" : "Quelle",
+          { "id" : "flex_film_008",
+            "@value" : "Quelle",
             "@language" : "de" } ],
         "value" : 
         [ 
-          { "@value" : "DFF - Deutsches Filminstitut & Filmmuseum",
+          { "@value" : "Artur Brauner-Archiv im DFF - Deutsches Filminstitut & Filmmuseum",
             "@language" : "de" } ] },
       
       { "label" : 
         [ 
-          { "id" : "flex_film_010" },
-          
-          { "@value" : "Sprache",
+          { "id" : "flex_film_010",
+            "@value" : "Sprache",
             "@language" : "de" } ],
         "value" : 
         [ 
@@ -76,21 +71,20 @@
       
       { "label" : 
         [ 
-          { "id" : "flex_film_011" },
-          
-          { "@value" : "Objekttyp",
+          { "id" : "flex_film_011",
+            "@value" : "Objekttyp",
             "@language" : "de" } ],
         "value" : 
         [ 
-          { "@value" : "Werbematerial",
+          { "@value" : "Drehbuch",
             "@language" : "de" } ] } ],
     "thumbnail" : 
-    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4/full/!800,600/0/default.jpg",
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8fac26ef-8b2d-47ef-94c3-259326c82ac4/full/!800,600/0/default.jpg",
       "@type" : "dctypes:Image",
       "format" : "application/pdf",
       "service" : 
       { "@context" : "http://iiif.io/api/image/2/context.json",
-        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8fac26ef-8b2d-47ef-94c3-259326c82ac4",
         "profile" : "http://iiif.io/api/image/2/level2.json" },
       "width" : 800,
       "height" : 600 },
@@ -102,40 +96,40 @@
         "profile" : "http://iiif.io/api/image/2/level2.json" } },
     "sequences" : 
     [ 
-      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/sequence/normal",
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3/sequence/normal",
         "@type" : "sc:Sequence",
-        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/canvas/1",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3/canvas/1",
         "canvases" : 
         [ 
           { "@context" : "http://iiif.io/api/presentation/2/context.json",
-            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/canvas/1",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3/canvas/1",
             "@type" : "sc:Canvas",
-            "label" : "Die Leibhusaren und ihre Geschichte.",
+            "label" : "Drehbuch (2. Fassung, Auszug), mit handschriftlichen Korrekturen von Artur Brauner.",
             "attribution" : "",
             "metadata" : 
             [ 
               { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
                 "mimetype" : "application/pdf",
-                "name2" : "Quelle: DFF - Deutsches Filminstitut & Filmmuseum" } ],
-            "width" : 438,
+                "name2" : "Quelle: Artur Brauner-Archiv im DFF - Deutsches Filminstitut & Filmmuseum" } ],
+            "width" : 424,
             "height" : 600,
             "images" : 
             [ 
               { "@type" : "oa:Annotation",
                 "motivation" : "sc:painting",
                 "resource" : 
-                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4/full/!800,600/0/default.jpg",
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8fac26ef-8b2d-47ef-94c3-259326c82ac4/full/!800,600/0/default.jpg",
                   "@type" : "dctypes:Image",
                   "profile" : "http://iiif.io/api/image/2/level2.json",
                   "service" : 
                   { "@context" : "http://iiif.io/api/image/2/context.json",
-                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d4432c8e-e0b1-4741-8f15-c981d074cbc4",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8fac26ef-8b2d-47ef-94c3-259326c82ac4",
                     "profile" : "http://iiif.io/api/image/2/level2.json" } },
-                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/canvas/1" } ] } ] } ],
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3/canvas/1" } ] } ] } ],
     "structures" : 
     [ 
-      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/range/normal/1",
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3/range/normal/1",
         "@type" : "sc:Range",
-        "label" : "Die Leibhusaren und ihre Geschichte.",
+        "label" : "Drehbuch (2. Fassung, Auszug), mit handschriftlichen Korrekturen von Artur Brauner.",
         "canvases" : 
-        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/NHJ35WZADRM7C4YYV77XPSANHDZQKF6L/canvas/1" ] } ] }
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3/canvas/1" ] } ] }

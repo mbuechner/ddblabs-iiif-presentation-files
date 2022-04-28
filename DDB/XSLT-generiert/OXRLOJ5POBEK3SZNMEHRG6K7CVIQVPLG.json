@@ -1,0 +1,233 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OXRLOJ5POBEK3SZNMEHRG6K7CVIQVPLG/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Modehaus Horn, Berlin",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Museum für Kunst und Gewerbe Hamburg",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/OXRLOJ5POBEK3SZNMEHRG6K7CVIQVPLG",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/OXRLOJ5POBEK3SZNMEHRG6K7CVIQVPLG",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografie",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Silbergelatinepapier",
+            "@language" : "de" },
+          
+          { "@value" : "Schwarzweißpositivverfahren",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bildmaß: Höhe: 17,2 cm; Breite: 23,4 cm Blattmaß: Höhe: 18 cm; Breite: 24,4 cm Passepartout (außen): Höhe: 30 cm; Breite: 36 cm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Lazi, Franz (Fotograf/in)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Berlin",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1950",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Ikonographie: Laden, Geschäft",
+            "@language" : "de" },
+          
+          { "@value" : "Ikonographie: hist. Gebäude, Örtlichkeit, Straße",
+            "@language" : "de" },
+          
+          { "@value" : "Ikonographie: Werbung, Reklame",
+            "@language" : "de" },
+          
+          { "@value" : "Ikonographie: Schaufenster",
+            "@language" : "de" },
+          
+          { "@value" : "Ikonographie: Mode, Kleidung",
+            "@language" : "de" },
+          
+          { "@value" : "Ikonographie: Architektur",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_230",
+            "@value" : "Bezug (wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Charlottenburg-Wilmersdorf (Kurfürstendamm)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_300",
+            "@value" : "Beschriftung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Signatur: Stempel Wo: verso Was: \"COPYRIGHT BY / FRANZ LAZI / FILM FOTO ARCHIV / PISCHEKSTRASSE 41 / 7000 STUTTGART 1 / TELEFON [...] / AUFNAHME-NR:...\"",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Architekturfotografie (Sachgruppe)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Museum für Kunst und Gewerbe Hamburg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "P2016.106.8",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_450",
+            "@value" : "Sammlung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografie und neue Medien",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9510a3fe-4850-4a9b-b82b-59ee6a5da2e0/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9510a3fe-4850-4a9b-b82b-59ee6a5da2e0",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/oid1457949331275.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/oid1457949331275",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OXRLOJ5POBEK3SZNMEHRG6K7CVIQVPLG/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OXRLOJ5POBEK3SZNMEHRG6K7CVIQVPLG/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OXRLOJ5POBEK3SZNMEHRG6K7CVIQVPLG/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Modehaus Horn, Berlin",
+            "attribution" : "© Franz Lazi",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 600,
+            "height" : 441,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9510a3fe-4850-4a9b-b82b-59ee6a5da2e0/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9510a3fe-4850-4a9b-b82b-59ee6a5da2e0",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OXRLOJ5POBEK3SZNMEHRG6K7CVIQVPLG/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/OXRLOJ5POBEK3SZNMEHRG6K7CVIQVPLG/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Modehaus Horn, Berlin",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/OXRLOJ5POBEK3SZNMEHRG6K7CVIQVPLG/canvas/1" ] } ] }

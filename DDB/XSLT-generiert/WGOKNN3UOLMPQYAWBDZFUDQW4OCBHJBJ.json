@@ -1,0 +1,248 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WGOKNN3UOLMPQYAWBDZFUDQW4OCBHJBJ/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "[Josef und die Frau des Potifar; Joseph and Potiphar's Wife; Joseph et la femme de Putiphar]",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Herzog Anton Ulrich-Museum",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/WGOKNN3UOLMPQYAWBDZFUDQW4OCBHJBJ",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/WGOKNN3UOLMPQYAWBDZFUDQW4OCBHJBJ",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Druckgraphik",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Radierung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Höhe: 95 mm (Blatt)",
+            "@language" : "de" },
+          
+          { "@value" : "Breite: 121 mm (Blatt)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Rembrandt (1606-1669) (Inventor)",
+            "@language" : "de" },
+          
+          { "@value" : "Unbekannt (Stecher)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1700-1750",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Frau",
+            "@language" : "de" },
+          
+          { "@value" : "Mann",
+            "@language" : "de" },
+          
+          { "@value" : "Bett",
+            "@language" : "de" },
+          
+          { "@value" : "Verführung",
+            "@language" : "de" },
+          
+          { "@value" : "ICONCLASS: Potiphars Frau greift nach Josephs Gewand, wobei sie (in der Regel) im Bett liegt; Joseph entkommt, lässt aber sein Gewand in ihren Händen zurück (manchmal wird zusätzlich ein nacktes Kind gezeigt, das in einer Wiege liegt)",
+            "@language" : "de" },
+          
+          { "@value" : "ICONCLASS: eine Frau zeigt sich unbekleidet, (fast) nackt",
+            "@language" : "de" },
+          
+          { "@value" : "ICONCLASS: Himmelbett",
+            "@language" : "de" },
+          
+          { "@value" : "ICONCLASS: fliehen, wegrennen; verfolgen",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_300",
+            "@value" : "Beschriftung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Inschrift: August Vasel, Lugt 191 [Sammlermarke]",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_330",
+            "@value" : "Verwandtes Objekt/Literatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "beschrieben in: The New Hollstein Dutch & Flemish, S. [25, Rembrandt, text].I.207.128 (Kopie a); [25, Rembrandt, copies].I.215.128",
+            "@language" : "de" },
+          
+          { "@value" : "beschrieben in: Bartsch 1797 (Rembrandt), S. Vgl. 42.39 (Kopie)",
+            "@language" : "de" },
+          
+          { "@value" : "beschrieben in: Vasel 1903, S. 4531",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Graphik (Gattung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_370",
+            "@value" : "Kultur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Niederländisch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herzog Anton Ulrich-Museum, Braunschweig",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Rembrandt-Kopie AB 3.5",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_420",
+            "@value" : "Weitere Nummer(n)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "5403 (Alte Inventarnummer)",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/aa50f7a8-5adc-4fa1-a9ff-954aa90234f8/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/aa50f7a8-5adc-4fa1-a9ff-954aa90234f8",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012527.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00012527",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WGOKNN3UOLMPQYAWBDZFUDQW4OCBHJBJ/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WGOKNN3UOLMPQYAWBDZFUDQW4OCBHJBJ/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WGOKNN3UOLMPQYAWBDZFUDQW4OCBHJBJ/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "[Josef und die Frau des Potifar; Joseph and Potiphar's Wife; Joseph et la femme de Putiphar], 1700-1750",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Herzog Anton Ulrich-Museum, Braunschweig" } ],
+            "width" : 2000,
+            "height" : 1463,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/aa50f7a8-5adc-4fa1-a9ff-954aa90234f8/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/aa50f7a8-5adc-4fa1-a9ff-954aa90234f8",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WGOKNN3UOLMPQYAWBDZFUDQW4OCBHJBJ/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/WGOKNN3UOLMPQYAWBDZFUDQW4OCBHJBJ/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "[Josef und die Frau des Potifar; Joseph and Potiphar's Wife; Joseph et la femme de Putiphar], 1700-1750",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/WGOKNN3UOLMPQYAWBDZFUDQW4OCBHJBJ/canvas/1" ] } ] }

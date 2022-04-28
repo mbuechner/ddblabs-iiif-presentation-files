@@ -1,0 +1,214 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GFJUOHUAONGCGHM6YSVKRLIKBXDPWCOI/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Proktophantasmist",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Freies Deutsches Hochstift / Frankfurter Goethe-Museum - Kunstsammlung / Museum",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/GFJUOHUAONGCGHM6YSVKRLIKBXDPWCOI",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/GFJUOHUAONGCGHM6YSVKRLIKBXDPWCOI",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Zeichnung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Proktophantasmist Erschienen in: Goethe, Faust. Der Tragödie erster und zweiter Teil, mit Zeichnungen von Gerhart Kraaz, München 1964, S.164. Goethe, Faust. Der Tragödie erster und zweiter Teil, mit Zeichnungen von Gerhart Kraaz, München 1964, S.164. Illustrierte Textstelle: Faust - Der Tragödie erster Teil, Walpurgisnacht",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kreide",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "12 x 19,4 cm [Blatt]",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Hergestellt",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Gerhart Kraaz (1909-1971)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Frankfurt am Main",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1964",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Faust. Eine Tragödie.",
+            "@language" : "de" },
+          
+          { "@value" : "Zeichnung (Kunst)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_330",
+            "@value" : "Verwandtes Objekt/Literatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "<a href=\"https://www.deutsche-digitale-bibliothek.de/item/7SYVDO5GR36UQMZEHT5XGNNOKPHFELYE\">Teil von: Konvolut von 87 Zeichnungen und 50 Reproduktionen zu Goethes &quot;Faust I&quot; und Faust II&quot;</a>",
+            "@language" : "de" },
+          
+          { "@value" : "<a href=\"http://kvk.ubka.uni-karlsruhe.de/hylib-bin/kvk/nph-kvk2.cgi?maske=kvk-last&lang=de&title=KIT-Bibliothek%3A+Karlsruher+Virtueller+Katalog+KVK+%3A+Ergebnisanzeige&head=http%3A%2F%2Fwww.ubka.uni-karlsruhe.de%2Fkvk%2Fkvk%2Fkvk-kit-head-de-2010-11-08.html&header=http%3A%2F%2Fwww.ubka.uni-karlsruhe.de%2Fkvk%2Fkvk%2Fkvk-kit-header-de-showEmbeddedFullTitle.html&spacer=http%3A%2F%2Fwww.ubka.uni-karlsruhe.de%2Fkvk%2Fkvk%2Fkvk-kit-spacer-de-2010-11-08.html&footer=http%3A%2F%2Fwww.ubka.uni-karlsruhe.de%2Fkvk%2Fkvk%2Fkvk-kit-footer-de-2010-11-08.html&css=none&input-charset=utf-8&kvk-session=TQJ7SHEA&ALL=Gerhart+Kraaz.+Ein+Zeichner+im+Dialog+mit+der+Literatur&Timeout=120&TI=&PY=&AU=&SB=&CI=&SS=&ST=&PU=&disableEmbeddedFullTitle=1&VERBUENDE=&kataloge=SWB&kataloge=BVB&kataloge=NRW&kataloge=HEBIS&kataloge=HEBIS_RETRO&kataloge=KOBV_SOLR&kataloge=GBV&kataloge=DDB&kataloge=STABI_BERLIN&kataloge=ZDB\">Löffler, Birgit, 1988: Gerhart Kraaz. Ein Zeichner im Dialog mit der Literatur, Memmingen, S. 107-111</a>",
+            "@language" : "de" },
+          
+          { "@value" : "<a href=\"http://kvk.ubka.uni-karlsruhe.de/hylib-bin/kvk/nph-kvk2.cgi?maske=kvk-last&lang=de&title=KIT-Bibliothek%3A+Karlsruher+Virtueller+Katalog+KVK+%3A+Ergebnisanzeige&head=http%3A%2F%2Fwww.ubka.uni-karlsruhe.de%2Fkvk%2Fkvk%2Fkvk-kit-head-de-2010-11-08.html&header=http%3A%2F%2Fwww.ubka.uni-karlsruhe.de%2Fkvk%2Fkvk%2Fkvk-kit-header-de-showEmbeddedFullTitle.html&spacer=http%3A%2F%2Fwww.ubka.uni-karlsruhe.de%2Fkvk%2Fkvk%2Fkvk-kit-spacer-de-2010-11-08.html&footer=http%3A%2F%2Fwww.ubka.uni-karlsruhe.de%2Fkvk%2Fkvk%2Fkvk-kit-footer-de-2010-11-08.html&css=none&input-charset=utf-8&kvk-session=E1CYJ34L&ALL=&Timeout=120&TI=Goethe+in+der+Kunst+des+20.+Jahrhunderts&PY=1982&AU=&SB=&CI=&SS=&ST=&PU=&VERBUENDE=&kataloge=SWB&kataloge=BVB&kataloge=NRW&kataloge=HEBIS&kataloge=HEBIS_RETRO&kataloge=KOBV_SOLR&kataloge=GBV&kataloge=DDB&kataloge=STABI_BERLIN&kataloge=ZDB\">[Ausst. Kat. Freies Deutsches Hochstift 1982], 1982: Goethe in der Kunst des 20. Jahrhunderts, Frankfurt am Main, S. 118f., 209, Kat. Nr. 114-12</a>",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Freies Deutsches Hochstift / Frankfurter Goethe-Museum, Frankfurt am Main",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "III-14968/028",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_450",
+            "@value" : "Sammlung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Gerhart Kraaz - Illustrationen zu Faust I und Faust II",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f000546-1301-430b-ac36-4205cc5df564/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f000546-1301-430b-ac36-4205cc5df564",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/99900860.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/99900860",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GFJUOHUAONGCGHM6YSVKRLIKBXDPWCOI/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GFJUOHUAONGCGHM6YSVKRLIKBXDPWCOI/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GFJUOHUAONGCGHM6YSVKRLIKBXDPWCOI/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Proktophantasmist",
+            "attribution" : "© Freies Deutsches Hochstift / Frankfurter Goethe-Museum * Sylvester Kraaz",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: Freies Deutsches Hochstift / Frankfurter Goethe-Museum * Sylvester Kraaz" } ],
+            "width" : 980,
+            "height" : 540,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f000546-1301-430b-ac36-4205cc5df564/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/0f000546-1301-430b-ac36-4205cc5df564",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GFJUOHUAONGCGHM6YSVKRLIKBXDPWCOI/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/GFJUOHUAONGCGHM6YSVKRLIKBXDPWCOI/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Proktophantasmist",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/GFJUOHUAONGCGHM6YSVKRLIKBXDPWCOI/canvas/1" ] } ] }

@@ -1,0 +1,244 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Pilze. Der Gemeine Steinpilz (Boletus edulis)",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Deutsche Fotothek",
+      "@language" : "zxx" },
+    "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Foto",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Pilze. Der Gemeine Steinpilz (Boletus edulis)",
+            "@language" : "de" },
+          
+          { "@value" : "in schwarzweiß, quer",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Aufnahme",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Nowak, Max (Fotograf)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1944",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Mykologie",
+            "@language" : "de" },
+          
+          { "@value" : "Pilz",
+            "@language" : "de" },
+          
+          { "@value" : "Steinpilz",
+            "@language" : "de" },
+          
+          { "@value" : "Boletus edulis",
+            "@language" : "de" },
+          
+          { "@value" : "Dickröhrling",
+            "@language" : "de" },
+          
+          { "@value" : "Speisepilz",
+            "@language" : "de" },
+          
+          { "@value" : "Fotografie",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_230",
+            "@value" : "Bezug (wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Europa (Standort)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Fotografie (Gattung)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsche Fotothek",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_420",
+            "@value" : "Weitere Nummer(n)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "72033234 (Dokumentnummer)",
+            "@language" : "de" },
+          
+          { "@value" : "df_hauptkatalog_0118166 (Aufnahmenummer)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_420",
+            "@value" : "Weitere Nummer(n)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "72033234 (Dokumentnummer)",
+            "@language" : "de" },
+          
+          { "@value" : "df_hauptkatalog_0118166 (Aufnahmenummer)",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e753044f-7ca3-45bc-8449-1cd740fc4661/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e753044f-7ca3-45bc-8449-1cd740fc4661",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/99900890.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/99900890",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "SLUB / Deutsche Fotothek",
+            "attribution" : "© SLUB / Deutsche Fotothek",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: SLUB / Deutsche Fotothek" } ],
+            "width" : 1600,
+            "height" : 1124,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e753044f-7ca3-45bc-8449-1cd740fc4661/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e753044f-7ca3-45bc-8449-1cd740fc4661",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Pilze. Der Gemeine Steinpilz (Boletus edulis)",
+            "attribution" : "© SLUB / Deutsche Fotothek",
+            "metadata" : 
+            [ 
+              { "license" : "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Foto: SLUB / Deutsche Fotothek" } ],
+            "width" : 1600,
+            "height" : 1044,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/569ba306-52f0-48ca-bfc1-f06f9a58253f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/569ba306-52f0-48ca-bfc1-f06f9a58253f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/canvas/2" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "SLUB / Deutsche Fotothek",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/canvas/1" ] },
+      
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/range/normal/2",
+        "@type" : "sc:Range",
+        "label" : "Pilze. Der Gemeine Steinpilz (Boletus edulis)",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/725HXV4PNGBWR4EER6MJIUHSOPJHIOQU/canvas/2" ] } ] }

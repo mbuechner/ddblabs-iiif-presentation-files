@@ -1,0 +1,266 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Münze, As, 228",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Staatliche Münzsammlung München",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Münze",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "annotation: Severus Alexander wurde 222 mit 13 Jahren zum Nachfolger seines ermordeten Cousins Elagabal. Allerdings wurden die Regierungsgeschäfte von seiner Mutter Iulia Mamaea geführt. Aus dieser beherrschenden Stellung konnte der Kaiser seine Mutter auch nach seiner Volljährigkeit nicht verdrängen, so dass sie bis zur Ermordung beider durch meuternde Soldaten 235 de facto die Regierung inne hatte. Zwar bemühten sich beide darum das Imperium zu stabilisieren, dies scheiterte allerdings am teilweise schlechten Verhältnis der Mutter zum Militär. Dieser As, zur Zeit des Severus Alexander bereits nur noch eine alltägliche Kleinmünze von geringem Wert, war dem römischen Kriegsgott Mars gewidmet. Damit sollte möglicherweise auf eine erfolgreiche Kriegführung des Kaisers im Osten des Reiches verwiesen werden. Allerdings waren die militärischen Kampagnien des Severus Alexander alles andere als erfolgreich, was der Kaiser und seine Mutter wohl einige Jahre durch geschickte Propaganda zu verbergen wussten. Jedoch wäre auch ein direkter Bezug zu Heer möglich, dem Severus Alexander schließlich seine Macht verdankte.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Metalle > Bronze",
+            "@language" : "de" },
+          
+          { "@value" : "Prägung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Durchmesser: 25,8 mm Gewicht: 10,45 g Stempelstellung: 12 h",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "CommissioningAuftrag",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Severus Alexander <Römisches Reich, Kaiser> (Münzherr)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "ProductionHerstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_120",
+            "@value" : "(wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Römische Kaiserzeit",
+            "@language" : "de" },
+          
+          { "@value" : "Rom",
+            "@language" : "de" },
+          
+          { "@value" : "Römisches Reich",
+            "@language" : "de" },
+          
+          { "@value" : "Rom",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "228",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_220",
+            "@value" : "Bezug (wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Severus Alexander <Römisches Reich, Kaiser> (Dargestellte Person)",
+            "@language" : "de" },
+          
+          { "@value" : "Mars (Dargestellte Person)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_300",
+            "@value" : "Beschriftung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "front: IMP CAES M AVR SEV - ALEXANDER AVG (Belorbeertes und drapiertes Brustbild nach rechts. Außen Schriftkreis.)",
+            "@language" : "de" },
+          
+          { "@value" : "back: PM TR P VII - COS II P P (Mars schreitet nach rechts, zwischen S - C, hält Trophäe und Speer. Außen Schriftkreis.)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_330",
+            "@value" : "Verwandtes Objekt/Literatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Standardzitierwerk: <a href=\"http://gso.gbv.de/DB=2.1/PPNSET?PPN=197952828\">„Macrinus to Pupienus. The Roman imperial coinage ; Vol. 4, P. 2“. Spink, London, 19721938. Seite/Nr.: 473</a>",
+            "@language" : "de" },
+          
+          { "@value" : "eindeutig (Vorder- und Rückseite): <a href=\"http://numismatics.org/ocre/id/ric.4.sa.473\">RIC IV Severus Alexander 473</a>",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "As (nominal)",
+            "@language" : "de" },
+          
+          { "@value" : "Original (authenticity)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Staatliche Münzsammlung München",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2dc1e6ac-b0da-464a-b232-9bc3f042fab8/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2dc1e6ac-b0da-464a-b232-9bc3f042fab8",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/oid1525347044580.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/oid1525347044580",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Münze, As, 228",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt (26. Juli 2016), Quelle: Lena Nitzer, Staatliche Münzsammlung München/Staatliche Münzsammlung München" } ],
+            "width" : 2213,
+            "height" : 2315,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2dc1e6ac-b0da-464a-b232-9bc3f042fab8/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2dc1e6ac-b0da-464a-b232-9bc3f042fab8",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Münze, As, 228",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt (26. Juli 2016), Quelle: Lena Nitzer, Staatliche Münzsammlung München/Staatliche Münzsammlung München" } ],
+            "width" : 2225,
+            "height" : 2322,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/169d233e-f7d2-461f-86b7-753fe8758efd/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/169d233e-f7d2-461f-86b7-753fe8758efd",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4/canvas/2" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Münze, As, 228",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/ZM4ADJZTKFV2IX2HEGPVMIBPMHAQOGR4/canvas/2" ] } ] }

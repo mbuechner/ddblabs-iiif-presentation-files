@@ -1,0 +1,2980 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "MARCHIVUM Mannheim",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_004",
+            "@value" : "Archivaliensignatur",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "MARCHIVUM Mannheim, 2/2012_00916",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_029",
+            "@value" : "Kontext",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kunsthalle >> 18. Schloßgalerie",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_008",
+            "@value" : "Laufzeit",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1810-1833",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_010",
+            "@value" : "Enthältvermerke",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Instruktion für Galeriedirektor Franz Josef Zoll; Akten wegen Fertigung von Gemälden für die evangelische Stadtkirche in Karlsruhe durch Zoll 1832. Handakten des Vorstands der Mannheimer Bilder-Galerie",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_009",
+            "@value" : "Digitalisat im Angebot des Archivs",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "https://scope.mannheim.de//DFG-Files/2/D13485-000001.jpg",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_001",
+            "@value" : "Bestand",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kunsthalle",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_002",
+            "@value" : "Online-Findbuch im Angebot des Archivs",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "https://scope.mannheim.de/detail.aspx?ID=398877",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8ce3ca07-1fcb-4d53-8a40-661eb94f4693/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8ce3ca07-1fcb-4d53-8a40-661eb94f4693",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00001230.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://pro.deutsche-digitale-bibliothek.de/registrierung/logos/00001230",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 930,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8ce3ca07-1fcb-4d53-8a40-661eb94f4693/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8ce3ca07-1fcb-4d53-8a40-661eb94f4693",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 920,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b72b39c3-1e42-4d1a-8331-d07141870537/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b72b39c3-1e42-4d1a-8331-d07141870537",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/2" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 938,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/27e0e044-5588-4f93-bbec-53b0b4d31d27/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/27e0e044-5588-4f93-bbec-53b0b4d31d27",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/3" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/4",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 936,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/16da91c8-9a23-4388-91a5-9e10ae8fb456/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/16da91c8-9a23-4388-91a5-9e10ae8fb456",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/4" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/5",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 941,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2afdd174-2d52-45cf-84c3-c1dfe6905da4/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2afdd174-2d52-45cf-84c3-c1dfe6905da4",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/5" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/6",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 943,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/20b8ccb2-942c-499f-9e54-a6c26741bc24/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/20b8ccb2-942c-499f-9e54-a6c26741bc24",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/6" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/7",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 975,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9837587c-ef88-4446-96ac-0d7673d32231/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9837587c-ef88-4446-96ac-0d7673d32231",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/7" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/8",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 939,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a37ea0f0-effc-440e-881b-0e2b07abd881/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a37ea0f0-effc-440e-881b-0e2b07abd881",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/8" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/9",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 948,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2a1032b3-43b3-47cb-84ef-0a3d02a7b6b0/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2a1032b3-43b3-47cb-84ef-0a3d02a7b6b0",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/9" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/10",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 939,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6db28ec7-22dd-412c-a756-6e2af278aad6/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6db28ec7-22dd-412c-a756-6e2af278aad6",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/10" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/11",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 975,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a8cca8d2-7894-4695-b0f6-2549d64e98e4/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a8cca8d2-7894-4695-b0f6-2549d64e98e4",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/11" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/12",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 973,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/abecda20-ee85-478f-b1ec-461124f8cc9f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/abecda20-ee85-478f-b1ec-461124f8cc9f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/12" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/13",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 922,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2d7f6a9c-806c-4457-b88a-f589c4e9b63e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2d7f6a9c-806c-4457-b88a-f589c4e9b63e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/13" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/14",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 927,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d55bcc7c-0e48-4c6a-9ff8-5c382c027570/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d55bcc7c-0e48-4c6a-9ff8-5c382c027570",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/14" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/15",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1237,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e7405dcb-5e6c-4e3c-9906-211a57080a94/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e7405dcb-5e6c-4e3c-9906-211a57080a94",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/15" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/16",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1235,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/91e84c5a-ab27-46cf-8036-f523229c7c62/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/91e84c5a-ab27-46cf-8036-f523229c7c62",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/16" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/17",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 972,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/980384b8-37e3-4d47-b431-85e67600e102/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/980384b8-37e3-4d47-b431-85e67600e102",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/17" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/18",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 979,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/262cd8f6-9874-41c6-84ab-6b79dbbf861c/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/262cd8f6-9874-41c6-84ab-6b79dbbf861c",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/18" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/19",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 947,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e2c2a8b8-98e6-4466-beae-2dd4c8d2b3bc/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e2c2a8b8-98e6-4466-beae-2dd4c8d2b3bc",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/19" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/20",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 961,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/cf0ac6ec-d571-44bf-ae17-e39b15ecf4e4/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/cf0ac6ec-d571-44bf-ae17-e39b15ecf4e4",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/20" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/21",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 961,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a9c83f7c-d24e-493a-91d8-593e176051a8/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a9c83f7c-d24e-493a-91d8-593e176051a8",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/21" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/22",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 946,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a7daf0f1-b391-4b29-a757-6635a6e7e14d/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a7daf0f1-b391-4b29-a757-6635a6e7e14d",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/22" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/23",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 968,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/11bdf623-9607-4d95-b2e6-b4575d3a6c37/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/11bdf623-9607-4d95-b2e6-b4575d3a6c37",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/23" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/24",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 937,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/92adcbc1-b09a-43fe-817a-d991d5a92a2e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/92adcbc1-b09a-43fe-817a-d991d5a92a2e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/24" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/25",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 944,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/50fe800c-e9a6-46e2-9e67-c56f2a3d7b35/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/50fe800c-e9a6-46e2-9e67-c56f2a3d7b35",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/25" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/26",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 912,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9900c34b-996e-419a-b2e5-1073f20d5b71/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9900c34b-996e-419a-b2e5-1073f20d5b71",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/26" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/27",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 581,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/339bca30-4b77-499f-a658-a1f160f0134f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/339bca30-4b77-499f-a658-a1f160f0134f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/27" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/28",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 582,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/17bf7ca0-2f48-4545-a5a5-5be197e0373c/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/17bf7ca0-2f48-4545-a5a5-5be197e0373c",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/28" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/29",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 933,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1e48ae93-f4fb-4926-99f8-1d4baca4ffa7/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1e48ae93-f4fb-4926-99f8-1d4baca4ffa7",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/29" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/30",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 933,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/94f56fd2-55d0-4ecb-adb4-a0d75ca0c829/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/94f56fd2-55d0-4ecb-adb4-a0d75ca0c829",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/30" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/31",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 932,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/4f0dfe26-f2a7-46a5-9f26-7bac2ab6306e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/4f0dfe26-f2a7-46a5-9f26-7bac2ab6306e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/31" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/32",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 929,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/195b09fb-4afd-4336-a88a-a4c00b67f182/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/195b09fb-4afd-4336-a88a-a4c00b67f182",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/32" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/33",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 929,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/60e7579e-e496-4863-86fd-faaad387cad1/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/60e7579e-e496-4863-86fd-faaad387cad1",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/33" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/34",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 972,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3891a86c-8a15-4a5e-b7a4-babe8bb47979/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3891a86c-8a15-4a5e-b7a4-babe8bb47979",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/34" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/35",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 972,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/19621b2e-94f7-44aa-b093-c72f70a55967/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/19621b2e-94f7-44aa-b093-c72f70a55967",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/35" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/36",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 949,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1b802ab1-ee25-4f4c-ac33-98049eeea735/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1b802ab1-ee25-4f4c-ac33-98049eeea735",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/36" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/37",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 950,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2a678180-ac07-4c6f-be54-f45d59fd3979/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2a678180-ac07-4c6f-be54-f45d59fd3979",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/37" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/38",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 942,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dae105fb-9301-4582-abe7-e90fef249322/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dae105fb-9301-4582-abe7-e90fef249322",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/38" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/39",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 986,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1a3c5373-04e0-45a5-8250-e44320c23fd1/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1a3c5373-04e0-45a5-8250-e44320c23fd1",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/39" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/40",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 974,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3731475c-7040-4dd4-89a3-4d61a491d137/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3731475c-7040-4dd4-89a3-4d61a491d137",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/40" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/41",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1257,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/88312f45-f897-434d-811e-2cfdea515bc9/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/88312f45-f897-434d-811e-2cfdea515bc9",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/41" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/42",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 988,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f08f71fb-45f0-4f12-872a-0d0da7066b63/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f08f71fb-45f0-4f12-872a-0d0da7066b63",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/42" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/43",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 981,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/919bbbbc-4b7e-4568-8270-a170806446d7/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/919bbbbc-4b7e-4568-8270-a170806446d7",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/43" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/44",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 987,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/57f7356b-e9f9-4ca7-8686-c75bbb14ccd9/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/57f7356b-e9f9-4ca7-8686-c75bbb14ccd9",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/44" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/45",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 993,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6b11a46b-dc03-42d2-ae38-1617fc8b2fa9/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6b11a46b-dc03-42d2-ae38-1617fc8b2fa9",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/45" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/46",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1002,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/702e7b83-c423-40e0-8505-40d17a66dce3/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/702e7b83-c423-40e0-8505-40d17a66dce3",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/46" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/47",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 994,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a14713f9-2f4a-42c8-9b9f-da2be2c3f2f4/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a14713f9-2f4a-42c8-9b9f-da2be2c3f2f4",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/47" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/48",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 934,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b5eb7b5e-809c-4664-a80a-924f3d3c85ca/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b5eb7b5e-809c-4664-a80a-924f3d3c85ca",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/48" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/49",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 934,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8824a7c9-3821-4933-bc4c-3963fa8c7e8e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8824a7c9-3821-4933-bc4c-3963fa8c7e8e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/49" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/50",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 911,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1a0e0097-9ce2-45fe-8884-169ec8e9371a/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1a0e0097-9ce2-45fe-8884-169ec8e9371a",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/50" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/51",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 949,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/41c5c088-9265-442d-b81c-a9874ec6bc0a/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/41c5c088-9265-442d-b81c-a9874ec6bc0a",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/51" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/52",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 925,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fe831ad1-c54d-4427-a95f-f08aa51fe6fb/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fe831ad1-c54d-4427-a95f-f08aa51fe6fb",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/52" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/53",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 957,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ec0e9f7c-14eb-419b-8d7a-fa7893ea0407/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ec0e9f7c-14eb-419b-8d7a-fa7893ea0407",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/53" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/54",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 932,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e565324e-93ac-4772-a618-918f3291e31b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e565324e-93ac-4772-a618-918f3291e31b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/54" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/55",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 968,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/972a46e0-2fdc-4bb8-9738-8c218fccd676/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/972a46e0-2fdc-4bb8-9738-8c218fccd676",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/55" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/56",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 935,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/faca29ed-6375-4a69-8aae-39b4e90417d7/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/faca29ed-6375-4a69-8aae-39b4e90417d7",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/56" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/57",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 941,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/85046c94-b164-4c81-a06c-3e11a25d286e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/85046c94-b164-4c81-a06c-3e11a25d286e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/57" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/58",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 974,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/33255776-0f24-4f63-80c5-3c5b71291408/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/33255776-0f24-4f63-80c5-3c5b71291408",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/58" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/59",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 970,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b013a523-c2c7-44d2-887b-e511c53706ac/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b013a523-c2c7-44d2-887b-e511c53706ac",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/59" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/60",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 954,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fd3ebc0e-3972-4b99-97eb-a848407285f4/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fd3ebc0e-3972-4b99-97eb-a848407285f4",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/60" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/61",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 945,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f05cddc7-2e94-4413-80a8-a1412e1d2f59/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f05cddc7-2e94-4413-80a8-a1412e1d2f59",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/61" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/62",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 950,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b1a8d2e3-0bcc-4365-885c-37a73a2027b2/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b1a8d2e3-0bcc-4365-885c-37a73a2027b2",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/62" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/63",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 949,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ba1401e0-0268-4af6-a414-df815c34b2e7/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ba1401e0-0268-4af6-a414-df815c34b2e7",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/63" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/64",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 980,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/98b36fe7-8688-4865-ab94-ca613ce65319/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/98b36fe7-8688-4865-ab94-ca613ce65319",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/64" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/65",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1185,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/4902c99b-922b-4d98-8528-0e11b6f754f2/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/4902c99b-922b-4d98-8528-0e11b6f754f2",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/65" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/66",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1190,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/06f203af-dc0e-4eca-85d8-9a2630ac68cb/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/06f203af-dc0e-4eca-85d8-9a2630ac68cb",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/66" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/67",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 929,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9f120cfb-d4aa-4d25-9aa3-34ae3de999ee/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9f120cfb-d4aa-4d25-9aa3-34ae3de999ee",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/67" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/68",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 939,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/cacf2960-b644-49f5-a97b-d7b8667599bc/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/cacf2960-b644-49f5-a97b-d7b8667599bc",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/68" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/69",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 975,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a165a998-930b-4818-9d77-b1eb0c64409f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a165a998-930b-4818-9d77-b1eb0c64409f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/69" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/70",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 977,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/da1c8f85-2dd7-4ada-8952-349c8db1630c/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/da1c8f85-2dd7-4ada-8952-349c8db1630c",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/70" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/71",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 1263,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e284d6ca-a192-4d38-b550-f0e30dae00d6/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e284d6ca-a192-4d38-b550-f0e30dae00d6",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/71" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/72",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 934,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f1297fcd-a53e-45d6-952d-e48c0e0ad2d8/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/f1297fcd-a53e-45d6-952d-e48c0e0ad2d8",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/72" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/73",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1028,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2b7619d5-16de-401a-8c7b-c1adb52464ba/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2b7619d5-16de-401a-8c7b-c1adb52464ba",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/73" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/74",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1035,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/569822d1-2c57-43b6-b95c-6356a8fe43b5/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/569822d1-2c57-43b6-b95c-6356a8fe43b5",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/74" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/75",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 1357,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/053021b5-22b7-4449-9604-b5f13014bc83/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/053021b5-22b7-4449-9604-b5f13014bc83",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/75" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/76",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 1359,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/73a248ca-cbde-46cb-a672-ae5801a93b5e/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/73a248ca-cbde-46cb-a672-ae5801a93b5e",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/76" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/77",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1231,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c207e980-b0ca-4d90-95d1-5a24df0b3d20/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c207e980-b0ca-4d90-95d1-5a24df0b3d20",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/77" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/78",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1241,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6dacdfa3-9c6f-4056-aabe-5c22fbf33b6f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6dacdfa3-9c6f-4056-aabe-5c22fbf33b6f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/78" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/79",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1240,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6caadcef-8ca1-4848-88b0-2272aa014f99/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/6caadcef-8ca1-4848-88b0-2272aa014f99",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/79" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/80",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1227,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ef5f07b4-5289-4bd9-adf6-790e9f8055fc/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ef5f07b4-5289-4bd9-adf6-790e9f8055fc",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/80" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/81",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1227,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a6c1585a-5e53-4860-bc80-9af31213b621/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a6c1585a-5e53-4860-bc80-9af31213b621",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/81" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/82",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1226,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b0ed9388-95e6-4351-b395-aa3e8bc0733d/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b0ed9388-95e6-4351-b395-aa3e8bc0733d",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/82" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/83",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 927,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7d2332a6-b7f1-4299-a17c-09b5f93d7369/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7d2332a6-b7f1-4299-a17c-09b5f93d7369",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/83" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/84",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 943,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ca7b022a-d769-47c5-887f-336eeef54665/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ca7b022a-d769-47c5-887f-336eeef54665",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/84" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/85",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 964,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/14684348-f6c3-4cf5-984d-2ea6c17a6893/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/14684348-f6c3-4cf5-984d-2ea6c17a6893",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/85" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/86",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 964,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1c43f3e7-5d75-4dad-a414-e52af34a451b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/1c43f3e7-5d75-4dad-a414-e52af34a451b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/86" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/87",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 962,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2426b47d-67ea-48e2-9c9d-6abe27e5f115/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2426b47d-67ea-48e2-9c9d-6abe27e5f115",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/87" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/88",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 978,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ec01fa31-24ce-4d05-95a3-745d8344390a/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ec01fa31-24ce-4d05-95a3-745d8344390a",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/88" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/89",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 989,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d7a3fba5-72ca-4b3c-aa0a-aa124709794f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d7a3fba5-72ca-4b3c-aa0a-aa124709794f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/89" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/90",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 972,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/afd24cc4-7513-4f71-bb57-eb336c7ee68f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/afd24cc4-7513-4f71-bb57-eb336c7ee68f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/90" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/91",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1500,
+            "height" : 967,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9bdd5378-94ff-4121-bc14-7bc3f2a68c2d/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9bdd5378-94ff-4121-bc14-7bc3f2a68c2d",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/91" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/92",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 966,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/21b53ca9-1f31-4aca-b5fb-d2814ed25e68/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/21b53ca9-1f31-4aca-b5fb-d2814ed25e68",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/92" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/93",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 995,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ef31bafc-8e55-4036-a21f-e79e380d211b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ef31bafc-8e55-4036-a21f-e79e380d211b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/93" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/94",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1001,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a69ea035-8d92-426f-a25c-0aa35440b324/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a69ea035-8d92-426f-a25c-0aa35440b324",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/94" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/95",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1000,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8b5850d2-f853-4316-b7b0-27791f142baf/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/8b5850d2-f853-4316-b7b0-27791f142baf",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/95" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/96",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 997,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/461f0bab-af9a-45aa-a7d8-5aeb360695b2/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/461f0bab-af9a-45aa-a7d8-5aeb360695b2",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/96" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/97",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 969,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9a9f7596-1d8b-493d-ba28-1be5e2c73c79/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9a9f7596-1d8b-493d-ba28-1be5e2c73c79",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/97" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/98",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 975,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/65ec2394-f6f1-42ff-8671-8d243264d315/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/65ec2394-f6f1-42ff-8671-8d243264d315",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/98" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/99",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 917,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9c4a9797-0b17-4426-80c0-ebd71b953be7/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9c4a9797-0b17-4426-80c0-ebd71b953be7",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/99" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/100",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 910,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/4bf190c3-76bb-4b17-bed9-de9513e878b3/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/4bf190c3-76bb-4b17-bed9-de9513e878b3",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/100" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/101",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 938,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/139597bd-7e16-4fd2-9bc8-15c97b8238c2/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/139597bd-7e16-4fd2-9bc8-15c97b8238c2",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/101" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/102",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 948,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9f678085-6d8e-4cd5-9321-7ebbce1ef3b6/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/9f678085-6d8e-4cd5-9321-7ebbce1ef3b6",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/102" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/103",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1223,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fddf07a0-66d7-4e69-9bfb-91931bb8a48f/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/fddf07a0-66d7-4e69-9bfb-91931bb8a48f",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/103" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/104",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 1218,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e9660028-5d3a-4bf6-b0c6-9fb33476c505/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e9660028-5d3a-4bf6-b0c6-9fb33476c505",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/104" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/105",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 925,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c88048d3-f226-4340-9bc2-b60eca20fb20/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/c88048d3-f226-4340-9bc2-b60eca20fb20",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/105" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/106",
+            "@type" : "sc:Canvas",
+            "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : "" } ],
+            "width" : 931,
+            "height" : 1500,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/20ee3278-8b6e-41b1-aefd-26bd2b5bfc82/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/20ee3278-8b6e-41b1-aefd-26bd2b5bfc82",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/106" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Eingabe von Berichten und Gesuchen durch den Galerieinspektor Stassen und den Galeriedirektor Zoll sowie Erlasse des Oberhofmarschallamts und der Großherzoglich Badischen Intendanz sämtlicher Kunst-Cabinette",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/3",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/4",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/5",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/6",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/7",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/8",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/9",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/10",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/11",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/12",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/13",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/14",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/15",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/16",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/17",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/18",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/19",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/20",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/21",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/22",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/23",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/24",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/25",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/26",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/27",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/28",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/29",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/30",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/31",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/32",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/33",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/34",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/35",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/36",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/37",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/38",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/39",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/40",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/41",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/42",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/43",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/44",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/45",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/46",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/47",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/48",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/49",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/50",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/51",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/52",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/53",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/54",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/55",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/56",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/57",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/58",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/59",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/60",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/61",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/62",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/63",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/64",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/65",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/66",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/67",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/68",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/69",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/70",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/71",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/72",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/73",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/74",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/75",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/76",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/77",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/78",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/79",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/80",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/81",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/82",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/83",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/84",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/85",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/86",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/87",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/88",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/89",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/90",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/91",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/92",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/93",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/94",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/95",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/96",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/97",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/98",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/99",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/100",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/101",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/102",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/103",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/104",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/105",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/IRMHSA4Q6RXQVYADHYNIQNVE53T6JREJ/canvas/106" ] } ] }
