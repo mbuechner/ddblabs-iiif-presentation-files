@@ -1,0 +1,175 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QS75F7CMAZOEDRCEG3YGSC2RZ53GAPWI/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Belgien : Handbüchlein für Reisende, die sich leicht und schnell zurecht finden wollen ; Mit einer Reise-Karte und den Plänen des Schlachtfeldes von Belle-Alliance, der Städte Lüttich, Löwen, Brüssel, Antwerpen, Gent, Brügge und Ostende",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/QS75F7CMAZOEDRCEG3YGSC2RZ53GAPWI",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/QS75F7CMAZOEDRCEG3YGSC2RZ53GAPWI",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_014",
+            "@value" : "Urheber",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Baedeker, Karl",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_003",
+            "@value" : "Dokumenttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Monografie",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_005",
+            "@value" : "Ausgabe",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Zweite durchaus umgearbeitete Auflage",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_006",
+            "@value" : "Erschienen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Koblenz ; Brüssel ; Rotterdam ; Koblenz : K. Bädeker ; Muquardt ; A. Bädeker ; Hildenbrandt , 1843",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_008",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_009",
+            "@value" : "Umfang",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "[4] Bl., XXX, 244 S., [6] Bl., [3] gef. Bl., 8°",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_010",
+            "@value" : "Reihe",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Historische Drucke digital",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_012",
+            "@value" : "Anmerkungen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "P_Drucke_Allg_bis1920",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_013a",
+            "@value" : "PURL",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "http://resolver.staatsbibliothek-berlin.de/SBB0000664400000000",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_014",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany -- To 6658",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e5f79955-bdf1-462d-99af-7850ecd47a18/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e5f79955-bdf1-462d-99af-7850ecd47a18",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008125.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008125",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QS75F7CMAZOEDRCEG3YGSC2RZ53GAPWI/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QS75F7CMAZOEDRCEG3YGSC2RZ53GAPWI/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QS75F7CMAZOEDRCEG3YGSC2RZ53GAPWI/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Belgien : Handbüchlein für Reisende, die sich leicht und schnell zurecht finden wollen ; Mit einer Reise-Karte und den Plänen des Schlachtfeldes von Belle-Alliance, der Städte Lüttich, Löwen, Brüssel, Antwerpen, Gent, Brügge und Ostende",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "[Electronic ed.]: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany (2011)" } ],
+            "width" : 800,
+            "height" : 1241,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e5f79955-bdf1-462d-99af-7850ecd47a18/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e5f79955-bdf1-462d-99af-7850ecd47a18",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QS75F7CMAZOEDRCEG3YGSC2RZ53GAPWI/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/QS75F7CMAZOEDRCEG3YGSC2RZ53GAPWI/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Belgien : Handbüchlein für Reisende, die sich leicht und schnell zurecht finden wollen ; Mit einer Reise-Karte und den Plänen des Schlachtfeldes von Belle-Alliance, der Städte Lüttich, Löwen, Brüssel, Antwerpen, Gent, Brügge und Ostende",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/QS75F7CMAZOEDRCEG3YGSC2RZ53GAPWI/canvas/1" ] } ] }

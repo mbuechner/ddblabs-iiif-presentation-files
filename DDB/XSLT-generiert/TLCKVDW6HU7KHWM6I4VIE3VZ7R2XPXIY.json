@@ -1,0 +1,185 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TLCKVDW6HU7KHWM6I4VIE3VZ7R2XPXIY/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Rathaus, Bonn-Poppelsdorf. Monatskonkurrenz Juli 1894: Aufriss Straßenansicht (Kirschenallee) 1:150; Maßstabsleiste",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Architekturmuseum der Technischen Universität Berlin",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/publicdomain/zero/1.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/TLCKVDW6HU7KHWM6I4VIE3VZ7R2XPXIY",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/TLCKVDW6HU7KHWM6I4VIE3VZ7R2XPXIY",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Handzeichnung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Tusche auf Karton",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Blattmaß: 23,9 x 31,3 cm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_110",
+            "@value" : "(wer)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Otto Spalding (1863-1945)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1894",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_230",
+            "@value" : "Bezug (wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Bonn, Sternenburgstraße, Kirschallee (historisch: Poppelsdorf, Kessenicher Straße, Kirschenallee)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Architekturmuseum der Technischen Universität Berlin",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "MK 65-061",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_013e",
+            "@value" : "DOI",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "https://doi.org/10.25645/nmf2-gdqh",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_440",
+            "@value" : "Würdigung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Architekturmuseum der TU Berlin, Inv. Nr. MK 65-061. Werk und Digitalisat sind gemeinfrei, aber wir freuen uns über einen Bildnachweis.",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3c7b64fc-e945-478b-b646-5c4180a4780c/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3c7b64fc-e945-478b-b646-5c4180a4780c",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/oid1583142401555.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/oid1583142401555",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TLCKVDW6HU7KHWM6I4VIE3VZ7R2XPXIY/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TLCKVDW6HU7KHWM6I4VIE3VZ7R2XPXIY/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TLCKVDW6HU7KHWM6I4VIE3VZ7R2XPXIY/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Rathaus, Bonn-Poppelsdorf. Monatskonkurrenz Juli 1894: Aufriss Straßenansicht (Kirschenallee) 1:150; Maßstabsleiste, 1894",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/publicdomain/zero/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Architekturmuseum der Technischen Universität Berlin" } ],
+            "width" : 3000,
+            "height" : 2288,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3c7b64fc-e945-478b-b646-5c4180a4780c/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/3c7b64fc-e945-478b-b646-5c4180a4780c",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TLCKVDW6HU7KHWM6I4VIE3VZ7R2XPXIY/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/TLCKVDW6HU7KHWM6I4VIE3VZ7R2XPXIY/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Rathaus, Bonn-Poppelsdorf. Monatskonkurrenz Juli 1894: Aufriss Straßenansicht (Kirschenallee) 1:150; Maßstabsleiste, 1894",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/TLCKVDW6HU7KHWM6I4VIE3VZ7R2XPXIY/canvas/1" ] } ] }

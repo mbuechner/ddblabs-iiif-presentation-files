@@ -1,0 +1,125 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3WRHIPRKU4NBMU4OU4UKWUNBKVUUCGY6/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Walter Benjamin: Ausgraben und Erinnern",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Ruprecht-Karls-Universität Heidelberg. Universitätsbibliothek",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-sa/3.0/de/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/3WRHIPRKU4NBMU4OU4UKWUNBKVUUCGY6",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/3WRHIPRKU4NBMU4OU4UKWUNBKVUUCGY6",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_003",
+            "@value" : "Dokumenttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kapitel",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_004",
+            "@value" : "Erschienen in",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Harth, Dietrich : Die Erfindung des Gedächtnisses; Frankfurt am Main, 1991",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_007",
+            "@value" : "Elektronische Ausgabe",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Universitätsbibliothek Heidelberg, 2008-12-04",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_009",
+            "@value" : "Umfang",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "138",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "stat_016",
+            "@value" : "Förderung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Gesellschaft der Freunde Universität Heidelberg e.V.",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d015b7db-e0c0-45e7-aa7a-0cf0fcbc8761/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d015b7db-e0c0-45e7-aa7a-0cf0fcbc8761",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "00013701.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "00013701",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3WRHIPRKU4NBMU4OU4UKWUNBKVUUCGY6/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3WRHIPRKU4NBMU4OU4UKWUNBKVUUCGY6/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3WRHIPRKU4NBMU4OU4UKWUNBKVUUCGY6/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Walter Benjamin: Ausgraben und Erinnern",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "",
+                "mimetype" : "image/jpeg",
+                "name2" : "[Electronic ed.]: Universitätsbibliothek Heidelberg (2008-12-04)" } ],
+            "width" : 180,
+            "height" : 330,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d015b7db-e0c0-45e7-aa7a-0cf0fcbc8761/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/d015b7db-e0c0-45e7-aa7a-0cf0fcbc8761",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3WRHIPRKU4NBMU4OU4UKWUNBKVUUCGY6/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/3WRHIPRKU4NBMU4OU4UKWUNBKVUUCGY6/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Walter Benjamin: Ausgraben und Erinnern",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/3WRHIPRKU4NBMU4OU4UKWUNBKVUUCGY6/canvas/1" ] } ] }

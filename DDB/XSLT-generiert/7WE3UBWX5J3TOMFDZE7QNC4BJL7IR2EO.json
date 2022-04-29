@@ -1,0 +1,403 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Kaffeekanne",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Gustaf-Dalman-Institut, Universität Greifswald",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_020",
+            "@value" : "Objektbezeichnung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kulturgeschichtliches Artefakt",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_050",
+            "@value" : "Objektbeschreibung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kurzbeschreibung: Kaffeekanne, arab. delle (Pl.: dlal)",
+            "@language" : "de" },
+          
+          { "@value" : "Erweiterte Beschreibung: Der Besuch im Beduin*innenzelt gehört zu jeder guten 'Orient'-Erzählung der Jahrhundertwende. Auch der Palästinakundler Gustaf Dalman (1855–1941) bedient dieses Motiv in seinen Schriften. Doch bei ihm steht nicht das verklärte Bild im Vordergrund, sondern das genaue Beobachten: Detailliert beschreibt er, wie man die Bohnen röstet, im Mörser zerkleinert, mehrfach aufgießt und den deutschen Gästen reicht. In Greifswald hat sich die zugehörige Kaffeekanne bis heute erhalten. Ursprünglich gehört zur Sammlung des Palästinakundlers eine vollständige Ausstattung zur Kaffeezubereitung: vom Mörser über den Röstlöffel bis zu zwei Kannen. HINTERGRUNDINFOS ZUM OBJEKT: Ein unbekannter Autor notierte auf einem Notizzettel, den er auf der Standfläche der Kaffeekanne befestigte mit schwarzer Tinte: \"delle (Pl.: dlal) Kaffeekanne (aus verzinntem Kupfer) Nazareth vgl. Dalman, A.u.S VI, 116\" Der Verweis auf Gustaf Dalmans Buch \"Arbeit und Sitte in Palästina 6\" lässt den Rückschluss zu, dass diese Beschrifung nach der Veröffentlichung des Werkes um 1939 zu seinen Greifswalder Zeiten/Übertragung der Sammlung an die Gustaf-Dalman-Stiftung vorgenommen wurde. Die birnenförmige Kaffeekanne öffnet sich nach oben hin wieder ein wenig. Der ohrenförmige Griff ist zum einen an der breitesten Stelle des Kannengefäßes und unmittelbar am oberen Abschluss des Kannengefäßes angebracht. Eine Pflanzenfaser (Zwirn) umschlingt den Henckel (Schutz vor Hitze). Im oberen achtel des Kannengefäßes sind kleine Ornamente (6-Ecke) eingestanzt. Ein Kannendeckes ist mit einem Schanier unmittelbar am Henckel befestigt. Dieser ist kreisrund und nach oben schmaler werdend und spitz zulaufend. Abschluss findet der Deckel in einem gestalterischen Element (Korusion?). Ein florales Muster ist auf dem Deckel eingestanzt. Der Ausguss ist im Gegensatz zur runden und dynamischen Kanne eckig. Er wurde unmittelbar am Kannengefäß befestigt. Der Ausguss wird von einem floral gestalteten Deckel abgedeckt. Das florale Muster ähnelt dem Muster auf dem Deckel. Dieser Ausgussdeckel ist mit einem Schanier am Ausguss befestigt und lässt sich nach wie vor bewegen.",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_060",
+            "@value" : "Material/Technik",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kupfer; Pflanzenfaser",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_070",
+            "@value" : "Maße",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "H: 26,5 cm ; B: 21,8 cm",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_100",
+            "@value" : "Ereignis",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Herstellung",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_130",
+            "@value" : "(wann)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1801 - 1925 [19. / 20. Jahrhundert]",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_210",
+            "@value" : "Bezug (was)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kaffeekanne",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_230",
+            "@value" : "Bezug (wo)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Nazareth, Nazaret",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_340",
+            "@value" : "Klassifikation",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Hauswirtschaft (Sachgruppe)",
+            "@language" : "de" },
+          
+          { "@value" : "Essen und Trinken, Industriedesign (Sachgruppe)",
+            "@language" : "de" },
+          
+          { "@value" : "Kaffee- und Teegeschirr (Sachgruppe)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_400",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Greifswald",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_410",
+            "@value" : "Inventarnummer",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "GDI00003",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_420",
+            "@value" : "Weitere Nummer(n)",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "18, vgl. I XII 9, GDIs01968, GDIp01853, GDI00003, vgl. \"Arbeit und Sitte\" III, Abb. 46 (alte Inventarnummer)",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_mus_neu_450",
+            "@value" : "Sammlung",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Gustaf-Dalman-Sammlung (Universität Greifswald)",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e133c1dd-c964-4f5a-acc7-e9ef9a0ec1d9/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e133c1dd-c964-4f5a-acc7-e9ef9a0ec1d9",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00050315.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00050315",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeekanne, 1801 - 1925 [19. / 20. Jahrhundert]",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Gustaf-Dalman-Institut (Universität Greifswald)" } ],
+            "width" : 1506,
+            "height" : 2000,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e133c1dd-c964-4f5a-acc7-e9ef9a0ec1d9/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e133c1dd-c964-4f5a-acc7-e9ef9a0ec1d9",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/1" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/2",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeekanne, 1801 - 1925 [19. / 20. Jahrhundert]",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Gustaf-Dalman-Institut (Universität Greifswald)" } ],
+            "width" : 400,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/15a9d3b9-f9cf-4344-b990-5bf40c667a0b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/15a9d3b9-f9cf-4344-b990-5bf40c667a0b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/2" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/3",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeekanne, 1801 - 1925 [19. / 20. Jahrhundert]",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Gustaf-Dalman-Institut (Universität Greifswald)" } ],
+            "width" : 394,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ffc9b9de-d716-4000-bb94-95454316812b/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ffc9b9de-d716-4000-bb94-95454316812b",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/3" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/4",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeekanne, 1801 - 1925 [19. / 20. Jahrhundert]",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Gustaf-Dalman-Institut (Universität Greifswald)" } ],
+            "width" : 600,
+            "height" : 540,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dd174f91-86d5-4535-949f-18e104d766cc/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/dd174f91-86d5-4535-949f-18e104d766cc",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/4" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/5",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeekanne, 1801 - 1925 [19. / 20. Jahrhundert]",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Gustaf-Dalman-Institut (Universität Greifswald)" } ],
+            "width" : 472,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/aecef122-02e1-49d7-977f-f819eb51aa5a/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/aecef122-02e1-49d7-977f-f819eb51aa5a",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/5" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/6",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeekanne, 1801 - 1925 [19. / 20. Jahrhundert]",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Gustaf-Dalman-Institut (Universität Greifswald)" } ],
+            "width" : 600,
+            "height" : 400,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2aab5425-fadf-4e5f-b372-eed3213e09d7/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/2aab5425-fadf-4e5f-b372-eed3213e09d7",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/6" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/7",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeekanne, 1801 - 1925 [19. / 20. Jahrhundert]",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Gustaf-Dalman-Institut (Universität Greifswald)" } ],
+            "width" : 412,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ab683844-f0fb-4c14-88f6-71b2d3df30e0/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/ab683844-f0fb-4c14-88f6-71b2d3df30e0",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/7" } ] },
+          
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/8",
+            "@type" : "sc:Canvas",
+            "label" : "Kaffeekanne, 1801 - 1925 [19. / 20. Jahrhundert]",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "Digitales Objekt, Quelle: Gustaf-Dalman-Institut (Universität Greifswald)" } ],
+            "width" : 452,
+            "height" : 600,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7b5a2875-70e8-4dd2-a0ae-bbeb0739e30d/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/7b5a2875-70e8-4dd2-a0ae-bbeb0739e30d",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/8" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Kaffeekanne, 1801 - 1925 [19. / 20. Jahrhundert]",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/1",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/2",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/3",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/4",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/5",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/6",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/7",
+          "https://www.deutsche-digitale-bibliothek.de/item/iiif/7WE3UBWX5J3TOMFDZE7QNC4BJL7IR2EO/canvas/8" ] } ] }

@@ -1,0 +1,211 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/FNY2WQQOGN4ZV6DJIADNKWFWXH2F73HT/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Abtheilung 2: Fortgeseztes Altes und Neues Berlin : Darinnen die Historie der Kirchen zu Marien, Petri, im grauen Kloster, der Garnison, auf dem Fridrichswerder, Dorotheen- und Fridrichsstadt, wie auch der Hospitäler, Waysenhäuser und Gymnasiorum in Berlin von ihrem Anfang biß auf izige Zeiten aus zuverläßigen Nachrichten erzehlet wird",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/FNY2WQQOGN4ZV6DJIADNKWFWXH2F73HT",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/FNY2WQQOGN4ZV6DJIADNKWFWXH2F73HT",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "stat_012",
+            "@value" : "Vollständiger Titel",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Abtheilung 2: Fortgeseztes Altes und Neues Berlin : Darinnen die Historie der Kirchen zu Marien, Petri, im grauen Kloster, der Garnison, auf dem Fridrichswerder, Dorotheen- und Fridrichsstadt, wie auch der Hospitäler, Waysenhäuser und Gymnasiorum in Berlin von ihrem Anfang biß auf izige Zeiten aus zuverläßigen Nachrichten erzehlet wird",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_001",
+            "@value" : "Weitere Titel",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Altes und Neues Berlin. Das ist: Vollständige Nachricht von der Stadt Berlin, derselben Erbauern, Lage, Kirchen, Gymnasiis",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_014",
+            "@value" : "Urheber",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Müller, Johann Christoph",
+            "@language" : "de" },
+          
+          { "@value" : "Küster, Georg Gottfried",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_003",
+            "@value" : "Dokumenttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Band",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_004",
+            "@value" : "Erschienen in",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Johann Christoph Müllers, Cam. Regiæ Berol. Advocati und Georg Gottfried Küsters, Gymnasii Fridriciani Rectoris ... Altes und Neues Berlin. Das ist: Vollständige Nachricht von der Stadt Berlin, derselben Erbauern, Lage, Kirchen, Gymnasiis : ingleichen von den Königlichen, und andern öffentlichen Gebäuden; dem Rath-Hause, dessen, und der Bürgerschafft Gütern, Vorrechten, Privilegiis und andern das Policey- und Stadt-Wesen betreffenden Sachen ; Wobey dasjenige, so in Krieges- und Friedens-Zeiten von Anno 1106. biß itzo in hiesigen Residentzien merckwürdiges vorgegangen, aus Diplomatibus, guten und zuverläßigen, theils auch archivischen Nachrichten und den besten Auctoribus erzehlet wird ; In fünff Theile verfasset ; Mit Kupfern gezieret und nöthigen Registern versehen",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_006",
+            "@value" : "Erschienen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Berlin : Haude und Spener , 1752",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_008",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_009",
+            "@value" : "Umfang",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "[2] Bl., S. [437] - 1029, [6] Bl., 2°, 2°",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_010",
+            "@value" : "Reihe",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "VD18 digital",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_012",
+            "@value" : "Anmerkungen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "P_Drucke_VD18",
+            "@language" : "de" },
+          
+          { "@value" : "VD18 90302079",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_013a",
+            "@value" : "PURL",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "http://resolver.staatsbibliothek-berlin.de/SBB00014F2800020000",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_013h",
+            "@value" : "VD 18",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "90302079",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_014",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany -- 2\" Tc 6620-2<c>",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a9bdfa2e-0983-4a0b-9697-9ed97991c6ba/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a9bdfa2e-0983-4a0b-9697-9ed97991c6ba",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008125.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008125",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/FNY2WQQOGN4ZV6DJIADNKWFWXH2F73HT/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/FNY2WQQOGN4ZV6DJIADNKWFWXH2F73HT/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/FNY2WQQOGN4ZV6DJIADNKWFWXH2F73HT/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Abtheilung 2: Fortgeseztes Altes und Neues Berlin : Darinnen die Historie der Kirchen zu Marien, Petri, im grauen Kloster, der Garnison, auf dem Fridrichswerder, Dorotheen- und Fridrichsstadt, wie auch der Hospitäler, Waysenhäuser und Gymnasiorum in Berlin von ihrem Anfang biß auf izige Zeiten aus zuverläßigen Nachrichten erzehlet wird",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "[Electronic ed.]: Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, Germany (2014)" } ],
+            "width" : 800,
+            "height" : 1262,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a9bdfa2e-0983-4a0b-9697-9ed97991c6ba/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/a9bdfa2e-0983-4a0b-9697-9ed97991c6ba",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/FNY2WQQOGN4ZV6DJIADNKWFWXH2F73HT/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/FNY2WQQOGN4ZV6DJIADNKWFWXH2F73HT/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Abtheilung 2: Fortgeseztes Altes und Neues Berlin : Darinnen die Historie der Kirchen zu Marien, Petri, im grauen Kloster, der Garnison, auf dem Fridrichswerder, Dorotheen- und Fridrichsstadt, wie auch der Hospitäler, Waysenhäuser und Gymnasiorum in Berlin von ihrem Anfang biß auf izige Zeiten aus zuverläßigen Nachrichten erzehlet wird",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/FNY2WQQOGN4ZV6DJIADNKWFWXH2F73HT/canvas/1" ] } ] }

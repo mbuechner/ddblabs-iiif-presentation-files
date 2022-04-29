@@ -1,0 +1,115 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/6F4RUD3FPUKRBP4ZPU7ZMMS56J25EZ2C/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "1: Genesis - Psalmi",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Hochschul- und Landesbibliothek Fulda",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/6F4RUD3FPUKRBP4ZPU7ZMMS56J25EZ2C",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/6F4RUD3FPUKRBP4ZPU7ZMMS56J25EZ2C",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_003",
+            "@value" : "Dokumenttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Band",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_004",
+            "@value" : "Erschienen in",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Gutenberg-Bibel : Genesis - Psalmi",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_006",
+            "@value" : "Erschienen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "1455",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_008",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Latein",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/12452915-3a46-41d9-9c6e-34aa8f02ecf9/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/12452915-3a46-41d9-9c6e-34aa8f02ecf9",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00017154.jpg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00017154",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/6F4RUD3FPUKRBP4ZPU7ZMMS56J25EZ2C/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/6F4RUD3FPUKRBP4ZPU7ZMMS56J25EZ2C/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/6F4RUD3FPUKRBP4ZPU7ZMMS56J25EZ2C/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "1: Genesis - Psalmi",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "[Electronic ed.]: Hochschul- und Landesbibliothek Fulda (2016)" } ],
+            "width" : 800,
+            "height" : 1062,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/12452915-3a46-41d9-9c6e-34aa8f02ecf9/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/12452915-3a46-41d9-9c6e-34aa8f02ecf9",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/6F4RUD3FPUKRBP4ZPU7ZMMS56J25EZ2C/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/6F4RUD3FPUKRBP4ZPU7ZMMS56J25EZ2C/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "1: Genesis - Psalmi",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/6F4RUD3FPUKRBP4ZPU7ZMMS56J25EZ2C/canvas/1" ] } ] }

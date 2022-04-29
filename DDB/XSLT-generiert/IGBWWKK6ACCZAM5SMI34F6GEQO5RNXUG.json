@@ -1,0 +1,145 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IGBWWKK6ACCZAM5SMI34F6GEQO5RNXUG/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Berliner Volksblatt : Organ für die Interessen der Arbeiter, Tagesausgabe",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Bibliothek der Friedrich-Ebert-Stiftung",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/licenses/by-nc-sa/3.0/de/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/IGBWWKK6ACCZAM5SMI34F6GEQO5RNXUG",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/IGBWWKK6ACCZAM5SMI34F6GEQO5RNXUG",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_003",
+            "@value" : "Dokumenttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Heft ; Heft",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_004",
+            "@value" : "Erschienen in",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Berliner Volksblatt : Organ für die Interessen der Arbeiter",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_006",
+            "@value" : "Erschienen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Berlin : Max Bading , 1885-06-06",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_008",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_009",
+            "@value" : "Umfang",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "8 Seiten",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_013a",
+            "@value" : "PURL",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "http://fes.imageware.de/fes/web/index.html?open=BV02129",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_014",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "International Institute of Social History, Amsterdam -- XZF 1300",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e2f06591-0cda-4a3c-8aa9-cccbeba4ebca/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e2f06591-0cda-4a3c-8aa9-cccbeba4ebca",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IGBWWKK6ACCZAM5SMI34F6GEQO5RNXUG/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IGBWWKK6ACCZAM5SMI34F6GEQO5RNXUG/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IGBWWKK6ACCZAM5SMI34F6GEQO5RNXUG/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Berliner Volksblatt : Organ für die Interessen der Arbeiter, Tagesausgabe",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/licenses/by-nc-sa/3.0/de/",
+                "mimetype" : "image/jpeg",
+                "name2" : ": Bibliothek der Friedrich-Ebert-Stiftung (2021-08-18)" } ],
+            "width" : 3336,
+            "height" : 5173,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e2f06591-0cda-4a3c-8aa9-cccbeba4ebca/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/e2f06591-0cda-4a3c-8aa9-cccbeba4ebca",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IGBWWKK6ACCZAM5SMI34F6GEQO5RNXUG/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/IGBWWKK6ACCZAM5SMI34F6GEQO5RNXUG/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Berliner Volksblatt : Organ für die Interessen der Arbeiter, Tagesausgabe",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/IGBWWKK6ACCZAM5SMI34F6GEQO5RNXUG/canvas/1" ] } ] }

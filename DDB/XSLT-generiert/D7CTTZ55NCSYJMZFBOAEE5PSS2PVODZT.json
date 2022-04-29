@@ -1,0 +1,181 @@
+
+  { "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D7CTTZ55NCSYJMZFBOAEE5PSS2PVODZT/manifest",
+    "@type" : "sc:Manifest",
+    "label" : 
+    [ 
+      { "@value" : "Von den verschiedenen Racen der Menschen : zur Ankündigung der Vorlesungen der physischen Geographie im Sommerhalbenjahre 1775",
+        "@language" : "de" } ],
+    "attribution" : 
+    { "@value" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+      "@language" : "zxx" },
+    "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso" : 
+    { "@id" : "https://api.deutsche-digitale-bibliothek.de/items/D7CTTZ55NCSYJMZFBOAEE5PSS2PVODZT",
+      "format" : "application/xml",
+      "profile" : "https://www.deutsche-digitale-bibliothek.de/ns/cortex" },
+    "related" : 
+    { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/D7CTTZ55NCSYJMZFBOAEE5PSS2PVODZT",
+      "format" : "text/html" },
+    "metadata" : 
+    [ 
+      { "label" : 
+        [ 
+          { "id" : "flex_arch_014",
+            "@value" : "Urheber",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Kant, Immanuel",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_003",
+            "@value" : "Dokumenttyp",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Gelegenheitsschrift ; Monografie",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_006",
+            "@value" : "Erschienen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Königsberg : Hartung , 1775",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_008",
+            "@value" : "Sprache",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Deutsch",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_009",
+            "@value" : "Umfang",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "12 S., 4°, 4°",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_010",
+            "@value" : "Reihe",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "VD18 digital",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_012",
+            "@value" : "Anmerkungen",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "P_Drucke_VD18",
+            "@language" : "de" },
+          
+          { "@value" : "VD18 14670445",
+            "@language" : "de" },
+          
+          { "@value" : "Adickes, E. German Kantanian Bibliography, Nr. 44",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_013a",
+            "@value" : "PURL",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "http://resolver.staatsbibliothek-berlin.de/SBB000200DD00000000",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_013h",
+            "@value" : "VD 18",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "14670445",
+            "@language" : "de" } ] },
+      
+      { "label" : 
+        [ 
+          { "id" : "flex_bibl_014",
+            "@value" : "Standort",
+            "@language" : "de" } ],
+        "value" : 
+        [ 
+          { "@value" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany -- La 4060",
+            "@language" : "de" } ] } ],
+    "thumbnail" : 
+    { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b287bc03-bba8-4f15-9758-ac4b209b8287/full/!800,600/0/default.jpg",
+      "@type" : "dctypes:Image",
+      "format" : "image/jpeg",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b287bc03-bba8-4f15-9758-ac4b209b8287",
+        "profile" : "http://iiif.io/api/image/2/level2.json" },
+      "width" : 800,
+      "height" : 600 },
+    "logo" : 
+    { "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008125.png",
+      "service" : 
+      { "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://registrierung.deutsche-digitale-bibliothek.de/logos/00008125",
+        "profile" : "http://iiif.io/api/image/2/level2.json" } },
+    "sequences" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D7CTTZ55NCSYJMZFBOAEE5PSS2PVODZT/sequence/normal",
+        "@type" : "sc:Sequence",
+        "startCanvas" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D7CTTZ55NCSYJMZFBOAEE5PSS2PVODZT/canvas/1",
+        "canvases" : 
+        [ 
+          { "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D7CTTZ55NCSYJMZFBOAEE5PSS2PVODZT/canvas/1",
+            "@type" : "sc:Canvas",
+            "label" : "Von den verschiedenen Racen der Menschen : zur Ankündigung der Vorlesungen der physischen Geographie im Sommerhalbenjahre 1775",
+            "attribution" : "",
+            "metadata" : 
+            [ 
+              { "license" : "http://creativecommons.org/publicdomain/mark/1.0/",
+                "mimetype" : "image/jpeg",
+                "name2" : "[Electronic ed.]: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany (2017)" } ],
+            "width" : 800,
+            "height" : 1023,
+            "images" : 
+            [ 
+              { "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b287bc03-bba8-4f15-9758-ac4b209b8287/full/!800,600/0/default.jpg",
+                  "@type" : "dctypes:Image",
+                  "profile" : "http://iiif.io/api/image/2/level2.json",
+                  "service" : 
+                  { "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://iiif.deutsche-digitale-bibliothek.de/image/2/b287bc03-bba8-4f15-9758-ac4b209b8287",
+                    "profile" : "http://iiif.io/api/image/2/level2.json" } },
+                "on" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D7CTTZ55NCSYJMZFBOAEE5PSS2PVODZT/canvas/1" } ] } ] } ],
+    "structures" : 
+    [ 
+      { "@id" : "https://www.deutsche-digitale-bibliothek.de/item/iiif/D7CTTZ55NCSYJMZFBOAEE5PSS2PVODZT/range/normal/1",
+        "@type" : "sc:Range",
+        "label" : "Von den verschiedenen Racen der Menschen : zur Ankündigung der Vorlesungen der physischen Geographie im Sommerhalbenjahre 1775",
+        "canvases" : 
+        [ "https://www.deutsche-digitale-bibliothek.de/item/iiif/D7CTTZ55NCSYJMZFBOAEE5PSS2PVODZT/canvas/1" ] } ] }
