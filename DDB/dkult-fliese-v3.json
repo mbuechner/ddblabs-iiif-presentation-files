@@ -27,11 +27,9 @@
         },
         {
             "label": {
-                "@id": "http://ddb.vocnet.org/label/lab00000",
                 "de": ["Material/Technik"]
             },
             "value": {
-                "@id": "http://d-nb.info/gnd/4030270-2",
                 "de": ["Keramik, gepresst, glasiert"]
             }
         },
@@ -40,7 +38,6 @@
                 "de": ["Beteiligte Personen und Organisationen"]
             },
             "value": {
-                "@id": "https://d-nb.info/gnd/2149866-0",
                 "none": ["<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/gnd/2149866-0\">Villeroy &amp; Boch-Aktiengesellschaft</a>"]
             }
         },
