@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "{{self-url}}",
     "type": "Manifest",
     "label": {
