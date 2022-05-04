@@ -71,14 +71,14 @@
     },
     "thumbnail": [
         {
-            "id": "{{iiif-image-url}}/page1/full/80,100/0/default.jpg",
+            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/80,100/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "service": [
                 {
-                    "id": "{{iiif-image-url}}/page1",
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
                     "type": "ImageService2",
-                    "profile": "level1"
+                    "profile": "level2"
                 }
             ]
         }
@@ -87,18 +87,9 @@
     "behavior": ["paged"],
     "navDate": "1856-01-01T00:00:00Z",
     "rights": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/",
-    "requiredStatement": {
-        "label": {
-            "en": ["Attribution"],
-            "de": ["Attribuierung"]
-        },
-        "value": {
-            "none": ["Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf"]
-        }
-    },
     "provider": [
         {
-            "id": "https://example.org/about",
+            "id": "https://www.deutsche-digitale-bibliothek.de/organization/6KIBP2IUJLHLDFDZ2LNFZID3Q5XRPXFL",
             "type": "Agent",
             "label": {
                 "none": ["Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf"]
@@ -108,19 +99,19 @@
                     "id": "https://www.deutsche-digitale-bibliothek.de/organization/6KIBP2IUJLHLDFDZ2LNFZID3Q5XRPXFL",
                     "type": "Text",
                     "label": {
-                        "en": ["Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf"]
+                        "none": ["Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf"]
                     },
                     "format": "text/html"
                 }
             ],
             "logo": [
                 {
-                    "id": "{{iiif-image-url}}/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpg",
                     "service": [
                         {
-                            "id": "{{iiif-image-url}}",
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2",
                             "type": "ImageService2",
                             "profile": "level2"
                         }
@@ -146,13 +137,6 @@
             "format": "text/html"
         }
     ],
-    "service": [
-        {
-            "id": "https://example.org/service/example",
-            "type": "ExampleExtensionService",
-            "profile": "https://example.org/docs/example-service.html"
-        }
-    ],
     "seeAlso": [
         {
             "id": "https://api.deutsche-digitale-bibliothek.de/items/ITECVBNCDBG5HEIWWI7N3QF7GS3YQGSY",
@@ -161,41 +145,10 @@
             "profile": "https://www.deutsche-digitale-bibliothek.de/ns/cortex"
         }
     ],
-    "rendering": [
-        {
-            "id": "{{iiif-image-url}}.pdf",
-            "type": "Text",
-            "label": {
-                "en": ["Download as PDF"]
-            },
-            "format": "application/pdf"
-        }
-    ],
-    "partOf": [
-        {
-            "id": "https://example.org/collections/books/",
-            "type": "Collection"
-        }
-    ],
     "start": {
-        "id": "{{iiif-image-url}}/canvas/p2",
+        "id": "{{self-url}}/canvas/p1",
         "type": "Canvas"
     },
-    "services": [
-        {
-            "@id": "https://example.org/iiif/auth/login",
-            "@type": "AuthCookieService1",
-            "profile": "http://iiif.io/api/auth/1/login",
-            "label": "Login to Example Institution",
-            "service": [
-                {
-                    "@id": "https://example.org/iiif/auth/token",
-                    "@type": "AuthTokenService1",
-                    "profile": "http://iiif.io/api/auth/1/token"
-                }
-            ]
-        }
-    ],
     "items": [
         {
             "id": "{{self-url}}/canvas/p1",
@@ -207,47 +160,35 @@
             "width": 600,
             "items": [
                 {
-                    "id": "{{iiif-image-url}}/page/p1/1",
+                    "id": "{{self-url}}/page/p1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "{{iiif-image-url}}/annotation/p0001-image",
+                            "id": "{{self-url}}/annotation/p0001-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "{{iiif-image-url}}/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/full/0/default.jpg",
+                                "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/full/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "{{iiif-image-url}}/page1",
+                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/",
                                         "type": "ImageService2",
-                                        "profile": "level2",
-                                        "service": [
-                                            {
-                                                "@id": "https://example.org/iiif/auth/login",
-                                                "@type": "AuthCookieService1"
-                                            }
-                                        ]
+                                        "profile": "level2"
                                     }
                                 ],
-                                "height": 2000,
-                                "width": 1500
+                                "height": 800,
+                                "width": 600
                             },
-                            "target": "{{iiif-image-url}}/canvas/p1"
+                            "target": "{{self-url}}/canvas/p1"
                         }
                     ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "{{iiif-image-url}}/comments/p1/1",
-                    "type": "AnnotationPage"
                 }
             ]
         },
         {
-            "id": "{{iiif-image-url}}/canvas/p2",
+            "id": "{{self-url}}/canvas/p2",
             "type": "Canvas",
             "label": {
                 "none": ["p. 2"]
@@ -256,28 +197,28 @@
             "width": 750,
             "items": [
                 {
-                    "id": "{{iiif-image-url}}/page/p2/1",
+                    "id": "{{self-url}}/page/p2/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "{{iiif-image-url}}/annotation/p0002-image",
+                            "id": "{{self-url}}/annotation/p0002-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "{{iiif-image-url}}/page2/full/max/0/default.jpg",
+                                "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/aef5359e-773a-4f42-9270-7501fbc44706/full/full/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "{{iiif-image-url}}/page2",
+                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/",
                                         "type": "ImageService2",
                                         "profile": "level2"
                                     }
                                 ],
-                                "height": 2000,
-                                "width": 1500
+                                "height": 800,
+                                "width": 600
                             },
-                            "target": "{{iiif-image-url}}/canvas/p2"
+                            "target": "{{self-url}}/canvas/p2"
                         }
                     ]
                 }
@@ -286,55 +227,36 @@
     ],
     "structures": [
         {
-            "id": "{{iiif-image-url}}/range/r0",
+            "id": "{{self-url}}/range/r0",
             "type": "Range",
             "label": {
                 "en": ["Table of Contents"]
             },
             "items": [
                 {
-                    "id": "{{iiif-image-url}}/range/r1",
+                    "id": "{{self-url}}/range/r1",
                     "type": "Range",
                     "label": {
                         "en": ["Introduction"]
                     },
                     "supplementary": {
-                        "id": "{{iiif-image-url}}/annocoll/introTexts",
+                        "id": "{{self-url}}/annocoll/introTexts",
                         "type": "AnnotationCollection"
                     },
                     "items": [
                         {
-                            "id": "{{iiif-image-url}}/canvas/p1",
+                            "id": "{{self-url}}/canvas/p1",
                             "type": "Canvas"
                         },
                         {
                             "type": "SpecificResource",
-                            "source": "{{iiif-image-url}}/canvas/p2",
+                            "source": "{{self-url}}/canvas/p2",
                             "selector": {
                                 "type": "FragmentSelector",
                                 "value": "xywh=0,0,750,300"
                             }
                         }
                     ]
-                }
-            ]
-        }
-    ],
-    "annotations": [
-        {
-            "id": "{{iiif-image-url}}/page/manifest/1",
-            "type": "AnnotationPage",
-            "items": [
-                {
-                    "id": "{{iiif-image-url}}/page/manifest/a1",
-                    "type": "Annotation",
-                    "motivation": "commenting",
-                    "body": {
-                        "type": "TextualBody",
-                        "language": "en",
-                        "value": "I love this manifest!"
-                    },
-                    "target": "{{iiif-image-url}}/manifest"
                 }
             ]
         }
