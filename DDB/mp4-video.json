@@ -24,11 +24,11 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fixtures.iiif.io/video/indiana/lunchroom_manners/high/lunchroom_manners_1024kb.mp4",
+                "id": "https://api.deutsche-digitale-bibliothek.de/binary/4584255e-84af-4c5a-baab-e8bdd19d7eb4",
                 "type": "Video",
                 "height": 360,
                 "width": 480,
-                "duration": 572.034,
+                "duration": 97.0,
                 "format": "video/mp4"
               },
               "target": "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas"
