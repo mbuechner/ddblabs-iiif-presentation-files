@@ -84,14 +84,23 @@
         }
     ],
     "viewingDirection": "right-to-left",
-    "behavior": ["paged"],
+    "behavior": ["individuals"],
     "rights": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/",
+    "requiredStatement": {
+        "label": {
+            "en": ["Attribution"],
+            "de": ["Zuschreibung"]
+        },
+        "value": {
+            "none": ["Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf (requiredStatement)"]
+        }
+    },
     "provider": [
         {
             "id": "https://www.deutsche-digitale-bibliothek.de/organization/6KIBP2IUJLHLDFDZ2LNFZID3Q5XRPXFL",
             "type": "Agent",
             "label": {
-                "none": ["Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf"]
+                "none": ["Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf (provider/label)"]
             },
             "homepage": [
                 {
