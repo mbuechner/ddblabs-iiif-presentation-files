@@ -1,0 +1,276 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "{{self-url}}",
+    "type": "Manifest",
+    "label": {
+        "de": ["Julius Neubronner zaubert"]
+    },
+    "metadata": [
+        {
+            "label": {
+                "de": ["Urheber"]
+            },
+            "value": {
+                "de": ["Julius Neubronner"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Entstanden"]
+            },
+            "value": {
+                "de": ["1904"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Quelle"]
+            },
+            "value": {
+                "none": ["DFF - Deutsches Filminstitut & Filmmuseum"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Sprache"]
+            },
+            "value": {
+                "none": ["Deutsch"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Objekttyp"]
+            },
+            "value": {
+                "none": ["Amateurfilm"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Bezug"]
+            },
+            "value": {
+                "de": [
+                    "Hessen",
+                    "Frühes Kino"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": ["Länge"]
+            },
+            "value": {
+                "none": ["01:37 min"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Geliefert über"]
+            },
+            "value": {
+                "none": ["filmportal.de"]
+            }
+        }
+    ],
+    "summary": {
+        "de": ["Der Kronberger Apotheker und Erfinder Julius Neubronner (1852-1932) war einer der ersten, der in der Rhein-Main-Region Filme drehte. Im Jahre 1903 erwarb er seine erste Kamera, ein \"Kino\", die die Dresdner Foto-Firma herstellte. Mit ihr nahm er historische Ereignisse auf und hielt den Alltag seiner Familie fest. Julius Neubronner drehte aber auch kleine Sketche, von ihm selbst mit seiner Familie auf einer im Garten seines Hauses errichteten Bühne in Szene gesetzt. Dabei experimentierte er auch mit dem Stopp-Trick. \"Julius Neubronner zaubert\" zeigt den Amateurfilmer im Anzug bei der Duchführung mehrerer Zaubertricks: Er stülpt einem Jungen eine Pappröhre über, als die Röhre wieder angehoben wird, ist der Junge verschwunden und statt seiner erscheint ein Mädchen. Aus einem mit Wasser gefüllten, gläsernen Behältnis verschwindet das Wasser und Tauben steigen empor."]
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd/full/80,100/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "service": [
+                {
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "behavior": ["individuals"],
+    "rights": "http://creativecommons.org/publicdomain/mark/1.0/deed.de",
+    "requiredStatement": {
+        "label": {
+            "en": ["Attribution"],
+            "de": ["Zuschreibung"]
+        },
+        "value": {
+            "none": ["DFF - Deutsches Filminstitut & Filmmuseum e.V."]
+        }
+    },
+    "provider": [
+        {
+            "id": "https://www.deutsche-digitale-bibliothek.de/organization/4HYDA3GLAFDI5RL4YZDMXTA5UVGNXO7N",
+            "type": "Agent",
+            "label": {
+                "none": ["DFF - Deutsches Filminstitut & Filmmuseum e.V."]
+            },
+            "homepage": [
+                {
+                    "id": "https://www.deutsche-digitale-bibliothek.de/organization/4HYDA3GLAFDI5RL4YZDMXTA5UVGNXO7N",
+                    "type": "Text",
+                    "label": {
+                        "none": ["DFF - Deutsches Filminstitut & Filmmuseum e.V."]
+                    },
+                    "format": "text/html"
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/3e4797de-e2ba-4756-b86f-acf6fa01e5de/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpg",
+                    "service": [
+                        {
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://www.dff.film/",
+                    "type": "Text",
+                    "format": "text/html"
+                }
+            ]
+        }
+    ],
+    "homepage": [
+        {
+            "id": "https://www.deutsche-digitale-bibliothek.de/item/UODH7ABRU3KEFW4W3LTX2EYKOD6UKANO",
+            "type": "Text",
+            "label": {
+                "none": ["Deutsche Digitale Bibliothek"]
+            },
+            "format": "text/html"
+        }
+    ],
+    "seeAlso": [
+        {
+            "id": "https://api.deutsche-digitale-bibliothek.de/items/UODH7ABRU3KEFW4W3LTX2EYKOD6UKANO",
+            "type": "Dataset",
+            "format": "application/xml",
+            "profile": "https://www.deutsche-digitale-bibliothek.de/ns/cortex"
+        }
+    ],
+    "start": {
+        "id": "{{self-url}}/canvas/p2",
+        "type": "Canvas"
+    },
+    "items": [
+        {
+            "id": "{{self-url}}/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "de": ["Eckfliese HM.1978-187a"]
+            },
+            "height": 800,
+            "width": 600,
+            "items": [
+                {
+                    "id": "{{self-url}}/page/p1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "{{self-url}}/annotation/p0001-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ],
+                                "height": 800,
+                                "width": 600
+                            },
+                            "target": "{{self-url}}/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "{{self-url}}/canvas/p2",
+            "type": "Canvas",
+            "label": {
+                "none": ["Fliese HM.1978-187b"]
+            },
+            "height": 800,
+            "width": 600,
+            "items": [
+                {
+                    "id": "{{self-url}}/page/p2/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "{{self-url}}/annotation/p0002-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.deutsche-digitale-bibliothek.de/binary/4584255e-84af-4c5a-baab-e8bdd19d7eb4.mp4",
+                                "type": "Video",
+                                "height": 360,
+                                "width": 480,
+                                "duration": 96.0,
+                                "format": "video/mp4"
+                            },
+                            "target": "{{self-url}}/canvas/p2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "id": "{{self-url}}/range/r0",
+            "type": "Range",
+            "label": {
+                "de": ["Übersicht"],
+                "en": ["Content"]
+            },
+            "items": [
+                {
+                    "id": "{{self-url}}/range/r1",
+                    "type": "Range",
+                    "label": {
+                        "de": ["Julius Neubronner zaubert, Bild"]
+                    },
+                    "items": [
+                        {
+                            "id": "{{self-url}}/canvas/p1",
+                            "type": "Canvas"
+                        }
+                    ]
+                },
+                {
+                    "id": "{{self-url}}/range/r2",
+                    "type": "Range",
+                    "label": {
+                        "de": ["Julius Neubronner zaubert, Video"]
+                    },
+                    "items": [
+                        {
+                            "id": "{{self-url}}/canvas/p2",
+                            "type": "Canvas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

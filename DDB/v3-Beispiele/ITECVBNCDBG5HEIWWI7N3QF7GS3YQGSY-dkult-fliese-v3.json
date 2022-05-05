@@ -153,7 +153,7 @@
         }
     ],
     "start": {
-        "id": "{{self-url}}/canvas/p2",
+        "id": "{{self-url}}/canvas/p1",
         "type": "Canvas"
     },
     "items": [
