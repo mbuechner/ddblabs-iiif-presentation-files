@@ -3,8 +3,7 @@
     "id": "{{self-url}}",
     "type": "Manifest",
     "label": {
-        "en": ["Tile"],
-        "de": ["Fliese"]
+        "de": ["Villeroy & Boch Fliese von Hetjens-Museum"]
     },
     "metadata": [
         {
@@ -83,7 +82,7 @@
             ]
         }
     ],
-    "viewingDirection": "right-to-left",
+    "viewingDirection": "left-to-right",
     "behavior": ["individuals"],
     "rights": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/",
     "requiredStatement": {
