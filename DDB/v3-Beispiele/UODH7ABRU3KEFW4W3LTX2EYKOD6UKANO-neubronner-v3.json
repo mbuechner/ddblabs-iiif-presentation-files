@@ -24,6 +24,14 @@
         },
         {
             "label": {
+                "de": ["Beschreibung"]
+            },
+            "value": {
+                "de": ["Der Kronberger Apotheker und Erfinder Julius Neubronner (1852-1932) war einer der ersten, der in der Rhein-Main-Region Filme drehte. Im Jahre 1903 erwarb er seine erste Kamera, ein \"Kino\", die die Dresdner Foto-Firma herstellte. Mit ihr nahm er historische Ereignisse auf und hielt den Alltag seiner Familie fest. Julius Neubronner drehte aber auch kleine Sketche, von ihm selbst mit seiner Familie auf einer im Garten seines Hauses errichteten Bühne in Szene gesetzt. Dabei experimentierte er auch mit dem Stopp-Trick. \"Julius Neubronner zaubert\" zeigt den Amateurfilmer im Anzug bei der Duchführung mehrerer Zaubertricks: Er stülpt einem Jungen eine Pappröhre über, als die Röhre wieder angehoben wird, ist der Junge verschwunden und statt seiner erscheint ein Mädchen. Aus einem mit Wasser gefüllten, gläsernen Behältnis verschwindet das Wasser und Tauben steigen empor."]
+            }
+        },
+        {
+            "label": {
                 "de": ["Quelle"]
             },
             "value": {
