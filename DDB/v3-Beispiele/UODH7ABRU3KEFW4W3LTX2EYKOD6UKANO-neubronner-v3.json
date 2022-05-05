@@ -189,7 +189,7 @@
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
+                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd",
                                         "type": "ImageService2",
                                         "profile": "level2"
                                     }
