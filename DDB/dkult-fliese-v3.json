@@ -85,7 +85,6 @@
     ],
     "viewingDirection": "right-to-left",
     "behavior": ["paged"],
-    "navDate": "1856-01-01T00:00:00Z",
     "rights": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/",
     "provider": [
         {
@@ -223,6 +222,43 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "{{self-url}}/canvas/p3",
+            "type": "Canvas",
+            "label": {
+                "none": ["Fliese HM.1978-187c"]
+            },
+            "height": 800,
+            "width": 600,
+            "items": [
+                {
+                    "id": "{{self-url}}/page/p3/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "{{self-url}}/annotation/p0003-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ],
+                                "height": 800,
+                                "width": 600
+                            },
+                            "target": "{{self-url}}/canvas/p3"
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "structures": [
@@ -230,7 +266,8 @@
             "id": "{{self-url}}/range/r0",
             "type": "Range",
             "label": {
-                "de": ["Inhalt"]
+                "de": ["Übersicht"],
+                "en": ["Content"]
             },
             "items": [
                 {
@@ -245,8 +282,9 @@
                             "type": "Canvas"
                         }
                     ]
-                },       {
-                    "id": "{{self-url}}/range/r1",
+                },
+                {
+                    "id": "{{self-url}}/range/r2",
                     "type": "Range",
                     "label": {
                         "de": ["Fliese HM.1978-187b"]
@@ -254,6 +292,19 @@
                     "items": [
                         {
                             "id": "{{self-url}}/canvas/p2",
+                            "type": "Canvas"
+                        }
+                    ]
+                },
+                {
+                    "id": "{{self-url}}/range/r3",
+                    "type": "Range",
+                    "label": {
+                        "de": ["Fliese HM.1978-187c"]
+                    },
+                    "items": [
+                        {
+                            "id": "{{self-url}}/canvas/p3",
                             "type": "Canvas"
                         }
                     ]
