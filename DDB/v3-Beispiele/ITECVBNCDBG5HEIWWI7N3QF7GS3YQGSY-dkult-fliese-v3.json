@@ -144,6 +144,20 @@
             "format": "text/html"
         }
     ],
+    "logo": [
+        {
+            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpg",
+            "service": [
+                {
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
     "seeAlso": [
         {
             "id": "https://api.deutsche-digitale-bibliothek.de/items/ITECVBNCDBG5HEIWWI7N3QF7GS3YQGSY",
