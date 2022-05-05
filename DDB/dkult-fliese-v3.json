@@ -132,7 +132,7 @@
             "id": "https://www.deutsche-digitale-bibliothek.de/item/ITECVBNCDBG5HEIWWI7N3QF7GS3YQGSY",
             "type": "Text",
             "label": {
-                "en": ["Deutsche Digitale Bibliothek"]
+                "none": ["Deutsche Digitale Bibliothek"]
             },
             "format": "text/html"
         }
@@ -146,7 +146,7 @@
         }
     ],
     "start": {
-        "id": "{{self-url}}/canvas/p1",
+        "id": "{{self-url}}/canvas/p2",
         "type": "Canvas"
     },
     "items": [
@@ -191,10 +191,10 @@
             "id": "{{self-url}}/canvas/p2",
             "type": "Canvas",
             "label": {
-                "none": ["p. 2"]
+                "none": ["Fliese HM.1978-187b"]
             },
-            "height": 1000,
-            "width": 750,
+            "height": 800,
+            "width": 600,
             "items": [
                 {
                     "id": "{{self-url}}/page/p2/1",
@@ -230,31 +230,31 @@
             "id": "{{self-url}}/range/r0",
             "type": "Range",
             "label": {
-                "en": ["Table of Contents"]
+                "de": ["Inhalt"]
             },
             "items": [
                 {
                     "id": "{{self-url}}/range/r1",
                     "type": "Range",
                     "label": {
-                        "en": ["Introduction"]
-                    },
-                    "supplementary": {
-                        "id": "{{self-url}}/annocoll/introTexts",
-                        "type": "AnnotationCollection"
+                        "de": ["Eckfliese HM.1978-187a"]
                     },
                     "items": [
                         {
                             "id": "{{self-url}}/canvas/p1",
                             "type": "Canvas"
-                        },
+                        }
+                    ]
+                },       {
+                    "id": "{{self-url}}/range/r1",
+                    "type": "Range",
+                    "label": {
+                        "de": ["Fliese HM.1978-187b"]
+                    },
+                    "items": [
                         {
-                            "type": "SpecificResource",
-                            "source": "{{self-url}}/canvas/p2",
-                            "selector": {
-                                "type": "FragmentSelector",
-                                "value": "xywh=0,0,750,300"
-                            }
+                            "id": "{{self-url}}/canvas/p2",
+                            "type": "Canvas"
                         }
                     ]
                 }
