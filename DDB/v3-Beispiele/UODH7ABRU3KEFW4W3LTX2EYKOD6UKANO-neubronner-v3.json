@@ -161,6 +161,20 @@
             "format": "text/html"
         }
     ],
+    "logo": [
+        {
+            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/3e4797de-e2ba-4756-b86f-acf6fa01e5de/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpg",
+            "service": [
+                {
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
     "seeAlso": [
         {
             "id": "https://api.deutsche-digitale-bibliothek.de/items/UODH7ABRU3KEFW4W3LTX2EYKOD6UKANO",
@@ -173,46 +187,43 @@
         "id": "{{self-url}}/canvas/p2",
         "type": "Canvas"
     },
+    "placeholderCanvas": {
+        "id": "{{self-url}}/canvas/placeholder",
+        "type": "Canvas",
+        "width": 800,
+        "height": 600,
+        "items": [
+            {
+                "id": "https://iiif.io/api/cookbook/recipe/0013-placeholderCanvas/canvas/donizetti/placeholder/1",
+                "type": "AnnotationPage",
+                "items": [
+                    {
+                        "id": "{{self-url}}/annotation/p0001-image",
+                        "type": "Annotation",
+                        "motivation": "painting",
+                        "body": {
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd/full/full/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "service": [
+                                {
+                                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd",
+                                    "type": "ImageService2",
+                                    "profile": "level2"
+                                }
+                            ],
+                            "height": 800,
+                            "width": 600
+                        },
+                        "target": "{{self-url}}/canvas/p1"
+                    }
+                ]
+            }
+        ]
+    },
     "items": [
         {
             "id": "{{self-url}}/canvas/p1",
-            "type": "Canvas",
-            "label": {
-                "de": ["Eckfliese HM.1978-187a"]
-            },
-            "height": 800,
-            "width": 600,
-            "items": [
-                {
-                    "id": "{{self-url}}/page/p1/1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "{{self-url}}/annotation/p0001-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd",
-                                        "type": "ImageService2",
-                                        "profile": "level2"
-                                    }
-                                ],
-                                "height": 800,
-                                "width": 600
-                            },
-                            "target": "{{self-url}}/canvas/p1"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "{{self-url}}/canvas/p2",
             "type": "Canvas",
             "label": {
                 "none": ["Fliese HM.1978-187b"]
@@ -236,7 +247,7 @@
                                 "duration": 96.0,
                                 "format": "video/mp4"
                             },
-                            "target": "{{self-url}}/canvas/p2"
+                            "target": "{{self-url}}/canvas/p1"
                         }
                     ]
                 }
@@ -253,27 +264,14 @@
             },
             "items": [
                 {
-                    "id": "{{self-url}}/range/r1",
+                    "id": "{{self-url}}/range/r2",
                     "type": "Range",
                     "label": {
-                        "de": ["Julius Neubronner zaubert, Bild"]
+                        "de": ["Julius Neubronner zaubert"]
                     },
                     "items": [
                         {
                             "id": "{{self-url}}/canvas/p1",
-                            "type": "Canvas"
-                        }
-                    ]
-                },
-                {
-                    "id": "{{self-url}}/range/r2",
-                    "type": "Range",
-                    "label": {
-                        "de": ["Julius Neubronner zaubert, Video"]
-                    },
-                    "items": [
-                        {
-                            "id": "{{self-url}}/canvas/p2",
                             "type": "Canvas"
                         }
                     ]

@@ -200,7 +200,17 @@
                                     }
                                 ],
                                 "height": 800,
-                                "width": 600
+                                "width": 600,
+                                "metadata": [
+                                    {
+                                        "label": {
+                                            "de": ["Beschreibung"]
+                                        },
+                                        "value": {
+                                            "de": ["Eckfliese HM.1978-187a"]
+                                        }
+                                    }
+                                ]
                             },
                             "target": "{{self-url}}/canvas/p1"
                         }
@@ -237,7 +247,17 @@
                                     }
                                 ],
                                 "height": 800,
-                                "width": 600
+                                "width": 600,
+                                "metadata": [
+                                    {
+                                        "label": {
+                                            "de": ["Beschreibung"]
+                                        },
+                                        "value": {
+                                            "de": ["Fliese HM.1978-187b"]
+                                        }
+                                    }
+                                ]
                             },
                             "target": "{{self-url}}/canvas/p2"
                         }
@@ -274,7 +294,17 @@
                                     }
                                 ],
                                 "height": 800,
-                                "width": 600
+                                "width": 600,
+                                "metadata": [
+                                    {
+                                        "label": {
+                                            "de": ["Beschreibung"]
+                                        },
+                                        "value": {
+                                            "de": ["Fliese HM.1978-187c"]
+                                        }
+                                    }
+                                ]
                             },
                             "target": "{{self-url}}/canvas/p3"
                         }
