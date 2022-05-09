@@ -240,6 +240,26 @@
                     "type": "AnnotationPage",
                     "items": [
                         {
+                            "id": "{{self-url}}/annotation/p0002-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/5e8456a1-cf17-4d78-8a17-02bca068ab94/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/5e8456a1-cf17-4d78-8a17-02bca068ab94",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ],
+                                "height": 800,
+                                "width": 600
+                            },
+                            "target": "{{self-url}}/canvas/p2"
+                        },
+                        {
                             "id": "{{self-url}}/annotation/p0001-image",
                             "type": "Annotation",
                             "motivation": "painting",
