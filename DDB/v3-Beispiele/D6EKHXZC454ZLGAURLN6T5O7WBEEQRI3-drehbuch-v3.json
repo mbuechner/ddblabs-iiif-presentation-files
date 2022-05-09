@@ -8,24 +8,80 @@
     "metadata": [
         {
             "label": {
-                "de": ["Maße"]
+                "de": ["Urheber"]
             },
             "value": {
-                "de": ["(H x B): 15 x 15 cm"]
+                "de": ["Rudolf Zehetgruber"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Entstanden"]
+            },
+            "value": {
+                "de": ["1965"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Beschreibung"]
+            },
+            "value": {
+                "de": ["Drehbuch (2. Fassung, Auszug) von \"Mädchen hinter Gittern\", mit handschriftlichen Korrekturen von Artur Brauner; Screenplay (2nd version, excerpt) of \"Mädchen hinter Gittern\", with handwritten revisions by Artur Brauner."]
+            }
+        },
+        {
+            "label": {
+                "de": ["Quelle"]
+            },
+            "value": {
+                "de": ["Artur Brauner-Archiv im DFF - Deutsches Filminstitut & Filmmuseum"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Sprache"]
+            },
+            "value": {
+                "de": ["Deutsch"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Objekttyp"]
+            },
+            "value": {
+                "de": ["Drehbuch"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Geliefert über"]
+            },
+            "value": {
+                "de": ["<a href=\"https://www.deutsche-digitale-bibliothek.de/organization/IXNF7757AMQEYL3XWUKQBDWLWT2UQ7LU\">filmportal.de</a>"]
+            }
+        },
+        {
+            "label": {
+                "de": ["Rechteinformation"]
+            },
+            "value": {
+                "de": ["Rechteinformationen beim Provider klären"]
             }
         }
     ],
     "summary": {
-        "de": ["Fliese, Keramik, Villeroy & Boch, Mettlach, um 1900 Fliese mit Dekor in Grün, Weiß und hellem Gelb, das sich über die Grenzen der Fliese fortsetzt. Ebenfalls zu beachten sind daher die Inventarnummern HM.1978-187a und b."]
+        "de": ["Drehbuch (2. Fassung, Auszug) von \"Mädchen hinter Gittern\", mit handschriftlichen Korrekturen von Artur Brauner; Screenplay (2nd version, excerpt) of \"Mädchen hinter Gittern\", with handwritten revisions by Artur Brauner."]
     },
     "thumbnail": [
         {
-            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/80,100/0/default.jpg",
+            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8fac26ef-8b2d-47ef-94c3-259326c82ac4/full/80,100/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "service": [
                 {
-                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8fac26ef-8b2d-47ef-94c3-259326c82ac4",
                     "type": "ImageService2",
                     "profile": "level2"
                 }
@@ -34,41 +90,41 @@
     ],
     "viewingDirection": "left-to-right",
     "behavior": ["individuals"],
-    "rights": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/",
+    "rights": "http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/",
     "requiredStatement": {
         "label": {
             "en": ["Attribution"],
             "de": ["Zuschreibung"]
         },
         "value": {
-            "none": ["Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf (requiredStatement)"]
+            "none": ["DFF - Deutsches Filminstitut & Filmmuseum e.V."]
         }
     },
     "provider": [
         {
-            "id": "https://www.deutsche-digitale-bibliothek.de/organization/6KIBP2IUJLHLDFDZ2LNFZID3Q5XRPXFL",
+            "id": "https://www.deutsche-digitale-bibliothek.de/organization/4HYDA3GLAFDI5RL4YZDMXTA5UVGNXO7N",
             "type": "Agent",
             "label": {
-                "none": ["Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf (provider/label)"]
+                "de": ["DFF - Deutsches Filminstitut & Filmmuseum e.V."]
             },
             "homepage": [
                 {
-                    "id": "https://www.deutsche-digitale-bibliothek.de/organization/6KIBP2IUJLHLDFDZ2LNFZID3Q5XRPXFL",
+                    "id": "https://www.deutsche-digitale-bibliothek.de/organization/4HYDA3GLAFDI5RL4YZDMXTA5UVGNXO7N",
                     "type": "Text",
                     "label": {
-                        "none": ["Hetjens-Museum - Deutsches Keramikmuseum, Düsseldorf"]
+                        "de": ["DFF - Deutsches Filminstitut & Filmmuseum e.V."]
                     },
                     "format": "text/html"
                 }
             ],
             "logo": [
                 {
-                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/3e4797de-e2ba-4756-b86f-acf6fa01e5de/full/full/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpg",
                     "service": [
                         {
-                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270",
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/3e4797de-e2ba-4756-b86f-acf6fa01e5de",
                             "type": "ImageService2",
                             "profile": "level2"
                         }
@@ -77,7 +133,7 @@
             ],
             "seeAlso": [
                 {
-                    "id": "https://emuseum.duesseldorf.de/",
+                    "id": "https://www.dff.film/",
                     "type": "Text",
                     "format": "text/html"
                 }
@@ -86,7 +142,7 @@
     ],
     "homepage": [
         {
-            "id": "https://www.deutsche-digitale-bibliothek.de/item/ITECVBNCDBG5HEIWWI7N3QF7GS3YQGSY",
+            "id": "https://www.deutsche-digitale-bibliothek.de/item/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3",
             "type": "Text",
             "label": {
                 "none": ["Deutsche Digitale Bibliothek"]
@@ -96,12 +152,12 @@
     ],
     "logo": [
         {
-            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270/full/full/0/default.jpg",
+            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/3e4797de-e2ba-4756-b86f-acf6fa01e5de/full/full/0/default.jpg",
             "type": "Image",
             "format": "image/jpg",
             "service": [
                 {
-                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270",
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/3e4797de-e2ba-4756-b86f-acf6fa01e5de",
                     "type": "ImageService2",
                     "profile": "level2"
                 }
@@ -110,20 +166,22 @@
     ],
     "seeAlso": [
         {
-            "id": "https://api.deutsche-digitale-bibliothek.de/items/ITECVBNCDBG5HEIWWI7N3QF7GS3YQGSY",
+            "id": "https://api.deutsche-digitale-bibliothek.de/items/D6EKHXZC454ZLGAURLN6T5O7WBEEQRI3",
             "type": "Dataset",
             "format": "application/xml",
             "profile": "https://www.deutsche-digitale-bibliothek.de/ns/cortex"
         }
     ],
-     "rendering": [
-    {
-      "id": "https://api.deutsche-digitale-bibliothek.de/binary/8fac26ef-8b2d-47ef-94c3-259326c82ac4.pdf",
-      "type": "Text",
-      "label": { "de": [ "PDF-Ansicht" ] },
-      "format": "application/pdf"
-    }
-  ],
+    "rendering": [
+        {
+            "id": "https://api.deutsche-digitale-bibliothek.de/binary/8fac26ef-8b2d-47ef-94c3-259326c82ac4.pdf",
+            "type": "Text",
+            "label": {
+                "de": ["PDF-Ansicht"]
+            },
+            "format": "application/pdf"
+        }
+    ],
     "start": {
         "id": "{{self-url}}/canvas/p1",
         "type": "Canvas"
@@ -133,7 +191,7 @@
             "id": "{{self-url}}/canvas/p1",
             "type": "Canvas",
             "label": {
-                "de": ["Eckfliese HM.1978-187a"]
+                "de": ["Drehbuch (2. Fassung, Auszug), mit handschriftlichen Korrekturen von Artur Brauner."]
             },
             "height": 800,
             "width": 600,
@@ -165,7 +223,10 @@
                                             "de": ["Beschreibung"]
                                         },
                                         "value": {
-                                            "de": ["Drehbuch (2. Fassung, Auszug), mit handschriftlichen Korrekturen von Artur Brauner.", "Quelle: Artur Brauner-Archiv im DFF - Deutsches Filminstitut & Filmmuseum"]
+                                            "de": [
+                                                "Drehbuch (2. Fassung, Auszug), mit handschriftlichen Korrekturen von Artur Brauner.",
+                                                "Quelle: Artur Brauner-Archiv im DFF - Deutsches Filminstitut & Filmmuseum"
+                                            ]
                                         }
                                     }
                                 ]
@@ -175,14 +236,14 @@
                     ]
                 }
             ]
-        }      
+        }
     ],
     "structures": [
         {
             "id": "{{self-url}}/range/r0",
             "type": "Range",
             "label": {
-                "de": ["Übersicht"],
+                "de": ["Inhalt"],
                 "en": ["Content"]
             },
             "items": [
@@ -190,37 +251,11 @@
                     "id": "{{self-url}}/range/r1",
                     "type": "Range",
                     "label": {
-                        "de": ["Eckfliese HM.1978-187a"]
+                        "de": ["Drehbuch (2. Fassung, Auszug), mit handschriftlichen Korrekturen von Artur Brauner."]
                     },
                     "items": [
                         {
                             "id": "{{self-url}}/canvas/p1",
-                            "type": "Canvas"
-                        }
-                    ]
-                },
-                {
-                    "id": "{{self-url}}/range/r2",
-                    "type": "Range",
-                    "label": {
-                        "de": ["Fliese HM.1978-187b"]
-                    },
-                    "items": [
-                        {
-                            "id": "{{self-url}}/canvas/p2",
-                            "type": "Canvas"
-                        }
-                    ]
-                },
-                {
-                    "id": "{{self-url}}/range/r3",
-                    "type": "Range",
-                    "label": {
-                        "de": ["Fliese HM.1978-187c"]
-                    },
-                    "items": [
-                        {
-                            "id": "{{self-url}}/canvas/p3",
                             "type": "Canvas"
                         }
                     ]
