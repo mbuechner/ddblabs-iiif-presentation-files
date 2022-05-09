@@ -319,81 +319,66 @@
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "{{self-url}}/annotation/p0002-image",
+                            "id": "{{self-url}}/annotation/p0001-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/aef5359e-773a-4f42-9270-7501fbc44706/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/aef5359e-773a-4f42-9270-7501fbc44706",
-                                        "type": "ImageService2",
-                                        "profile": "level2"
-                                    }
-                                ],
-                                "height": 800,
-                                "width": 600,
+                                "id": "https://api.deutsche-digitale-bibliothek.de/binary/0a1e6900-b6ff-4e0d-a743-b505c3722b62.mp4",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": 262,
+                                "accompanyingCanvas": {
+                                    "id": "{{self-url}}/canvas/accompanying2",
+                                    "type": "Canvas",
+                                    "label": {
+                                        "de": ["Der Engel / von Richard Wagner"]
+                                    },
+                                    "height": 800,
+                                    "width": 600,
+                                    "items": [
+                                        {
+                                            "id": "{{self-url}}/accompanying/annotation/page",
+                                            "type": "AnnotationPage",
+                                            "items": [
+                                                {
+                                                    "id": "{{self-url}}/annotation/p0002-image",
+                                                    "type": "Annotation",
+                                                    "motivation": "painting",
+                                                    "body": {
+                                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/4debf0ab-597a-41ea-a10c-c19b8332f861/full/full/0/default.jpg",
+                                                        "type": "Image",
+                                                        "format": "image/jpeg",
+                                                        "service": [
+                                                            {
+                                                                "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/4debf0ab-597a-41ea-a10c-c19b8332f861",
+                                                                "type": "ImageService2",
+                                                                "profile": "level2"
+                                                            }
+                                                        ],
+                                                        "height": 800,
+                                                        "width": 600
+                                                    },
+                                                    "target": "{{self-url}}/canvas/p2"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 "metadata": [
                                     {
                                         "label": {
                                             "de": ["Beschreibung"]
                                         },
                                         "value": {
-                                            "de": ["Fliese HM.1978-187b"]
+                                            "de": [
+                                                "Träume / von Richard Wagner",
+                                                "Audio: Sächsische Landesbibliothek \u2013 Staats- und Universitätsbibliothek Dresden, Quelle: Sächsische Landesbibliothek \u2013 Staats- und Universitätsbibliothek Dresden"
+                                            ]
                                         }
                                     }
                                 ]
                             },
-                            "target": "{{self-url}}/canvas/p2"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "{{self-url}}/canvas/p3",
-            "type": "Canvas",
-            "label": {
-                "none": ["Fliese HM.1978-187c"]
-            },
-            "height": 800,
-            "width": 600,
-            "items": [
-                {
-                    "id": "{{self-url}}/page/p3/1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "{{self-url}}/annotation/p0003-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/ff7d6194-77dd-44d4-a228-5ec64b49690d",
-                                        "type": "ImageService2",
-                                        "profile": "level2"
-                                    }
-                                ],
-                                "height": 800,
-                                "width": 600,
-                                "metadata": [
-                                    {
-                                        "label": {
-                                            "de": ["Beschreibung"]
-                                        },
-                                        "value": {
-                                            "de": ["Fliese HM.1978-187c"]
-                                        }
-                                    }
-                                ]
-                            },
-                            "target": "{{self-url}}/canvas/p3"
+                            "target": "{{self-url}}/canvas/p1"
                         }
                     ]
                 }
@@ -405,7 +390,7 @@
             "id": "{{self-url}}/range/r0",
             "type": "Range",
             "label": {
-                "de": ["Übersicht"],
+                "de": ["Inhalt"],
                 "en": ["Content"]
             },
             "items": [
@@ -413,7 +398,7 @@
                     "id": "{{self-url}}/range/r1",
                     "type": "Range",
                     "label": {
-                        "de": ["Eckfliese HM.1978-187a"]
+                        "de": ["Träume / von Richard Wagner"]
                     },
                     "items": [
                         {
@@ -426,24 +411,11 @@
                     "id": "{{self-url}}/range/r2",
                     "type": "Range",
                     "label": {
-                        "de": ["Fliese HM.1978-187b"]
+                        "de": ["Der Engel / von Richard Wagner"]
                     },
                     "items": [
                         {
                             "id": "{{self-url}}/canvas/p2",
-                            "type": "Canvas"
-                        }
-                    ]
-                },
-                {
-                    "id": "{{self-url}}/range/r3",
-                    "type": "Range",
-                    "label": {
-                        "de": ["Fliese HM.1978-187c"]
-                    },
-                    "items": [
-                        {
-                            "id": "{{self-url}}/canvas/p3",
                             "type": "Canvas"
                         }
                     ]
