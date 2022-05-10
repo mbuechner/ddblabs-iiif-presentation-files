@@ -86,7 +86,7 @@
                 "de": ["Standort"]
             },
             "value": {
-                "de": ["Sächsische Landesbibliothek \u2013 Staats- und Universitätsbibliothek Dresden"]
+                "de": ["Sächsische Landesbibliothek & Staats- und Universitätsbibliothek Dresden"]
             }
         },
         {
@@ -116,7 +116,7 @@
                 "de": ["Rechteinformation"]
             },
             "value": {
-                "de": ["Sächsische Landesbibliothek \u2013 Staats- und Universitätsbibliothek Dresden"]
+                "de": ["Sächsische Landesbibliothek & Staats- und Universitätsbibliothek Dresden"]
             }
         }
     ],
@@ -293,7 +293,7 @@
                                         "value": {
                                             "de": [
                                                 "Träume / von Richard Wagner",
-                                                "Audio: Sächsische Landesbibliothek \u2013 Staats- und Universitätsbibliothek Dresden, Quelle: Sächsische Landesbibliothek \u2013 Staats- und Universitätsbibliothek Dresden"
+                                                "Audio: Sächsische Landesbibliothek & Staats- und Universitätsbibliothek Dresden, Quelle: Sächsische Landesbibliothek & Staats- und Universitätsbibliothek Dresden"
                                             ]
                                         }
                                     }
@@ -309,7 +309,7 @@
             "id": "{{self-url}}/canvas/p2",
             "type": "Canvas",
             "label": {
-                "none": ["Fliese HM.1978-187b"]
+                "none": ["Der Engel / von Richard Wagner"]
             },
             "height": 800,
             "width": 600,
@@ -326,7 +326,7 @@
                                 "id": "https://api.deutsche-digitale-bibliothek.de/binary/0a1e6900-b6ff-4e0d-a743-b505c3722b62.mp4",
                                 "type": "Sound",
                                 "format": "audio/mp4",
-                                "duration": 262,
+                                "duration": 173,
                                 "accompanyingCanvas": {
                                     "id": "{{self-url}}/canvas/accompanying2",
                                     "type": "Canvas",
@@ -372,7 +372,7 @@
                                         "value": {
                                             "de": [
                                                 "Träume / von Richard Wagner",
-                                                "Audio: Sächsische Landesbibliothek \u2013 Staats- und Universitätsbibliothek Dresden, Quelle: Sächsische Landesbibliothek \u2013 Staats- und Universitätsbibliothek Dresden"
+                                                "Audio: Sächsische Landesbibliothek & Staats- und Universitätsbibliothek Dresden, Quelle: Sächsische Landesbibliothek & Staats- und Universitätsbibliothek Dresden"
                                             ]
                                         }
                                     }
