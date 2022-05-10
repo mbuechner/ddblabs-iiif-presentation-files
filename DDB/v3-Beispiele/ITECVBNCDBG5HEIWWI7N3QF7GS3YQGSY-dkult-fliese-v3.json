@@ -21,7 +21,10 @@
                 "de": ["Beschreibung"]
             },
             "value": {
-                "de": ["Fliese, Keramik, Villeroy & Boch, Mettlach, um 1900<br/>Fliese mit Dekor in Grün, Weiß und hellem Gelb, das sich über die Grenzen der Fliese fortsetzt. Ebenfalls zu beachten sind daher die Inventarnummern HM.1978-187b und c. "]
+                "de": [
+                    "Fliese, Keramik, Villeroy & Boch, Mettlach, um 1900",
+                    "Fliese mit Dekor in Grün, Weiß und hellem Gelb, das sich über die Grenzen der Fliese fortsetzt. Ebenfalls zu beachten sind daher die Inventarnummern HM.1978-187b und c."
+                ]
             }
         },
         {
@@ -70,7 +73,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/80,100/0/default.jpg",
+            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e/full/200,/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "service": [

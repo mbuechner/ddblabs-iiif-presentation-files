@@ -11,7 +11,7 @@
                 "de": ["Urheber"]
             },
             "value": {
-                "de": ["Rudolf Zehetgruber"]
+                "none": ["Rudolf Zehetgruber"]
             }
         },
         {
@@ -19,7 +19,7 @@
                 "de": ["Entstanden"]
             },
             "value": {
-                "de": ["1965"]
+                "none": ["1965"]
             }
         },
         {
@@ -76,7 +76,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8fac26ef-8b2d-47ef-94c3-259326c82ac4/full/80,100/0/default.jpg",
+            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8fac26ef-8b2d-47ef-94c3-259326c82ac4/full/200,/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "service": [
