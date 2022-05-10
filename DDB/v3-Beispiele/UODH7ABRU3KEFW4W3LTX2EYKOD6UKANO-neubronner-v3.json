@@ -11,7 +11,7 @@
                 "de": ["Urheber"]
             },
             "value": {
-                "de": ["Julius Neubronner"]
+                "none": ["Julius Neubronner"]
             }
         },
         {
@@ -19,7 +19,7 @@
                 "de": ["Entstanden"]
             },
             "value": {
-                "de": ["1904"]
+                "none": ["1904"]
             }
         },
         {
@@ -43,7 +43,7 @@
                 "de": ["Sprache"]
             },
             "value": {
-                "none": ["Deutsch"]
+                "de": ["Deutsch"]
             }
         },
         {
@@ -51,7 +51,7 @@
                 "de": ["Objekttyp"]
             },
             "value": {
-                "none": ["Amateurfilm"]
+                "de": ["Amateurfilm"]
             }
         },
         {
@@ -78,7 +78,7 @@
                 "de": ["Geliefert über"]
             },
             "value": {
-                "none": ["filmportal.de"]
+                "none": ["<a href=\"https://www.filmportal.de/\">filmportal.de</a>"]
             }
         }
     ],
@@ -87,12 +87,12 @@
     },
     "thumbnail": [
         {
-            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd/full/80,100/0/default.jpg",
+            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd/full/200,/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "service": [
                 {
-                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8eaffe63-09a9-4f97-8eb7-2a470d74e98e",
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/76d213b4-9dfe-41af-af4b-4d8d4d7adcfd",
                     "type": "ImageService2",
                     "profile": "level2"
                 }
@@ -135,7 +135,7 @@
                     "format": "image/jpg",
                     "service": [
                         {
-                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270",
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/3e4797de-e2ba-4756-b86f-acf6fa01e5de",
                             "type": "ImageService2",
                             "profile": "level2"
                         }
@@ -168,7 +168,7 @@
             "format": "image/jpg",
             "service": [
                 {
-                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8d9910a7-ac24-49de-9c6b-c9b4fccce270",
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/3e4797de-e2ba-4756-b86f-acf6fa01e5de",
                     "type": "ImageService2",
                     "profile": "level2"
                 }
@@ -184,7 +184,7 @@
         }
     ],
     "start": {
-        "id": "{{self-url}}/canvas/p2",
+        "id": "{{self-url}}/canvas/p1",
         "type": "Canvas"
     },
     "placeholderCanvas": {
@@ -194,11 +194,11 @@
         "height": 600,
         "items": [
             {
-                "id": "https://iiif.io/api/cookbook/recipe/0013-placeholderCanvas/canvas/donizetti/placeholder/1",
+                "id": "{{self-url}}/canvas/placeholder/1",
                 "type": "AnnotationPage",
                 "items": [
                     {
-                        "id": "{{self-url}}/annotation/p0001-image",
+                        "id": "{{self-url}}/canvas/placeholder/1-image",
                         "type": "Annotation",
                         "motivation": "painting",
                         "body": {
@@ -215,7 +215,7 @@
                             "height": 800,
                             "width": 600
                         },
-                        "target": "{{self-url}}/canvas/p1"
+                        "target": "{{self-url}}/canvas/placeholder"
                     }
                 ]
             }
@@ -226,13 +226,11 @@
             "id": "{{self-url}}/canvas/p1",
             "type": "Canvas",
             "label": {
-                "none": ["Fliese HM.1978-187b"]
+                "de": ["Julius Neubronner zaubert"]
             },
-            "height": 800,
-            "width": 600,
             "items": [
                 {
-                    "id": "{{self-url}}/page/p2/1",
+                    "id": "{{self-url}}/page/p1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
@@ -259,12 +257,12 @@
             "id": "{{self-url}}/range/r0",
             "type": "Range",
             "label": {
-                "de": ["Übersicht"],
+                "de": ["Inhalt"],
                 "en": ["Content"]
             },
             "items": [
                 {
-                    "id": "{{self-url}}/range/r2",
+                    "id": "{{self-url}}/range/r1",
                     "type": "Range",
                     "label": {
                         "de": ["Julius Neubronner zaubert"]
