@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "{{self-url}}",
     "type": "Manifest",
-        "label": {
+    "label": {
         "en": ["Simple Manifest - Frachtschiff"]
     },
     "behavior": ["paged"],
@@ -63,31 +63,6 @@
                             "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/410f4523-0424-4d38-a692-3f68fda5a5d5",
                             "type": "ImageService2",
                             "profile": "level2"
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "structures": [
-        {
-            "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/range/r0",
-            "type": "Range",
-            "label": {
-                "de": ["Übersicht"],
-                "en": ["Content"]
-            },
-            "items": [
-                {
-                    "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/range/r1",
-                    "type": "Range",
-                    "label": {
-                        "de": ["Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140 | Digitales Objekt, Quelle: Peter Tamm Sen. Stiftung, Hamburg"]
-                    },
-                    "items": [
-                        {
-                            "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1",
-                            "type": "Canvas"
                         }
                     ]
                 }
