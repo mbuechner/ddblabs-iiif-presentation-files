@@ -2,15 +2,10 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "{{self-url}}",
     "type": "Manifest",
-    "label": {
-        "de": ["Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140"]
+        "label": {
+        "en": ["Simple Manifest - Frachtschiff"]
     },
-    "viewingDirection": "left-to-right",
     "behavior": ["individuals"],
-    "start": {
-        "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1",
-        "type": "Canvas"
-    },
     "items": [
         {
             "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1",
