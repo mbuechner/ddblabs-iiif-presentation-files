@@ -5,23 +5,23 @@
         "label": {
         "en": ["Simple Manifest - Frachtschiff"]
     },
-    "behavior": ["individuals"],
+    "behavior": ["paged"],
     "items": [
         {
-            "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1",
+            "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1",
             "type": "Canvas",
             "label": {
-                "de": ["Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140 | Digitales Objekt, Quelle: Peter Tamm Sen. Stiftung, Hamburg"]
+                "de": ["Blank page"]
             },
             "height": 1155,
             "width": 1732,
             "items": [
                 {
-                    "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1/1",
+                    "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/annotation/p0001-image",
+                            "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0001-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -48,7 +48,7 @@
                                     }
                                 ]
                             },
-                            "target": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1/1"
+                            "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1/1"
                         }
                     ]
                 }
@@ -71,7 +71,7 @@
     ],
     "structures": [
         {
-            "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/r0",
+            "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/range/r0",
             "type": "Range",
             "label": {
                 "de": ["Übersicht"],
@@ -79,14 +79,14 @@
             },
             "items": [
                 {
-                    "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/r1",
+                    "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/range/r1",
                     "type": "Range",
                     "label": {
                         "de": ["Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140 | Digitales Objekt, Quelle: Peter Tamm Sen. Stiftung, Hamburg"]
                     },
                     "items": [
                         {
-                            "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1",
+                            "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1",
                             "type": "Canvas"
                         }
                     ]
