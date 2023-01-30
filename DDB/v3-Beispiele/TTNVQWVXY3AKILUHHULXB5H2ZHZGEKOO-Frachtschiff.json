@@ -11,13 +11,13 @@
             "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1",
             "type": "Canvas",
             "label": {
-                "de": ["Blank page"]
+                "en": ["Blank page"]
             },
             "height": 1155,
             "width": 1732,
             "items": [
                 {
-                    "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1/1",
+                    "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
@@ -28,6 +28,8 @@
                                 "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/410f4523-0424-4d38-a692-3f68fda5a5d5/full/full/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
+                                "height": 1155,
+                                "width": 1732,
                                 "service": [
                                     {
                                         "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/410f4523-0424-4d38-a692-3f68fda5a5d5",
@@ -35,8 +37,7 @@
                                         "profile": "level2"
                                     }
                                 ],
-                                "height": 1155,
-                                "width": 1732,
+
                                 "metadata": [
                                     {
                                         "label": {
@@ -49,20 +50,6 @@
                                 ]
                             },
                             "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1/1"
-                        }
-                    ]
-                }
-            ],
-            "thumbnail": [
-                {
-                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/410f4523-0424-4d38-a692-3f68fda5a5d5/full/full/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "service": [
-                        {
-                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/410f4523-0424-4d38-a692-3f68fda5a5d5",
-                            "type": "ImageService2",
-                            "profile": "level2"
                         }
                     ]
                 }
