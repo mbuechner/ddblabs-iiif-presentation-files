@@ -1,0 +1,102 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO",
+    "type": "Manifest",
+    "label": {
+        "de": ["Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140"]
+    },
+    "viewingDirection": "left-to-right",
+    "behavior": ["individuals"],
+    "start": {
+        "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1",
+        "type": "Canvas"
+    },
+    "items": [
+        {
+            "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "de": ["Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140 | Digitales Objekt, Quelle: Peter Tamm Sen. Stiftung, Hamburg"]
+            },
+            "height": 1155,
+            "width": 1732,
+            "items": [
+                {
+                    "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/annotation/p0001-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/410f4523-0424-4d38-a692-3f68fda5a5d5/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/410f4523-0424-4d38-a692-3f68fda5a5d5",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ],
+                                "height": 1155,
+                                "width": 1732,
+                                "metadata": [
+                                    {
+                                        "label": {
+                                            "de": ["Beschreibung"]
+                                        },
+                                        "value": {
+                                            "de": ["Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140 | Digitales Objekt, Quelle: Peter Tamm Sen. Stiftung, Hamburg"]
+                                        }
+                                    }
+                                ]
+                            },
+                            "target": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/410f4523-0424-4d38-a692-3f68fda5a5d5/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/410f4523-0424-4d38-a692-3f68fda5a5d5",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/r0",
+            "type": "Range",
+            "label": {
+                "de": ["Übersicht"],
+                "en": ["Content"]
+            },
+            "items": [
+                {
+                    "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/r1",
+                    "type": "Range",
+                    "label": {
+                        "de": ["Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140 | Digitales Objekt, Quelle: Peter Tamm Sen. Stiftung, Hamburg"]
+                    },
+                    "items": [
+                        {
+                            "id": "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/p1",
+                            "type": "Canvas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
