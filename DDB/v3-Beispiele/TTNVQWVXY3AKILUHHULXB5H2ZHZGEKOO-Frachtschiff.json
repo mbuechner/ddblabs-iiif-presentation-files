@@ -36,20 +36,9 @@
                                         "type": "ImageService2",
                                         "profile": "level2"
                                     }
-                                ],
-
-                                "metadata": [
-                                    {
-                                        "label": {
-                                            "de": ["Beschreibung"]
-                                        },
-                                        "value": {
-                                            "de": ["Auriga (1967), Frachtschiff, Argo Reederei Richard Adler & Söhne, Bremen, Bau-Nr. 1140 | Digitales Objekt, Quelle: Peter Tamm Sen. Stiftung, Hamburg"]
-                                        }
-                                    }
                                 ]
                             },
-                            "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1/1"
+                            "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1"
                         }
                     ]
                 }
