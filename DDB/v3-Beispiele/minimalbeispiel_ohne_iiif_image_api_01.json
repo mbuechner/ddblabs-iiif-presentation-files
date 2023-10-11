@@ -32,8 +32,9 @@
                                 "width": 1516,
                                 "service": [
                                     {
-                                        "id": "https://example.org/myfileservice",
-                                        "type": "FileService"
+                                        "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0001-image",
+                                        "type": "ExampleExtensionService",
+                                        "profile": "https://example.org/docs/service"
                                     }
                                 ]
                             },
