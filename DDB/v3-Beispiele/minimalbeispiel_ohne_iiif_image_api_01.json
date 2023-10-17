@@ -8,35 +8,32 @@
     "behavior": ["paged"],
     "items": [
         {
-            "id": "{{self-url}}/canvas/2",
+            "id": "{{self-url}}/canvas/1",
             "type": "Canvas",
             "label": {
                 "de": ["Peterchens Mondfahrt"]
             },
             "height": 2000,
             "width": 2199,
-            "thumbnail": [
+            "items": [
                 {
-                    "id": "https://pic.sub.uni-hamburg.de/PPN1725288486/200/0/00000001.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "width": 200,
-                    "height": 220
-                }
-            ],
-            "images": [
-                {
-                    "id": "{{self-url}}/canvas/2/annotation/1",
-                    "type": "Annotation",
-                    "motivation": "painting",
-                    "resource": {
-                        "id": "https://pic.sub.uni-hamburg.de/PPN1725288486/2000/0/00000001.jpg",
-                        "type": "Image",
-                        "format": "image/jpeg",
-                        "height": 2000,
-                        "width": 2199
-                    },
-                    "on": "{{self-url}}/canvas/2"
+                    "id": "{{self-url}}/page/p1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "{{self-url}}/canvas/2/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "resource": {
+                                "id": "https://pic.sub.uni-hamburg.de/PPN1725288486/2000/0/00000001.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 2199
+                            },
+                            "target": "{{self-url}}/canvas/p1"
+                        }
+                    ]
                 }
             ]
         }
