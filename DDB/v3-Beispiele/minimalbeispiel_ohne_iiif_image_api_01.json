@@ -8,25 +8,35 @@
     "behavior": ["paged"],
     "items": [
         {
-            "@id": "http://example.com/canvas/2",
-            "@type": "sc:Canvas",
-            "label": "Peterchens Mondfahrt",
-            "height": 3024,
-            "width": 4032,
-            "thumbnail": "https://pic.sub.uni-hamburg.de/PPN1725288486/2000/0/00000001.jpg",
+            "id": "{{self-url}}/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "de": ["Peterchens Mondfahrt"]
+            },
+            "height": 2000,
+            "width": 2199,
+            "thumbnail": [
+                {
+                    "id": "https://pic.sub.uni-hamburg.de/PPN1725288486/200/0/00000001.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 200,
+                    "height": 220
+                }
+            ],
             "images": [
                 {
-                    "@id": "http://example.com/canvas/2/annotation/1",
-                    "@type": "oa:Annotation",
-                    "motivation": "sc:painting",
+                    "id": "{{self-url}}/canvas/2/annotation/1",
+                    "type": "Annotation",
+                    "motivation": "painting",
                     "resource": {
-                        "@id": "https://pic.sub.uni-hamburg.de/PPN1725288486/2000/0/00000001.jpg",
-                        "@type": "dctypes:Image",
+                        "id": "https://pic.sub.uni-hamburg.de/PPN1725288486/2000/0/00000001.jpg",
+                        "type": "Image",
                         "format": "image/jpeg",
-                        "height": 3024,
-                        "width": 4032
+                        "height": 2000,
+                        "width": 2199
                     },
-                    "on": "http://example.com/canvas/2"
+                    "on": "{{self-url}}/canvas/2"
                 }
             ]
         }
