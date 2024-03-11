@@ -1,0 +1,380 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "type": "Manifest",
+    "id": "https://www.deutsche-digitale-bibliothek.de/item/BGISQUG3F43FTFNBQ64YUGJGX4KYUQQ4",
+    "label": {"de": ["Kaiser Karl publiziert die ersten dreiundzwanzig Kapitel der Goldenen Bulle."]},
+    "provider": [{
+        "id": "https://www.deutsche-digitale-bibliothek.de/organization/XYMQPA4OHAYDDFYWHV6Q4RFUIISTLQJV",
+        "type": "Agent",
+        "label": {"de": ["Landesarchiv Baden-Württemberg"]},
+        "logo": [{
+            "id": "https://registrierung.deutsche-digitale-bibliothek.de/logos/00000896.png",
+            "type": "Image",
+            "format": "image/png"
+        }]
+    }],
+    "requiredStatement": {
+        "label": {"de": ["Attribution"]},
+        "value": {"de": ["Landesarchiv Baden-Württemberg"]}
+    },
+    "metadata": [
+        {
+            "label": {"de": ["Titel"]},
+            "value": {"de": ["Kaiser Karl publiziert die ersten dreiundzwanzig Kapitel der Goldenen Bulle."]}
+        },
+        {
+            "label": {"de": ["Verzeichnungsstufe"]},
+            "value": {"de": ["Archivalieneinheit"]}
+        },
+        {
+            "label": {"de": ["Signatur"]},
+            "value": {"de": ["Abt. Hauptstaatsarchiv Stuttgart, H 51 U 589"]}
+        },
+        {
+            "label": {"de": ["Kontext"]},
+            "value": {"de": ["Kaiserselekt >> Urkunden"]}
+        },
+        {
+            "label": {"de": ["Laufzeit"]},
+            "value": {"de": ["1356-01-10: 1356 Januar 10"]}
+        },
+        {
+            "label": {"de": ["Provenienz"]},
+            "value": {"de": ["Römische Kaiser und Könige"]}
+        },
+        {
+            "label": {"de": ["Archivalientyp"]},
+            "value": {"de": ["Urkunden"]}
+        },
+        {
+            "label": {"de": ["Sprache der Unterlagen"]},
+            "value": {"de": ["Lateinisch"]}
+        },
+        {
+            "label": {"de": ["Sonstige Erschließungsangaben"]},
+            "value": {"de": ["Ausstellungsort:<br>Nürnberg<br><br>Aussteller:<br>Karl IV., Kaiser<br><br>Überlieferungsart:<br>Ausfertigung<br><br>Siegelbeschreibung:<br>Goldene Bulle<br><br>Besonderheiten:<br>Libell mit 27 beschriebenen Blättern. Trierisches Exemplar.<br><br>Druck:<br>MFG Fontes Iuris 11<br><br>Publiziertes Regest:<br>RI VIII n. 2397"]}
+        },
+        {
+            "label": {"de": ["Indexbegriff Person"]},
+            "value": {"de": ["<a href='https://www.deutsche-digitale-bibliothek.de/person/gnd/118560085'>Karl IV.; Kaiser, 1316-1378<\/a>"]}
+        },
+        {
+            "label": {"de": ["Indexbegriff Person"]},
+            "value": {"de": ["Trier, Erzbischof von"]}
+        },
+        {
+            "label": {"de": ["Indexbegriff Ort"]},
+            "value": {"de": ["Nürnberg N"]}
+        },
+        {
+            "label": {"de": ["Bestand"]},
+            "value": {"de": ["Kaiserselekt"]}
+        }
+    ],
+    "homepage": [{
+        "id": "https://www.landesarchiv-bw.de/plink/?f=1-1263080",
+        "format": "text/html",
+        "type": "Text",
+        "label": {"de": ["Link zum Objekt beim Datengeber"]},
+        "language": ["de"]
+    }],
+    "seeAlso": [{
+        "id": "https://www.deutsche-digitale-bibliothek.de/item/xml/BGISQUG3F43FTFNBQ64YUGJGX4KYUQQ4",
+        "type": "Dataset",
+        "label": {"de": ["XML-Repräsentation in der DDB"]},
+        "format": "application/xml",
+        "profile": "http://www.europeana.eu/schemas/edm/EDM.xsd"
+    }],
+    "items": [
+        {
+            "id": "http://image_1-1263080-1",
+            "type": "Canvas",
+            "label": {"de": ["Schmuckkassette"]},
+            "height": 800,
+            "width": 600,
+            "items": [{
+                "id": "http://image_1-1263080-1_annotation_page",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "http://image_1-1263080-1_annotation",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "target": "http://image_1-1263080-1",
+                    "body": {
+                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/511022b8-bd3f-44d6-8fcd-158d0852412e/full/full/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/511022b8-bd3f-44d6-8fcd-158d0852412e",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }],
+                        "height": 800,
+                        "width": 600
+                    }
+                }]
+            }]
+        },
+        {
+            "id": "http://image_1-1263080-2",
+            "type": "Canvas",
+            "label": {"de": ["Einband Vorderseite"]},
+            "height": 800,
+            "width": 600,
+            "items": [{
+                "id": "http://image_1-1263080-2_annotation_page",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "http://image_1-1263080-2_annotation",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "target": "http://image_1-1263080-2",
+                    "body": {
+                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/e0b6ef47-2b20-408e-beb9-5349e92958ec/full/full/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/e0b6ef47-2b20-408e-beb9-5349e92958ec",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }],
+                        "height": 800,
+                        "width": 600
+                    }
+                }]
+            }]
+        },
+        {
+            "id": "http://image_1-1263080-3",
+            "type": "Canvas",
+            "label": {"de": ["Einband Rückseite"]},
+            "height": 800,
+            "width": 600,
+            "items": [{
+                "id": "http://image_1-1263080-3_annotation_page",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "http://image_1-1263080-3_annotation",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "target": "http://image_1-1263080-3",
+                    "body": {
+                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/00c8e669-e970-40fc-af23-a2847062c72f/full/full/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/00c8e669-e970-40fc-af23-a2847062c72f",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }],
+                        "height": 800,
+                        "width": 600
+                    }
+                }]
+            }]
+        },
+        {
+            "id": "http://image_1-1263080-4",
+            "type": "Canvas",
+            "label": {"de": ["Einband Innen"]},
+            "height": 800,
+            "width": 600,
+            "items": [{
+                "id": "http://image_1-1263080-4_annotation_page",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "http://image_1-1263080-4_annotation",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "target": "http://image_1-1263080-4",
+                    "body": {
+                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8265e64b-3c47-40a7-b3d1-7deac3f17574/full/full/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/8265e64b-3c47-40a7-b3d1-7deac3f17574",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }],
+                        "height": 800,
+                        "width": 600
+                    }
+                }]
+            }]
+        },
+        {
+            "id": "http://image_1-1263080-5",
+            "type": "Canvas",
+            "label": {"de": ["Leerseite"]},
+            "height": 800,
+            "width": 600,
+            "items": [{
+                "id": "http://image_1-1263080-5_annotation_page",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "http://image_1-1263080-5_annotation",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "target": "http://image_1-1263080-5",
+                    "body": {
+                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/6b5dcd76-3513-40c7-8183-8eaf7a31661b/full/full/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/6b5dcd76-3513-40c7-8183-8eaf7a31661b",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }],
+                        "height": 800,
+                        "width": 600
+                    }
+                }]
+            }]
+        },
+        {
+            "id": "http://image_1-1263080-6",
+            "type": "Canvas",
+            "label": {"de": ["fol 01r"]},
+            "height": 800,
+            "width": 600,
+            "items": [{
+                "id": "http://image_1-1263080-6_annotation_page",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "http://image_1-1263080-6_annotation",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "target": "http://image_1-1263080-6",
+                    "body": {
+                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/83b0a5ef-2342-42e1-8ffc-3f0c224bb2f9/full/full/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/83b0a5ef-2342-42e1-8ffc-3f0c224bb2f9",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }],
+                        "height": 800,
+                        "width": 600
+                    }
+                }]
+            }]
+        },
+        {
+            "id": "http://image_1-1263080-7",
+            "type": "Canvas",
+            "label": {"de": ["fol 01v-02r"]},
+            "height": 800,
+            "width": 600,
+            "items": [{
+                "id": "http://image_1-1263080-7_annotation_page",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "http://image_1-1263080-7_annotation",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "target": "http://image_1-1263080-7",
+                    "body": {
+                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/d50a7573-953a-4ccd-8679-fdd1ae9330e7/full/full/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/d50a7573-953a-4ccd-8679-fdd1ae9330e7",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }],
+                        "height": 800,
+                        "width": 600
+                    }
+                }]
+            }]
+        },
+        {
+            "id": "http://image_1-1263080-8",
+            "type": "Canvas",
+            "label": {"de": ["fol 02v-03r"]},
+            "height": 800,
+            "width": 600,
+            "items": [{
+                "id": "http://image_1-1263080-8_annotation_page",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "http://image_1-1263080-8_annotation",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "target": "http://image_1-1263080-8",
+                    "body": {
+                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/c0daa0a4-aea0-4c6d-a590-f5c89e4617e3/full/full/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/c0daa0a4-aea0-4c6d-a590-f5c89e4617e3",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }],
+                        "height": 800,
+                        "width": 600
+                    }
+                }]
+            }]
+        },
+        {
+            "id": "http://image_1-1263080-9",
+            "type": "Canvas",
+            "label": {"de": ["fol 03v-04r"]},
+            "height": 800,
+            "width": 600,
+            "items": [{
+                "id": "http://image_1-1263080-9_annotation_page",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "http://image_1-1263080-9_annotation",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "target": "http://image_1-1263080-9",
+                    "body": {
+                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/070dd1df-dd03-4c76-af2f-edd459b4e460/full/full/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/070dd1df-dd03-4c76-af2f-edd459b4e460",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }],
+                        "height": 800,
+                        "width": 600
+                    }
+                }]
+            }]
+        },
+        {
+            "id": "http://image_1-1263080-10",
+            "type": "Canvas",
+            "label": {"de": ["fol 04v-05r"]},
+            "height": 800,
+            "width": 600,
+            "items": [{
+                "id": "http://image_1-1263080-10_annotation_page",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "http://image_1-1263080-10_annotation",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "target": "http://image_1-1263080-10",
+                    "body": {
+                        "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/4924ed38-62bc-4e3e-9dba-5764a5e9ff68/full/full/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/4924ed38-62bc-4e3e-9dba-5764a5e9ff68",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }],
+                        "height": 800,
+                        "width": 600
+                    }
+                }]
+            }]
+        }
+    ]
+}
