@@ -177,19 +177,19 @@
                       "label": { "none":[ "163, 15.07.1880 13" ] },
                       "items": [
                         {
-                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0001",
+                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0001",
                           "type": "Canvas"
                         },
                         {
-                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0002",
+                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0002",
                           "type": "Canvas"
                         },
                         {
-                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0003",
+                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0003",
                           "type": "Canvas"
                         },
                         {
-                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0004",
+                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0004",
                           "type": "Canvas"
                         }
                       ]
@@ -197,19 +197,19 @@
                 } ]
             },
             {
-              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0001",
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0001",
               "type": "Canvas"
             },
             {
-              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0002",
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0002",
               "type": "Canvas"
             },
             {
-              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0003",
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0003",
               "type": "Canvas"
             },
             {
-              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0004",
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0004",
               "type": "Canvas"
             }
           ]
