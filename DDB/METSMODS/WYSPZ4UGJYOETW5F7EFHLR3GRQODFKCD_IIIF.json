@@ -1,0 +1,246 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/",
+  "type": "Manifest",
+  "label": { "de":[
+      "Bergedorfer Zeitung und Anzeiger 1",
+      "Bergedorfer Zeitung und Anzeiger 2"
+    ] },
+  "requiredStatement": {
+    "label": {
+      "de": [ "Zuschreibung" ],
+      "en": [ "Attribution" ]
+    },
+    "value": { "none":[ "<a href=\"https://resolver.sub.uni-hamburg.de/kitodo/PPN1012343960_18800715\" target=\"_blank\">Staats- und Universitätsbibliothek Hamburg 1</a>" ] }
+  },
+  "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "provider": [ {
+      "id": "https://api.deutsche-digitale-bibliothek.de/2/items/EGCA66RQCQZMVMLIFI74MXN4PU2Q6AF3",
+      "type": "Agent",
+      "label": { "none":[ "Peter Tamm Sen. Stiftung" ] },
+      "homepage": [ {
+          "id": "https://www.imm-hamburg.de/",
+          "type": "Text",
+          "label": { "none":[ "Peter Tamm Sen. Stiftung" ] },
+          "format": "text/html"
+        } ],
+      "logo": [ {
+          "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/824d2afc-fe8f-4b09-b28b-01ae860fe10c/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpg",
+          "service": [ {
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/image/2/824d2afc-fe8f-4b09-b28b-01ae860fe10c",
+              "type": "ImageService2",
+              "profile": "level2"
+            } ]
+        } ],
+      "seeAlso": [ {
+          "id": "https://api.deutsche-digitale-bibliothek.de/2/items/EGCA66RQCQZMVMLIFI74MXN4PU2Q6AF3",
+          "type": "Text",
+          "label": { "none":[ "Peter Tamm Sen. Stiftung bei der DeutschenDigitalen Bibliothek" ] }
+        } ]
+    } ],
+  "items": [
+    {
+      "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0001",
+      "type": "Canvas",
+      "items": [ {
+          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0001/1",
+          "type": "AnnotationPage",
+          "items": [ {
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0001/annotation/1",
+              "type": "Annotation",
+              "body": {
+                "id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800715%2F00000001.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5300,
+                "service": [ {
+                    "id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800715%2F00000001.tif",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  } ],
+                "width": 3710
+              },
+              "motivation": "painting",
+              "target": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0001"
+            } ]
+        } ],
+      "height": 5300,
+      "width": 3710
+    },
+    {
+      "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0002",
+      "type": "Canvas",
+      "items": [ {
+          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0002/1",
+          "type": "AnnotationPage",
+          "items": [ {
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0002/annotation/1",
+              "type": "Annotation",
+              "body": {
+                "id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800715%2F00000002.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5300,
+                "service": [ {
+                    "id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800715%2F00000002.tif",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  } ],
+                "width": 3710
+              },
+              "motivation": "painting",
+              "target": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0002"
+            } ]
+        } ],
+      "height": 5300,
+      "width": 3710
+    },
+    {
+      "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0003",
+      "type": "Canvas",
+      "items": [ {
+          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0003/1",
+          "type": "AnnotationPage",
+          "items": [ {
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0003/annotation/1",
+              "type": "Annotation",
+              "body": {
+                "id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800715%2F00000003.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5300,
+                "service": [ {
+                    "id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800715%2F00000003.tif",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  } ],
+                "width": 3710
+              },
+              "motivation": "painting",
+              "target": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0003"
+            } ]
+        } ],
+      "height": 5300,
+      "width": 3710
+    },
+    {
+      "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0004",
+      "type": "Canvas",
+      "items": [ {
+          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0004/1",
+          "type": "AnnotationPage",
+          "items": [ {
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0004/annotation/1",
+              "type": "Annotation",
+              "body": {
+                "id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800715%2F00000004.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5300,
+                "service": [ {
+                    "id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800715%2F00000004.tif",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  } ],
+                "width": 3710
+              },
+              "motivation": "painting",
+              "target": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/canvas/PHYS_0004"
+            } ]
+        } ],
+      "height": 5300,
+      "width": 3710
+    }
+  ],
+  "structures": [ {
+      "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/LOG_0007",
+      "type": "Range",
+      "label": { "none":[ "Bergedorfer Zeitung und Anzeiger" ] },
+      "items": [ {
+          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/LOG_0008",
+          "type": "Range",
+          "label": { "none":[ "1880" ] },
+          "items": [
+            {
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/LOG_0009",
+              "type": "Range",
+              "label": { "none":[ "1880-07" ] },
+              "items": [ {
+                  "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/LOG_0010",
+                  "type": "Range",
+                  "label": { "none":[ "1880-07-15" ] },
+                  "items": [ {
+                      "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/LOG_0011",
+                      "type": "Range",
+                      "label": { "none":[ "163, 15.07.1880 13" ] },
+                      "items": [
+                        {
+                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0001",
+                          "type": "Canvas"
+                        },
+                        {
+                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0002",
+                          "type": "Canvas"
+                        },
+                        {
+                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0003",
+                          "type": "Canvas"
+                        },
+                        {
+                          "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0004",
+                          "type": "Canvas"
+                        }
+                      ]
+                    } ]
+                } ]
+            },
+            {
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0001",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0002",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0003",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO/range/PHYS_0004",
+              "type": "Canvas"
+            }
+          ]
+        } ]
+    } ],
+  "thumbnail": [ {
+      "id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800715%2F00000001.ptif/full/200,/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [ {
+          "id": "https://pic.sub.uni-hamburg.de/iiif/2/PPN1012343960_18800715%2F00000001.ptif",
+          "type": "ImageService2",
+          "profile": "level2"
+        } ]
+    } ],
+  "homepage": {
+    "id": "https://www.deutsche-digitale-bibliothek.de/item/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO",
+    "type": "Text",
+    "label": { "none":[ "Deutsche Digitale Bibliothek" ] },
+    "format": "text/html"
+  },
+  "seeAlso": {
+    "id": "https://api.deutsche-digitale-bibliothek.de/items/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO",
+    "type": "Dataset",
+    "format": "application/xml",
+    "profile": "https://www.deutsche-digitale-bibliothek.de/ns/cortex"
+  },
+  "start": {
+    "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO//canvas/PHYS_0001",
+    "type": "Canvas"
+  },
+  "behavior": [ "individuals" ],
+  "viewingDirection": "left-to-right"
+}
