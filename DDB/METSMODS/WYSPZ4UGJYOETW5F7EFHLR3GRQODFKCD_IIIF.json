@@ -37,7 +37,7 @@
       "seeAlso": [ {
           "id": "https://api.deutsche-digitale-bibliothek.de/2/items/EGCA66RQCQZMVMLIFI74MXN4PU2Q6AF3",
           "type": "Text",
-          "label": { "none":[ "Peter Tamm Sen. Stiftung bei der DeutschenDigitalen Bibliothek" ] }
+          "label": { "de":[ "Peter Tamm Sen. Stiftung bei der DeutschenDigitalen Bibliothek" ] }
         } ]
     } ],
   "items": [
@@ -225,18 +225,18 @@
           "profile": "level2"
         } ]
     } ],
-  "homepage": {
-    "id": "https://www.deutsche-digitale-bibliothek.de/item/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO",
-    "type": "Text",
-    "label": { "none":[ "Deutsche Digitale Bibliothek" ] },
-    "format": "text/html"
-  },
-  "seeAlso": {
-    "id": "https://api.deutsche-digitale-bibliothek.de/items/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO",
-    "type": "Dataset",
-    "format": "application/xml",
-    "profile": "https://www.deutsche-digitale-bibliothek.de/ns/cortex"
-  },
+  "homepage": [ {
+      "id": "https://www.deutsche-digitale-bibliothek.de/item/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO",
+      "type": "Text",
+      "label": { "none":[ "Deutsche Digitale Bibliothek" ] },
+      "format": "text/html"
+    } ],
+  "seeAlso": [ {
+      "id": "https://api.deutsche-digitale-bibliothek.de/items/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO",
+      "type": "Dataset",
+      "format": "application/xml",
+      "profile": "https://www.deutsche-digitale-bibliothek.de/ns/cortex"
+    } ],
   "start": {
     "id": "https://iiif.deutsche-digitale-bibliothek.de/presentation/3/TTNVQWVXY3AKILUHHULXB5H2ZHZGEKOO//canvas/PHYS_0001",
     "type": "Canvas"
